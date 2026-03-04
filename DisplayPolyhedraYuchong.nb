@@ -460,8 +460,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Zn1pdb", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-1.\
+   RowBox[{"\"\</path-to-file/Zn-1.\
 pdb\>\"", ",", " ", 
     RowBox[{"{", 
      RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
@@ -11194,8 +11193,7 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"Zn1", " ", "=", " ", 
    RowBox[{"Import", "[", 
-    RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-1.\
+    RowBox[{"\"\</path-to-file/Zn-1.\
 xyz\>\"", ",", " ", "\"\<Table\>\""}], "]"}]}], ";"}], "\n", 
  RowBox[{
   RowBox[{"metals", " ", "=", " ", 
@@ -11301,8 +11299,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Zn1Step2", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-1_\
+   RowBox[{"\"\</path-to-file/Zn-1_\
 Connections.pdb\>\"", ",", " ", 
     RowBox[{"{", 
      RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
@@ -11357,8 +11354,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Zn1Step3", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-1_\
+   RowBox[{"\"\</path-to-file/Zn-1_\
 Connections2.pdb\>\"", ",", " ", 
     RowBox[{"{", 
      RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
@@ -11449,8 +11445,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Zn2Step4", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-1_\
+   RowBox[{"\"\</path-to-file/Zn-1_\
 Connections2.pdb\>\"", ",", " ", "\"\<Molecule\>\""}], "]"}]}]], "Code",
  CellChangeTimes->{{3.892123227004575*^9, 3.8921232495675373`*^9}, {
    3.892123339397784*^9, 3.892123340170433*^9}, 3.8921239244522867`*^9, {
@@ -14398,8 +14393,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Zn2pdb", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-2.\
+   RowBox[{"\"\</path-to-file/Zn-2.\
 pdb\>\"", ",", " ", 
     RowBox[{"{", 
      RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
@@ -22467,8 +22461,7 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"Zn2", " ", "=", " ", 
    RowBox[{"Import", "[", 
-    RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-2.\
+    RowBox[{"\"\</path-to-file/Zn-2.\
 xyz\>\"", ",", " ", "\"\<Table\>\""}], "]"}]}], ";"}], "\n", 
  RowBox[{
   RowBox[{"metals", " ", "=", " ", 
@@ -22558,16 +22551,14 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"Zn2Step2", " ", "=", " ", 
    RowBox[{"Import", "[", 
-    RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-2_\
+    RowBox[{"\"\</path-to-file/Zn-2_\
 Connections.pdb\>\"", ",", " ", 
      RowBox[{"{", 
       RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
     "]"}]}], ";"}], "\n", 
  RowBox[{"Zn2Step3", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-2_\
+   RowBox[{"\"\</path-to-file/Zn-2_\
 Connections2.pdb\>\"", ",", " ", 
     RowBox[{"{", 
      RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
@@ -22575,8 +22566,7 @@ Connections2.pdb\>\"", ",", " ",
  RowBox[{
   RowBox[{"Zn2Step4", " ", "=", " ", 
    RowBox[{"Import", "[", 
-    RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-2_\
+    RowBox[{"\"\</path-to-file/Zn-2_\
 Connections2.pdb\>\"", ",", " ", "\"\<Molecule\>\""}], "]"}]}], ";"}], "\n", 
  RowBox[{
   RowBox[{"Zn2Step5a", " ", "=", " ", 
@@ -23934,8 +23924,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Zn3pdb", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-3.\
+   RowBox[{"\"\</path-to-file/Zn-3.\
 pdb\>\"", ",", " ", 
     RowBox[{"{", 
      RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
@@ -30708,8 +30697,7 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"Zn3", " ", "=", " ", 
    RowBox[{"Import", "[", 
-    RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-3.\
+    RowBox[{"\"\</path-to-file/Zn-3.\
 xyz\>\"", ",", " ", "\"\<Table\>\""}], "]"}]}], ";"}], "\n", 
  RowBox[{
   RowBox[{"metals", " ", "=", " ", 
@@ -30779,16 +30767,14 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"Zn3Step2", " ", "=", " ", 
    RowBox[{"Import", "[", 
-    RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-3_\
+    RowBox[{"\"\</path-to-file/Zn-3_\
 Connections.pdb\>\"", ",", " ", 
      RowBox[{"{", 
       RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
     "]"}]}], ";"}], "\n", 
  RowBox[{"Zn3Step3", " ", "=", " ", 
   RowBox[{"Import", "[", 
-   RowBox[{"\"\</Users/paulateeuwen/Library/CloudStorage/OneDrive-\
-UniversityofCambridge/PhD/Nitschke/Modelling/Mathematica/YuchongCages/Zn-3_\
+   RowBox[{"\"\</path-to-file/Zn-3_\
 Connections2.pdb\>\"", ",", " ", 
     RowBox[{"{", 
      RowBox[{"\"\<PDB\>\"", ",", " ", "\"\<Graphics3D\>\""}], "}"}]}], 
@@ -31138,4 +31124,5 @@ Cell[1835229, 30995, 168, 3, 33, "Text",ExpressionUUID->"0a8437b6-1fa7-4dae-bcf4
 }
 ]
 *)
+
 
