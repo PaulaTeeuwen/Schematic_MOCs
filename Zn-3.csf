@@ -1,0 +1,4460 @@
+molstructWIN_Mon_Jun_12_23:50:33_BST_2023  0x0000
+Written by SCIGRESS on Mon Jun 12 23:50:33 BST 2023
+Using Data Dictionary Mon Jun 12 23:50:33 BST 2023
+Version 5
+local_transform
+1.000000 0.000000 0.000000 0.000000
+0.000000 1.000000 0.000000 0.000000
+0.000000 0.000000 -1.000000 0.000000
+0.000000 0.000000 0.000000 1.000000
+object_class 3DDLPView
+property BackClip SCIGRESS1 noUnit 0 1 FLOAT
+property EyePosition SCIGRESS1 noUnit 0 1 FLOAT
+property EyeSeparation SCIGRESS1 noUnit 0 1 FLOAT
+property FasterMotion SCIGRESS1 noUnit 0 1 INTEGER
+property FrontClip SCIGRESS1 noUnit 0 1 FLOAT
+property HighQualitySpheres SCIGRESS1 noUnit 0 1 INTEGER
+property LineWidthIdx SCIGRESS1 noUnit 0 1 INTEGER
+property PrintOptions SCIGRESS1 noUnit 0 1 INTEGER
+property Projection SCIGRESS1 noUnit 0 1 INTEGER
+property Show3DCursor SCIGRESS1 noUnit 0 1 INTEGER
+property SpecialColors SCIGRESS1 noUnit 0 3 HEX
+property SpecularHighlight SCIGRESS1 noUnit 0 1 INTEGER
+property Stereo SCIGRESS1 noUnit 0 1 INTEGER
+property SwapLeftRightBuffers SCIGRESS1 noUnit 0 1 INTEGER
+property TBActive SCIGRESS1 noUnit 0 1 INTEGER
+property TBCenterRot SCIGRESS1 noUnit 0 1 INTEGER
+property TBManipCursor SCIGRESS1 noUnit 0 1 INTEGER
+property TextWidthIdx SCIGRESS1 noUnit 0 1 INTEGER
+property TextureMapping SCIGRESS1 noUnit 0 1 INTEGER
+property UserColors SCIGRESS1 noUnit 0 12 HEX
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property transform SCIGRESS1 noUnit 4 16 FLOAT
+ID    BackClip EyePosition EyeSeparation FasterMotion  FrontClip
+ 1        -3.8     8.6e+01             5            0    4.1e+01
+property_flags:
+ID  HighQualitySpheres LineWidthIdx PrintOptions Projection Show3DCursor
+ 1                   0            1            0          1            0
+property_flags:
+ID       SpecialColors SpecularHighlight Stereo SwapLeftRightBuffers TBActive
+ 1  0xffffff 0x0 0x0                 0      0                    0        1
+property_flags:
+ID  TBCenterRot TBManipCursor TextWidthIdx TextureMapping
+ 1            0             0            1              0
+property_flags:
+ID  UserColors
+ 1  0xffffff 0xb2b2b2 0xff 0x19ffff 0x19ff00 0xff1919 0xff19ff
+ 1  0xffff19 0x604ccc 0xc59b2 0x4c99ff 0x8c1956
+property_flags:
+ID  dflag
+ 1    0x0
+property_flags:
+ID  transform
+ 1     0.12716    0.99137   -0.03195          0   -0.59813    0.10234    0.79484
+ 1           0    0.79124   -0.08196    0.60599          0   -1.68465   -0.74118
+ 1   -96.42911          1
+property_flags:
+object_class AtomView
+property ColorBy SCIGRESS1 noUnit 0 1 INTEGER
+property ColorIndex SCIGRESS1 noUnit 0 1 INTEGER
+property ColorLabelBy SCIGRESS1 noUnit 0 1 INTEGER
+property GroupColor SCIGRESS1 noUnit 0 1 INTEGER
+property PolyhedraScaleFactor SCIGRESS1 noUnit 3 1 FLOAT
+property RadiusType SCIGRESS1 noUnit 0 1 INTEGER
+property ScaleFactor SCIGRESS1 angstrom 3 1 FLOAT
+property ShapeType SCIGRESS1 noUnit 0 1 INTEGER
+property SphereType SCIGRESS1 noUnit 0 1 INTEGER
+property ThermalProbability SCIGRESS1 noUnit 0 1 FLOAT
+property ViewOptions SCIGRESS1 noUnit 0 1 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+ID  ColorBy ColorIndex ColorLabelBy GroupColor PolyhedraScaleFactor RadiusType
+ 1        0          1            1          5                    1          0
+property_flags:
+ID  ScaleFactor ShapeType SphereType ThermalProbability ViewOptions dflag
+ 1          0.2         0          0                0.5         864   0x0
+property_flags:
+object_class BondView
+property ColorBy SCIGRESS1 noUnit 0 1 INTEGER
+property ColorIndex SCIGRESS1 noUnit 0 1 INTEGER
+property DrawType SCIGRESS1 noUnit 0 1 INTEGER
+property RadiusType SCIGRESS1 noUnit 0 1 INTEGER
+property ScaleFactor SCIGRESS1 angstrom 3 1 FLOAT
+property Visible SCIGRESS1 noUnit 0 1 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+ID  ColorBy ColorIndex DrawType RadiusType ScaleFactor Visible dflag
+ 1        0          4        3          0         0.1       1   0x0
+property_flags:
+object_class MoleculeView
+property AutobeautifyElectrons SCIGRESS1 noUnit 0 1 INTEGER
+property BackboneStyle SCIGRESS1 noUnit 0 1 NAME
+property ElemHistory SCIGRESS1 noUnit 0 7 INTEGER
+property ResBoxColor SCIGRESS1 noUnit 0 1 INTEGER
+property ResTypeMethod SCIGRESS1 noUnit 0 1 INTEGER
+property SelSimOpts SCIGRESS1 noUnit 0 7 INTEGER
+property SeqPropMax SCIGRESS1 noUnit 0 1 FLOAT
+property SeqPropMin SCIGRESS1 noUnit 0 1 FLOAT
+property SeqProtocol SCIGRESS1 noUnit 0 1 INTEGER
+property ShowAsymmetricCell SCIGRESS1 noUnit 0 1 INTEGER
+property ShowDipole SCIGRESS1 noUnit 0 1 INTEGER
+property ShowEExcep SCIGRESS1 noUnit 0 1 INTEGER
+property ShowElectrons SCIGRESS1 noUnit 0 1 INTEGER
+property ShowHExcep SCIGRESS1 noUnit 0 1 INTEGER
+property ShowHydrogens SCIGRESS1 noUnit 0 1 INTEGER
+property ShowLatticeBoundaries SCIGRESS1 noUnit 0 1 INTEGER
+property ShowNonCarbonHydrogen SCIGRESS1 noUnit 0 1 INTEGER
+property ShowRibbon SCIGRESS1 noUnit 0 1 INTEGER
+property ShowScrollbar SCIGRESS1 noUnit 0 1 INTEGER
+property ShowUnitCell SCIGRESS1 noUnit 0 1 INTEGER
+property chrg SCIGRESS1 charge_au 0 1 INTEGER
+property conf SCIGRESS1 noUnit 0 1 NAME
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property type SCIGRESS1 noUnit 0 1 NAME
+ID  AutobeautifyElectrons BackboneStyle    ElemHistory ResBoxColor ResTypeMethod
+ 1                       0             none 0 6 1 8 7 9 17           0            16
+property_flags:
+ 1 00 01 01 01 01
+ID     SelSimOpts SeqPropMax SeqPropMin SeqProtocol ShowAsymmetricCell
+ 1  1 1 0 0 0 1 0          0          0           0                  0
+property_flags:
+ID  ShowDipole ShowEExcep ShowElectrons ShowHExcep ShowHydrogens
+ 1            0          1              0          1             1
+property_flags:
+ 1 00 01 00 01 01
+ID  ShowLatticeBoundaries ShowNonCarbonHydrogen ShowRibbon ShowScrollbar
+ 1                      0                      0          1             1
+property_flags:
+ 1 01 00 01 01
+ID  ShowUnitCell chrg conf dflag type
+ 1             0    0    _   0x0    _
+property_flags:
+ 1 01 01 00 01 00
+object_class WindowView
+property ViewClass SCIGRESS1 noUnit 0 14 STRING
+property ViewerName SCIGRESS1 noUnit 0 32 STRING
+property WindowOrder SCIGRESS1 noUnit 0 1 INTEGER
+property WindowRect_TLBR SCIGRESS1 noUnit 0 4 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+ID       ViewClass                       ViewerName WindowOrder WindowRect_TLBR
+ 1      CViewModel                            CAChe           1    0 0 807 1051
+property_flags:
+ID  dflag
+ 1    0x0
+property_flags:
+object_class atom
+property anum SCIGRESS1 unit 0 1 INTEGER
+property chrg SCIGRESS1 charge_au 0 1 INTEGER
+property conf SCIGRESS1 noUnit 0 1 NAME
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property gchrg SCIGRESS1 charge_au 6 1 FLOAT
+property name SCIGRESS1 noUnit 0 32 STRING
+property rflag SCIGRESS1 noUnit 0 1 HEX
+property sym SCIGRESS1 noUnit 0 2 STRING
+property tempFactor SCIGRESS1 noUnit 3 1 FLOAT
+property xyz_coordinates SCIGRESS1 angstrom 6 3 FLOAT
+ ID  anum chrg conf dflag      gchrg                             name rflag sym
+  1    30    0      s   0x1  0.3849136                                _    0x0  Zn
+  2    30    0      s   0x1  0.4061148                                _    0x0  Zn
+  3     7    0     sp   0x1 -0.4305004                                _    0x0   N
+  4     7    0    sp2   0x1 -0.2124779                                _    0x0   N
+  5     7    0     sp   0x1 -0.4310995                                _    0x0   N
+  6     7    0     sp   0x1 -0.4212715                                _    0x0   N
+  7     7    0     sp   0x1 -0.4126108                                _    0x0   N
+  8     7    0     sp   0x1 -0.4218828                                _    0x0   N
+  9     7    0     sp   0x1 -0.4212715                                _    0x0   N
+ 10     7    0     sp   0x1 -0.4126108                                _    0x0   N
+ 11     7    0     sp   0x1 -0.4218828                                _    0x0   N
+ 12     7    0     sp   0x1 -0.4295138                                _    0x0   N
+ 13     7    0     sp   0x1 -0.4208552                                _    0x0   N
+ 14     7    0     sp   0x1  -0.430125                                _    0x0   N
+ 15     6    0    sp2   0x1  0.0553015                                _    0x0   C
+ 16     1    0      s   0x1  0.0940918                                _    0x0   H
+ 17     6    0    sp2   0x1 -0.0337835                                _    0x0   C
+ 18     1    0      s   0x1   0.064225                                _    0x0   H
+ 19     6    0    sp2   0x1 -0.0492676                                _    0x0   C
+ 20     1    0      s   0x1  0.0625185                                _    0x0   H
+ 21     6    0    sp2   0x1   0.011839                                _    0x0   C
+ 22     6    0    sp2   0x1  0.1231111                                _    0x0   C
+ 23     6    0    sp2   0x1 -0.0509631                                _    0x0   C
+ 24     1    0      s   0x1  0.0624601                                _    0x0   H
+ 25     6    0    sp2   0x1 -0.0518668                                _    0x0   C
+ 26     1    0      s   0x1  0.0624283                                _    0x0   H
+ 27     6    0    sp2   0x1  0.0021041                                _    0x0   C
+ 28     6    0    sp2   0x1  0.0985081                                _    0x0   C
+ 29     6    0    sp2   0x1 -0.0504911                                _    0x0   C
+ 30     1    0      s   0x1   0.062474                                _    0x0   H
+ 31     6    0    sp2   0x1 -0.0346468                                _    0x0   C
+ 32     1    0      s   0x1  0.0639139                                _    0x0   H
+ 33     6    0    sp2   0x1   0.083428                                _    0x0   C
+ 34     6    0    sp2   0x1  0.0791393                                _    0x0   C
+ 35     1    0      s   0x1  0.0962249                                _    0x0   H
+ 36     6    0    sp2   0x1  0.0921305                                _    0x0   C
+ 37     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+ 38     1    0      s   0x1  0.0651009                                _    0x0   H
+ 39     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+ 40     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+ 41     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+ 42     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+ 43     1    0      s   0x1  0.0651009                                _    0x0   H
+ 44     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+ 45     1    0      s   0x1  0.0277634                                _    0x0   H
+ 46     1    0      s   0x1  0.0277634                                _    0x0   H
+ 47     1    0      s   0x1  0.0277634                                _    0x0   H
+ 48     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+ 49     1    0      s   0x1  0.0277634                                _    0x0   H
+ 50     1    0      s   0x1  0.0277634                                _    0x0   H
+ 51     1    0      s   0x1  0.0277634                                _    0x0   H
+ 52     6    0    sp2   0x1   0.056488                                _    0x0   C
+ 53     1    0      s   0x1  0.0941353                                _    0x0   H
+ 54     6    0    sp2   0x1   -0.03374                                _    0x0   C
+ 55     1    0      s   0x1  0.0642256                                _    0x0   H
+ 56     6    0    sp2   0x1 -0.0492322                                _    0x0   C
+ 57     1    0      s   0x1   0.062519                                _    0x0   H
+ 58     6    0    sp2   0x1  0.0128864                                _    0x0   C
+ 59     6    0    sp2   0x1  0.1349352                                _    0x0   C
+ 60     6    0    sp2   0x1 -0.0508959                                _    0x0   C
+ 61     1    0      s   0x1   0.062461                                _    0x0   H
+ 62     6    0    sp2   0x1 -0.0508954                                _    0x0   C
+ 63     1    0      s   0x1   0.062461                                _    0x0   H
+ 64     6    0    sp2   0x1  0.0129264                                _    0x0   C
+ 65     6    0    sp2   0x1  0.1356067                                _    0x0   C
+ 66     6    0    sp2   0x1 -0.0485608                                _    0x0   C
+ 67     1    0      s   0x1  0.0625389                                _    0x0   H
+ 68     6    0    sp2   0x1 -0.0237963                                _    0x0   C
+ 69     1    0      s   0x1  0.0649291                                _    0x0   H
+ 70     6    0    sp2   0x1  0.1205518                                _    0x0   C
+ 71     6    0    sp2   0x1  0.0909981                                _    0x0   C
+ 72     1    0      s   0x1  0.0973194                                _    0x0   H
+ 73     6    0    sp2   0x1  0.0933143                                _    0x0   C
+ 74     6    0    sp2   0x1   -0.02367                                _    0x0   C
+ 75     1    0      s   0x1  0.0651015                                _    0x0   H
+ 76     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+ 77     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+ 78     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+ 79     6    0    sp2   0x1   -0.02367                                _    0x0   C
+ 80     1    0      s   0x1  0.0651015                                _    0x0   H
+ 81     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+ 82     1    0      s   0x1  0.0277634                                _    0x0   H
+ 83     1    0      s   0x1  0.0277634                                _    0x0   H
+ 84     1    0      s   0x1  0.0277634                                _    0x0   H
+ 85     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+ 86     1    0      s   0x1  0.0277634                                _    0x0   H
+ 87     1    0      s   0x1  0.0277634                                _    0x0   H
+ 88     1    0      s   0x1  0.0277634                                _    0x0   H
+ 89     6    0    sp2   0x1   0.056488                                _    0x0   C
+ 90     1    0      s   0x1  0.0941353                                _    0x0   H
+ 91     6    0    sp2   0x1   -0.03374                                _    0x0   C
+ 92     1    0      s   0x1  0.0642256                                _    0x0   H
+ 93     6    0    sp2   0x1 -0.0492322                                _    0x0   C
+ 94     1    0      s   0x1   0.062519                                _    0x0   H
+ 95     6    0    sp2   0x1  0.0128864                                _    0x0   C
+ 96     6    0    sp2   0x1  0.1349352                                _    0x0   C
+ 97     6    0    sp2   0x1 -0.0508959                                _    0x0   C
+ 98     1    0      s   0x1   0.062461                                _    0x0   H
+ 99     6    0    sp2   0x1 -0.0508954                                _    0x0   C
+100     1    0      s   0x1   0.062461                                _    0x0   H
+101     6    0    sp2   0x1  0.0129264                                _    0x0   C
+102     6    0    sp2   0x1  0.1356067                                _    0x0   C
+103     6    0    sp2   0x1 -0.0485608                                _    0x0   C
+104     1    0      s   0x1  0.0625389                                _    0x0   H
+105     6    0    sp2   0x1 -0.0237963                                _    0x0   C
+106     1    0      s   0x1  0.0649291                                _    0x0   H
+107     6    0    sp2   0x1  0.1205518                                _    0x0   C
+108     6    0    sp2   0x1  0.0909981                                _    0x0   C
+109     1    0      s   0x1  0.0973194                                _    0x0   H
+110     6    0    sp2   0x1  0.0933143                                _    0x0   C
+111     6    0    sp2   0x1   -0.02367                                _    0x0   C
+112     1    0      s   0x1  0.0651015                                _    0x0   H
+113     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+114     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+115     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+116     6    0    sp2   0x1   -0.02367                                _    0x0   C
+117     1    0      s   0x1  0.0651015                                _    0x0   H
+118     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+119     1    0      s   0x1  0.0277634                                _    0x0   H
+120     1    0      s   0x1  0.0277634                                _    0x0   H
+121     1    0      s   0x1  0.0277634                                _    0x0   H
+122     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+123     1    0      s   0x1  0.0277634                                _    0x0   H
+124     1    0      s   0x1  0.0277634                                _    0x0   H
+125     1    0      s   0x1  0.0277634                                _    0x0   H
+126     6    0    sp2   0x1  0.0553449                                _    0x0   C
+127     1    0      s   0x1  0.0940923                                _    0x0   H
+128     6    0    sp2   0x1 -0.0337825                                _    0x0   C
+129     1    0      s   0x1   0.064225                                _    0x0   H
+130     6    0    sp2   0x1 -0.0492333                                _    0x0   C
+131     1    0      s   0x1   0.062519                                _    0x0   H
+132     6    0    sp2   0x1  0.0128423                                _    0x0   C
+133     6    0    sp2   0x1  0.1337523                                _    0x0   C
+134     6    0    sp2   0x1 -0.0508965                                _    0x0   C
+135     1    0      s   0x1   0.062461                                _    0x0   H
+136     6    0    sp2   0x1  -0.050896                                _    0x0   C
+137     1    0      s   0x1   0.062461                                _    0x0   H
+138     6    0    sp2   0x1  0.0128823                                _    0x0   C
+139     6    0    sp2   0x1  0.1344241                                _    0x0   C
+140     6    0    sp2   0x1  -0.048562                                _    0x0   C
+141     1    0      s   0x1  0.0625389                                _    0x0   H
+142     6    0    sp2   0x1 -0.0238402                                _    0x0   C
+143     1    0      s   0x1  0.0649286                                _    0x0   H
+144     6    0    sp2   0x1  0.1193692                                _    0x0   C
+145     6    0    sp2   0x1   0.089813                                _    0x0   C
+146     1    0      s   0x1  0.0972754                                _    0x0   H
+147     6    0    sp2   0x1  0.0921733                                _    0x0   C
+148     6    0    sp2   0x1  -0.023713                                _    0x0   C
+149     1    0      s   0x1  0.0651009                                _    0x0   H
+150     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+151     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+152     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+153     6    0    sp2   0x1  -0.023713                                _    0x0   C
+154     1    0      s   0x1  0.0651009                                _    0x0   H
+155     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+156     1    0      s   0x1  0.0277634                                _    0x0   H
+157     1    0      s   0x1  0.0277634                                _    0x0   H
+158     1    0      s   0x1  0.0277634                                _    0x0   H
+159     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+160     1    0      s   0x1  0.0277634                                _    0x0   H
+161     1    0      s   0x1  0.0277634                                _    0x0   H
+162     1    0      s   0x1  0.0277634                                _    0x0   H
+163     5    0    sp2   0x1   0.064536                                _    0x0   B
+164     5    0    sp2   0x1   0.064536                                _    0x0   B
+165     7    0     sp   0x1 -0.4295138                                _    0x0   N
+166     7    0     sp   0x1 -0.4208552                                _    0x0   N
+167     7    0     sp   0x1  -0.430125                                _    0x0   N
+168     6    0    sp2   0x1  0.0553449                                _    0x0   C
+169     1    0      s   0x1  0.0940923                                _    0x0   H
+170     6    0    sp2   0x1 -0.0337825                                _    0x0   C
+171     1    0      s   0x1   0.064225                                _    0x0   H
+172     6    0    sp2   0x1 -0.0492333                                _    0x0   C
+173     1    0      s   0x1   0.062519                                _    0x0   H
+174     6    0    sp2   0x1  0.0128423                                _    0x0   C
+175     6    0    sp2   0x1  0.1337523                                _    0x0   C
+176     6    0    sp2   0x1 -0.0508965                                _    0x0   C
+177     1    0      s   0x1   0.062461                                _    0x0   H
+178     6    0    sp2   0x1  -0.050896                                _    0x0   C
+179     1    0      s   0x1   0.062461                                _    0x0   H
+180     6    0    sp2   0x1  0.0128823                                _    0x0   C
+181     6    0    sp2   0x1  0.1344241                                _    0x0   C
+182     6    0    sp2   0x1  -0.048562                                _    0x0   C
+183     1    0      s   0x1  0.0625389                                _    0x0   H
+184     6    0    sp2   0x1 -0.0238402                                _    0x0   C
+185     1    0      s   0x1  0.0649286                                _    0x0   H
+186     6    0    sp2   0x1  0.1193692                                _    0x0   C
+187     6    0    sp2   0x1   0.089813                                _    0x0   C
+188     1    0      s   0x1  0.0972754                                _    0x0   H
+189     6    0    sp2   0x1  0.0921733                                _    0x0   C
+190     6    0    sp2   0x1  -0.023713                                _    0x0   C
+191     1    0      s   0x1  0.0651009                                _    0x0   H
+192     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+193     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+194     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+195     6    0    sp2   0x1  -0.023713                                _    0x0   C
+196     1    0      s   0x1  0.0651009                                _    0x0   H
+197     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+198     1    0      s   0x1  0.0277634                                _    0x0   H
+199     1    0      s   0x1  0.0277634                                _    0x0   H
+200     1    0      s   0x1  0.0277634                                _    0x0   H
+201     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+202     1    0      s   0x1  0.0277634                                _    0x0   H
+203     1    0      s   0x1  0.0277634                                _    0x0   H
+204     1    0      s   0x1  0.0277634                                _    0x0   H
+205     7    0     sp   0x1 -0.4295138                                _    0x0   N
+206     7    0     sp   0x1 -0.4208552                                _    0x0   N
+207     7    0     sp   0x1  -0.430125                                _    0x0   N
+208     6    0    sp2   0x1  0.0553449                                _    0x0   C
+209     1    0      s   0x1  0.0940923                                _    0x0   H
+210     6    0    sp2   0x1 -0.0337825                                _    0x0   C
+211     1    0      s   0x1   0.064225                                _    0x0   H
+212     6    0    sp2   0x1 -0.0492333                                _    0x0   C
+213     1    0      s   0x1   0.062519                                _    0x0   H
+214     6    0    sp2   0x1  0.0128423                                _    0x0   C
+215     6    0    sp2   0x1  0.1337523                                _    0x0   C
+216     6    0    sp2   0x1 -0.0508965                                _    0x0   C
+217     1    0      s   0x1   0.062461                                _    0x0   H
+218     6    0    sp2   0x1  -0.050896                                _    0x0   C
+219     1    0      s   0x1   0.062461                                _    0x0   H
+220     6    0    sp2   0x1  0.0128823                                _    0x0   C
+221     6    0    sp2   0x1  0.1344241                                _    0x0   C
+222     6    0    sp2   0x1  -0.048562                                _    0x0   C
+223     1    0      s   0x1  0.0625389                                _    0x0   H
+224     6    0    sp2   0x1 -0.0238402                                _    0x0   C
+225     1    0      s   0x1  0.0649286                                _    0x0   H
+226     6    0    sp2   0x1  0.1193692                                _    0x0   C
+227     6    0    sp2   0x1   0.089813                                _    0x0   C
+228     1    0      s   0x1  0.0972754                                _    0x0   H
+229     6    0    sp2   0x1  0.0921733                                _    0x0   C
+230     6    0    sp2   0x1  -0.023713                                _    0x0   C
+231     1    0      s   0x1  0.0651009                                _    0x0   H
+232     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+233     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+234     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+235     6    0    sp2   0x1  -0.023713                                _    0x0   C
+236     1    0      s   0x1  0.0651009                                _    0x0   H
+237     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+238     1    0      s   0x1  0.0277634                                _    0x0   H
+239     1    0      s   0x1  0.0277634                                _    0x0   H
+240     1    0      s   0x1  0.0277634                                _    0x0   H
+241     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+242     1    0      s   0x1  0.0277634                                _    0x0   H
+243     1    0      s   0x1  0.0277634                                _    0x0   H
+244     1    0      s   0x1  0.0277634                                _    0x0   H
+245    30    0      s   0x1  0.3849136                                _    0x0  Zn
+246    30    0      s   0x1  0.3849136                                _    0x0  Zn
+247     7    0     sp   0x1 -0.4305004                                _    0x0   N
+248     7    0    sp2   0x1 -0.2124779                                _    0x0   N
+249     7    0     sp   0x1 -0.4310995                                _    0x0   N
+250     7    0     sp   0x1 -0.4212715                                _    0x0   N
+251     7    0     sp   0x1 -0.4126108                                _    0x0   N
+252     7    0     sp   0x1 -0.4218828                                _    0x0   N
+253     7    0     sp   0x1 -0.4305004                                _    0x0   N
+254     7    0    sp2   0x1 -0.2124779                                _    0x0   N
+255     7    0     sp   0x1 -0.4310995                                _    0x0   N
+256     6    0    sp2   0x1  0.0553015                                _    0x0   C
+257     1    0      s   0x1  0.0940918                                _    0x0   H
+258     6    0    sp2   0x1 -0.0337835                                _    0x0   C
+259     1    0      s   0x1   0.064225                                _    0x0   H
+260     6    0    sp2   0x1 -0.0492676                                _    0x0   C
+261     1    0      s   0x1  0.0625185                                _    0x0   H
+262     6    0    sp2   0x1   0.011839                                _    0x0   C
+263     6    0    sp2   0x1  0.1231111                                _    0x0   C
+264     6    0    sp2   0x1 -0.0509631                                _    0x0   C
+265     1    0      s   0x1  0.0624601                                _    0x0   H
+266     6    0    sp2   0x1 -0.0518668                                _    0x0   C
+267     1    0      s   0x1  0.0624283                                _    0x0   H
+268     6    0    sp2   0x1  0.0021041                                _    0x0   C
+269     6    0    sp2   0x1  0.0985081                                _    0x0   C
+270     6    0    sp2   0x1 -0.0504911                                _    0x0   C
+271     1    0      s   0x1   0.062474                                _    0x0   H
+272     6    0    sp2   0x1 -0.0346468                                _    0x0   C
+273     1    0      s   0x1  0.0639139                                _    0x0   H
+274     6    0    sp2   0x1   0.083428                                _    0x0   C
+275     6    0    sp2   0x1  0.0791393                                _    0x0   C
+276     1    0      s   0x1  0.0962249                                _    0x0   H
+277     6    0    sp2   0x1  0.0921305                                _    0x0   C
+278     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+279     1    0      s   0x1  0.0651009                                _    0x0   H
+280     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+281     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+282     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+283     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+284     1    0      s   0x1  0.0651009                                _    0x0   H
+285     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+286     1    0      s   0x1  0.0277634                                _    0x0   H
+287     1    0      s   0x1  0.0277634                                _    0x0   H
+288     1    0      s   0x1  0.0277634                                _    0x0   H
+289     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+290     1    0      s   0x1  0.0277634                                _    0x0   H
+291     1    0      s   0x1  0.0277634                                _    0x0   H
+292     1    0      s   0x1  0.0277634                                _    0x0   H
+293     6    0    sp2   0x1   0.056488                                _    0x0   C
+294     1    0      s   0x1  0.0941353                                _    0x0   H
+295     6    0    sp2   0x1   -0.03374                                _    0x0   C
+296     1    0      s   0x1  0.0642256                                _    0x0   H
+297     6    0    sp2   0x1 -0.0492322                                _    0x0   C
+298     1    0      s   0x1   0.062519                                _    0x0   H
+299     6    0    sp2   0x1  0.0128864                                _    0x0   C
+300     6    0    sp2   0x1  0.1349352                                _    0x0   C
+301     6    0    sp2   0x1 -0.0508959                                _    0x0   C
+302     1    0      s   0x1   0.062461                                _    0x0   H
+303     6    0    sp2   0x1 -0.0508954                                _    0x0   C
+304     1    0      s   0x1   0.062461                                _    0x0   H
+305     6    0    sp2   0x1  0.0129264                                _    0x0   C
+306     6    0    sp2   0x1  0.1356067                                _    0x0   C
+307     6    0    sp2   0x1 -0.0485608                                _    0x0   C
+308     1    0      s   0x1  0.0625389                                _    0x0   H
+309     6    0    sp2   0x1 -0.0237963                                _    0x0   C
+310     1    0      s   0x1  0.0649291                                _    0x0   H
+311     6    0    sp2   0x1  0.1205518                                _    0x0   C
+312     6    0    sp2   0x1  0.0909981                                _    0x0   C
+313     1    0      s   0x1  0.0973194                                _    0x0   H
+314     6    0    sp2   0x1  0.0933143                                _    0x0   C
+315     6    0    sp2   0x1   -0.02367                                _    0x0   C
+316     1    0      s   0x1  0.0651015                                _    0x0   H
+317     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+318     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+319     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+320     6    0    sp2   0x1   -0.02367                                _    0x0   C
+321     1    0      s   0x1  0.0651015                                _    0x0   H
+322     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+323     1    0      s   0x1  0.0277634                                _    0x0   H
+324     1    0      s   0x1  0.0277634                                _    0x0   H
+325     1    0      s   0x1  0.0277634                                _    0x0   H
+326     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+327     1    0      s   0x1  0.0277634                                _    0x0   H
+328     1    0      s   0x1  0.0277634                                _    0x0   H
+329     1    0      s   0x1  0.0277634                                _    0x0   H
+330     6    0    sp2   0x1  0.0553015                                _    0x0   C
+331     1    0      s   0x1  0.0940918                                _    0x0   H
+332     6    0    sp2   0x1 -0.0337835                                _    0x0   C
+333     1    0      s   0x1   0.064225                                _    0x0   H
+334     6    0    sp2   0x1 -0.0492676                                _    0x0   C
+335     1    0      s   0x1  0.0625185                                _    0x0   H
+336     6    0    sp2   0x1   0.011839                                _    0x0   C
+337     6    0    sp2   0x1  0.1231111                                _    0x0   C
+338     6    0    sp2   0x1 -0.0509631                                _    0x0   C
+339     1    0      s   0x1  0.0624601                                _    0x0   H
+340     6    0    sp2   0x1 -0.0518668                                _    0x0   C
+341     1    0      s   0x1  0.0624283                                _    0x0   H
+342     6    0    sp2   0x1  0.0021041                                _    0x0   C
+343     6    0    sp2   0x1  0.0985081                                _    0x0   C
+344     6    0    sp2   0x1 -0.0504911                                _    0x0   C
+345     1    0      s   0x1   0.062474                                _    0x0   H
+346     6    0    sp2   0x1 -0.0346468                                _    0x0   C
+347     1    0      s   0x1  0.0639139                                _    0x0   H
+348     6    0    sp2   0x1   0.083428                                _    0x0   C
+349     6    0    sp2   0x1  0.0791393                                _    0x0   C
+350     1    0      s   0x1  0.0962249                                _    0x0   H
+351     6    0    sp2   0x1  0.0921305                                _    0x0   C
+352     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+353     1    0      s   0x1  0.0651009                                _    0x0   H
+354     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+355     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+356     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+357     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+358     1    0      s   0x1  0.0651009                                _    0x0   H
+359     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+360     1    0      s   0x1  0.0277634                                _    0x0   H
+361     1    0      s   0x1  0.0277634                                _    0x0   H
+362     1    0      s   0x1  0.0277634                                _    0x0   H
+363     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+364     1    0      s   0x1  0.0277634                                _    0x0   H
+365     1    0      s   0x1  0.0277634                                _    0x0   H
+366     1    0      s   0x1  0.0277634                                _    0x0   H
+367     5    0    sp2   0x1   0.064536                                _    0x0   B
+368    30    0      s   0x1  0.3849136                                _    0x0  Zn
+369    30    0      s   0x1  0.4061148                                _    0x0  Zn
+370     7    0     sp   0x1 -0.4305004                                _    0x0   N
+371     7    0    sp2   0x1 -0.2124779                                _    0x0   N
+372     7    0     sp   0x1 -0.4310995                                _    0x0   N
+373     7    0     sp   0x1 -0.4295138                                _    0x0   N
+374     7    0     sp   0x1 -0.4208552                                _    0x0   N
+375     7    0     sp   0x1  -0.430125                                _    0x0   N
+376     7    0     sp   0x1 -0.4212715                                _    0x0   N
+377     7    0     sp   0x1 -0.4126108                                _    0x0   N
+378     7    0     sp   0x1 -0.4218828                                _    0x0   N
+379     6    0    sp2   0x1  0.0553015                                _    0x0   C
+380     1    0      s   0x1  0.0940918                                _    0x0   H
+381     6    0    sp2   0x1 -0.0337835                                _    0x0   C
+382     1    0      s   0x1   0.064225                                _    0x0   H
+383     6    0    sp2   0x1 -0.0492676                                _    0x0   C
+384     1    0      s   0x1  0.0625185                                _    0x0   H
+385     6    0    sp2   0x1   0.011839                                _    0x0   C
+386     6    0    sp2   0x1  0.1231111                                _    0x0   C
+387     6    0    sp2   0x1 -0.0509631                                _    0x0   C
+388     1    0      s   0x1  0.0624601                                _    0x0   H
+389     6    0    sp2   0x1 -0.0518668                                _    0x0   C
+390     1    0      s   0x1  0.0624283                                _    0x0   H
+391     6    0    sp2   0x1  0.0021041                                _    0x0   C
+392     6    0    sp2   0x1  0.0985081                                _    0x0   C
+393     6    0    sp2   0x1 -0.0504911                                _    0x0   C
+394     1    0      s   0x1   0.062474                                _    0x0   H
+395     6    0    sp2   0x1 -0.0346468                                _    0x0   C
+396     1    0      s   0x1  0.0639139                                _    0x0   H
+397     6    0    sp2   0x1   0.083428                                _    0x0   C
+398     6    0    sp2   0x1  0.0791393                                _    0x0   C
+399     1    0      s   0x1  0.0962249                                _    0x0   H
+400     6    0    sp2   0x1  0.0921305                                _    0x0   C
+401     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+402     1    0      s   0x1  0.0651009                                _    0x0   H
+403     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+404     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+405     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+406     6    0    sp2   0x1 -0.0237136                                _    0x0   C
+407     1    0      s   0x1  0.0651009                                _    0x0   H
+408     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+409     1    0      s   0x1  0.0277634                                _    0x0   H
+410     1    0      s   0x1  0.0277634                                _    0x0   H
+411     1    0      s   0x1  0.0277634                                _    0x0   H
+412     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+413     1    0      s   0x1  0.0277634                                _    0x0   H
+414     1    0      s   0x1  0.0277634                                _    0x0   H
+415     1    0      s   0x1  0.0277634                                _    0x0   H
+416     6    0    sp2   0x1  0.0553449                                _    0x0   C
+417     1    0      s   0x1  0.0940923                                _    0x0   H
+418     6    0    sp2   0x1 -0.0337825                                _    0x0   C
+419     1    0      s   0x1   0.064225                                _    0x0   H
+420     6    0    sp2   0x1 -0.0492333                                _    0x0   C
+421     1    0      s   0x1   0.062519                                _    0x0   H
+422     6    0    sp2   0x1  0.0128423                                _    0x0   C
+423     6    0    sp2   0x1  0.1337523                                _    0x0   C
+424     6    0    sp2   0x1 -0.0508965                                _    0x0   C
+425     1    0      s   0x1   0.062461                                _    0x0   H
+426     6    0    sp2   0x1  -0.050896                                _    0x0   C
+427     1    0      s   0x1   0.062461                                _    0x0   H
+428     6    0    sp2   0x1  0.0128823                                _    0x0   C
+429     6    0    sp2   0x1  0.1344241                                _    0x0   C
+430     6    0    sp2   0x1  -0.048562                                _    0x0   C
+431     1    0      s   0x1  0.0625389                                _    0x0   H
+432     6    0    sp2   0x1 -0.0238402                                _    0x0   C
+433     1    0      s   0x1  0.0649286                                _    0x0   H
+434     6    0    sp2   0x1  0.1193692                                _    0x0   C
+435     6    0    sp2   0x1   0.089813                                _    0x0   C
+436     1    0      s   0x1  0.0972754                                _    0x0   H
+437     6    0    sp2   0x1  0.0921733                                _    0x0   C
+438     6    0    sp2   0x1  -0.023713                                _    0x0   C
+439     1    0      s   0x1  0.0651009                                _    0x0   H
+440     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+441     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+442     6    0    sp2   0x1 -0.0428989                                _    0x0   C
+443     6    0    sp2   0x1  -0.023713                                _    0x0   C
+444     1    0      s   0x1  0.0651009                                _    0x0   H
+445     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+446     1    0      s   0x1  0.0277634                                _    0x0   H
+447     1    0      s   0x1  0.0277634                                _    0x0   H
+448     1    0      s   0x1  0.0277634                                _    0x0   H
+449     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+450     1    0      s   0x1  0.0277634                                _    0x0   H
+451     1    0      s   0x1  0.0277634                                _    0x0   H
+452     1    0      s   0x1  0.0277634                                _    0x0   H
+453     6    0    sp2   0x1   0.056488                                _    0x0   C
+454     1    0      s   0x1  0.0941353                                _    0x0   H
+455     6    0    sp2   0x1   -0.03374                                _    0x0   C
+456     1    0      s   0x1  0.0642256                                _    0x0   H
+457     6    0    sp2   0x1 -0.0492322                                _    0x0   C
+458     1    0      s   0x1   0.062519                                _    0x0   H
+459     6    0    sp2   0x1  0.0128864                                _    0x0   C
+460     6    0    sp2   0x1  0.1349352                                _    0x0   C
+461     6    0    sp2   0x1 -0.0508959                                _    0x0   C
+462     1    0      s   0x1   0.062461                                _    0x0   H
+463     6    0    sp2   0x1 -0.0508954                                _    0x0   C
+464     1    0      s   0x1   0.062461                                _    0x0   H
+465     6    0    sp2   0x1  0.0129264                                _    0x0   C
+466     6    0    sp2   0x1  0.1356067                                _    0x0   C
+467     6    0    sp2   0x1 -0.0485608                                _    0x0   C
+468     1    0      s   0x1  0.0625389                                _    0x0   H
+469     6    0    sp2   0x1 -0.0237963                                _    0x0   C
+470     1    0      s   0x1  0.0649291                                _    0x0   H
+471     6    0    sp2   0x1  0.1205518                                _    0x0   C
+472     6    0    sp2   0x1  0.0909981                                _    0x0   C
+473     1    0      s   0x1  0.0973194                                _    0x0   H
+474     6    0    sp2   0x1  0.0933143                                _    0x0   C
+475     6    0    sp2   0x1   -0.02367                                _    0x0   C
+476     1    0      s   0x1  0.0651015                                _    0x0   H
+477     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+478     6    0    sp2   0x1 -0.0250121                                _    0x0   C
+479     6    0    sp2   0x1 -0.0428983                                _    0x0   C
+480     6    0    sp2   0x1   -0.02367                                _    0x0   C
+481     1    0      s   0x1  0.0651015                                _    0x0   H
+482     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+483     1    0      s   0x1  0.0277634                                _    0x0   H
+484     1    0      s   0x1  0.0277634                                _    0x0   H
+485     1    0      s   0x1  0.0277634                                _    0x0   H
+486     6    0    sp3   0x1 -0.0393073                                _    0x0   C
+487     1    0      s   0x1  0.0277634                                _    0x0   H
+488     1    0      s   0x1  0.0277634                                _    0x0   H
+489     1    0      s   0x1  0.0277634                                _    0x0   H
+490     5    0    sp2   0x1   0.064536                                _    0x0   B
+property_flags:
+ 1 01 01 01 01 01 00 00 01
+ 2 01 01 01 01 01 00 00 01
+ 3 01 01 01 01 01 00 00 01
+ 4 01 01 01 01 01 00 00 01
+ 5 01 01 01 01 01 00 00 01
+ 6 01 01 01 01 01 00 00 01
+ 7 01 01 01 01 01 00 00 01
+ 8 01 01 01 01 01 00 00 01
+ 9 01 01 01 01 01 00 00 01
+ 10 01 01 01 01 01 00 00 01
+ 11 01 01 01 01 01 00 00 01
+ 12 01 01 01 01 01 00 00 01
+ 13 01 01 01 01 01 00 00 01
+ 14 01 01 01 01 01 00 00 01
+ 15 01 01 01 01 01 00 00 01
+ 16 01 01 01 01 01 00 00 01
+ 17 01 01 01 01 01 00 00 01
+ 18 01 01 01 01 01 00 00 01
+ 19 01 01 01 01 01 00 00 01
+ 20 01 01 01 01 01 00 00 01
+ 21 01 01 01 01 01 00 00 01
+ 22 01 01 01 01 01 00 00 01
+ 23 01 01 01 01 01 00 00 01
+ 24 01 01 01 01 01 00 00 01
+ 25 01 01 01 01 01 00 00 01
+ 26 01 01 01 01 01 00 00 01
+ 27 01 01 01 01 01 00 00 01
+ 28 01 01 01 01 01 00 00 01
+ 29 01 01 01 01 01 00 00 01
+ 30 01 01 01 01 01 00 00 01
+ 31 01 01 01 01 01 00 00 01
+ 32 01 01 01 01 01 00 00 01
+ 33 01 01 01 01 01 00 00 01
+ 34 01 01 01 01 01 00 00 01
+ 35 01 01 01 01 01 00 00 01
+ 36 01 01 01 01 01 00 00 01
+ 37 01 01 01 01 01 00 00 01
+ 38 01 01 01 01 01 00 00 01
+ 39 01 01 01 01 01 00 00 01
+ 40 01 01 01 01 01 00 00 01
+ 41 01 01 01 01 01 00 00 01
+ 42 01 01 01 01 01 00 00 01
+ 43 01 01 01 01 01 00 00 01
+ 44 01 01 01 01 01 00 00 01
+ 45 01 01 01 01 01 00 00 01
+ 46 01 01 01 01 01 00 00 01
+ 47 01 01 01 01 01 00 00 01
+ 48 01 01 01 01 01 00 00 01
+ 49 01 01 01 01 01 00 00 01
+ 50 01 01 01 01 01 00 00 01
+ 51 01 01 01 01 01 00 00 01
+ 52 01 01 01 01 01 00 00 01
+ 53 01 01 01 01 01 00 00 01
+ 54 01 01 01 01 01 00 00 01
+ 55 01 01 01 01 01 00 00 01
+ 56 01 01 01 01 01 00 00 01
+ 57 01 01 01 01 01 00 00 01
+ 58 01 01 01 01 01 00 00 01
+ 59 01 01 01 01 01 00 00 01
+ 60 01 01 01 01 01 00 00 01
+ 61 01 01 01 01 01 00 00 01
+ 62 01 01 01 01 01 00 00 01
+ 63 01 01 01 01 01 00 00 01
+ 64 01 01 01 01 01 00 00 01
+ 65 01 01 01 01 01 00 00 01
+ 66 01 01 01 01 01 00 00 01
+ 67 01 01 01 01 01 00 00 01
+ 68 01 01 01 01 01 00 00 01
+ 69 01 01 01 01 01 00 00 01
+ 70 01 01 01 01 01 00 00 01
+ 71 01 01 01 01 01 00 00 01
+ 72 01 01 01 01 01 00 00 01
+ 73 01 01 01 01 01 00 00 01
+ 74 01 01 01 01 01 00 00 01
+ 75 01 01 01 01 01 00 00 01
+ 76 01 01 01 01 01 00 00 01
+ 77 01 01 01 01 01 00 00 01
+ 78 01 01 01 01 01 00 00 01
+ 79 01 01 01 01 01 00 00 01
+ 80 01 01 01 01 01 00 00 01
+ 81 01 01 01 01 01 00 00 01
+ 82 01 01 01 01 01 00 00 01
+ 83 01 01 01 01 01 00 00 01
+ 84 01 01 01 01 01 00 00 01
+ 85 01 01 01 01 01 00 00 01
+ 86 01 01 01 01 01 00 00 01
+ 87 01 01 01 01 01 00 00 01
+ 88 01 01 01 01 01 00 00 01
+ 89 01 01 01 01 01 00 00 01
+ 90 01 01 01 01 01 00 00 01
+ 91 01 01 01 01 01 00 00 01
+ 92 01 01 01 01 01 00 00 01
+ 93 01 01 01 01 01 00 00 01
+ 94 01 01 01 01 01 00 00 01
+ 95 01 01 01 01 01 00 00 01
+ 96 01 01 01 01 01 00 00 01
+ 97 01 01 01 01 01 00 00 01
+ 98 01 01 01 01 01 00 00 01
+ 99 01 01 01 01 01 00 00 01
+ 100 01 01 01 01 01 00 00 01
+ 101 01 01 01 01 01 00 00 01
+ 102 01 01 01 01 01 00 00 01
+ 103 01 01 01 01 01 00 00 01
+ 104 01 01 01 01 01 00 00 01
+ 105 01 01 01 01 01 00 00 01
+ 106 01 01 01 01 01 00 00 01
+ 107 01 01 01 01 01 00 00 01
+ 108 01 01 01 01 01 00 00 01
+ 109 01 01 01 01 01 00 00 01
+ 110 01 01 01 01 01 00 00 01
+ 111 01 01 01 01 01 00 00 01
+ 112 01 01 01 01 01 00 00 01
+ 113 01 01 01 01 01 00 00 01
+ 114 01 01 01 01 01 00 00 01
+ 115 01 01 01 01 01 00 00 01
+ 116 01 01 01 01 01 00 00 01
+ 117 01 01 01 01 01 00 00 01
+ 118 01 01 01 01 01 00 00 01
+ 119 01 01 01 01 01 00 00 01
+ 120 01 01 01 01 01 00 00 01
+ 121 01 01 01 01 01 00 00 01
+ 122 01 01 01 01 01 00 00 01
+ 123 01 01 01 01 01 00 00 01
+ 124 01 01 01 01 01 00 00 01
+ 125 01 01 01 01 01 00 00 01
+ 126 01 01 01 01 01 00 00 01
+ 127 01 01 01 01 01 00 00 01
+ 128 01 01 01 01 01 00 00 01
+ 129 01 01 01 01 01 00 00 01
+ 130 01 01 01 01 01 00 00 01
+ 131 01 01 01 01 01 00 00 01
+ 132 01 01 01 01 01 00 00 01
+ 133 01 01 01 01 01 00 00 01
+ 134 01 01 01 01 01 00 00 01
+ 135 01 01 01 01 01 00 00 01
+ 136 01 01 01 01 01 00 00 01
+ 137 01 01 01 01 01 00 00 01
+ 138 01 01 01 01 01 00 00 01
+ 139 01 01 01 01 01 00 00 01
+ 140 01 01 01 01 01 00 00 01
+ 141 01 01 01 01 01 00 00 01
+ 142 01 01 01 01 01 00 00 01
+ 143 01 01 01 01 01 00 00 01
+ 144 01 01 01 01 01 00 00 01
+ 145 01 01 01 01 01 00 00 01
+ 146 01 01 01 01 01 00 00 01
+ 147 01 01 01 01 01 00 00 01
+ 148 01 01 01 01 01 00 00 01
+ 149 01 01 01 01 01 00 00 01
+ 150 01 01 01 01 01 00 00 01
+ 151 01 01 01 01 01 00 00 01
+ 152 01 01 01 01 01 00 00 01
+ 153 01 01 01 01 01 00 00 01
+ 154 01 01 01 01 01 00 00 01
+ 155 01 01 01 01 01 00 00 01
+ 156 01 01 01 01 01 00 00 01
+ 157 01 01 01 01 01 00 00 01
+ 158 01 01 01 01 01 00 00 01
+ 159 01 01 01 01 01 00 00 01
+ 160 01 01 01 01 01 00 00 01
+ 161 01 01 01 01 01 00 00 01
+ 162 01 01 01 01 01 00 00 01
+ 163 01 01 01 01 01 00 00 01
+ 164 01 01 01 01 01 00 00 01
+ 165 01 01 01 01 01 00 00 01
+ 166 01 01 01 01 01 00 00 01
+ 167 01 01 01 01 01 00 00 01
+ 168 01 01 01 01 01 00 00 01
+ 169 01 01 01 01 01 00 00 01
+ 170 01 01 01 01 01 00 00 01
+ 171 01 01 01 01 01 00 00 01
+ 172 01 01 01 01 01 00 00 01
+ 173 01 01 01 01 01 00 00 01
+ 174 01 01 01 01 01 00 00 01
+ 175 01 01 01 01 01 00 00 01
+ 176 01 01 01 01 01 00 00 01
+ 177 01 01 01 01 01 00 00 01
+ 178 01 01 01 01 01 00 00 01
+ 179 01 01 01 01 01 00 00 01
+ 180 01 01 01 01 01 00 00 01
+ 181 01 01 01 01 01 00 00 01
+ 182 01 01 01 01 01 00 00 01
+ 183 01 01 01 01 01 00 00 01
+ 184 01 01 01 01 01 00 00 01
+ 185 01 01 01 01 01 00 00 01
+ 186 01 01 01 01 01 00 00 01
+ 187 01 01 01 01 01 00 00 01
+ 188 01 01 01 01 01 00 00 01
+ 189 01 01 01 01 01 00 00 01
+ 190 01 01 01 01 01 00 00 01
+ 191 01 01 01 01 01 00 00 01
+ 192 01 01 01 01 01 00 00 01
+ 193 01 01 01 01 01 00 00 01
+ 194 01 01 01 01 01 00 00 01
+ 195 01 01 01 01 01 00 00 01
+ 196 01 01 01 01 01 00 00 01
+ 197 01 01 01 01 01 00 00 01
+ 198 01 01 01 01 01 00 00 01
+ 199 01 01 01 01 01 00 00 01
+ 200 01 01 01 01 01 00 00 01
+ 201 01 01 01 01 01 00 00 01
+ 202 01 01 01 01 01 00 00 01
+ 203 01 01 01 01 01 00 00 01
+ 204 01 01 01 01 01 00 00 01
+ 205 01 01 01 01 01 00 00 01
+ 206 01 01 01 01 01 00 00 01
+ 207 01 01 01 01 01 00 00 01
+ 208 01 01 01 01 01 00 00 01
+ 209 01 01 01 01 01 00 00 01
+ 210 01 01 01 01 01 00 00 01
+ 211 01 01 01 01 01 00 00 01
+ 212 01 01 01 01 01 00 00 01
+ 213 01 01 01 01 01 00 00 01
+ 214 01 01 01 01 01 00 00 01
+ 215 01 01 01 01 01 00 00 01
+ 216 01 01 01 01 01 00 00 01
+ 217 01 01 01 01 01 00 00 01
+ 218 01 01 01 01 01 00 00 01
+ 219 01 01 01 01 01 00 00 01
+ 220 01 01 01 01 01 00 00 01
+ 221 01 01 01 01 01 00 00 01
+ 222 01 01 01 01 01 00 00 01
+ 223 01 01 01 01 01 00 00 01
+ 224 01 01 01 01 01 00 00 01
+ 225 01 01 01 01 01 00 00 01
+ 226 01 01 01 01 01 00 00 01
+ 227 01 01 01 01 01 00 00 01
+ 228 01 01 01 01 01 00 00 01
+ 229 01 01 01 01 01 00 00 01
+ 230 01 01 01 01 01 00 00 01
+ 231 01 01 01 01 01 00 00 01
+ 232 01 01 01 01 01 00 00 01
+ 233 01 01 01 01 01 00 00 01
+ 234 01 01 01 01 01 00 00 01
+ 235 01 01 01 01 01 00 00 01
+ 236 01 01 01 01 01 00 00 01
+ 237 01 01 01 01 01 00 00 01
+ 238 01 01 01 01 01 00 00 01
+ 239 01 01 01 01 01 00 00 01
+ 240 01 01 01 01 01 00 00 01
+ 241 01 01 01 01 01 00 00 01
+ 242 01 01 01 01 01 00 00 01
+ 243 01 01 01 01 01 00 00 01
+ 244 01 01 01 01 01 00 00 01
+ 245 01 01 01 01 01 00 00 01
+ 246 01 01 01 01 01 00 00 01
+ 247 01 01 01 01 01 00 00 01
+ 248 01 01 01 01 01 00 00 01
+ 249 01 01 01 01 01 00 00 01
+ 250 01 01 01 01 01 00 00 01
+ 251 01 01 01 01 01 00 00 01
+ 252 01 01 01 01 01 00 00 01
+ 253 01 01 01 01 01 00 00 01
+ 254 01 01 01 01 01 00 00 01
+ 255 01 01 01 01 01 00 00 01
+ 256 01 01 01 01 01 00 00 01
+ 257 01 01 01 01 01 00 00 01
+ 258 01 01 01 01 01 00 00 01
+ 259 01 01 01 01 01 00 00 01
+ 260 01 01 01 01 01 00 00 01
+ 261 01 01 01 01 01 00 00 01
+ 262 01 01 01 01 01 00 00 01
+ 263 01 01 01 01 01 00 00 01
+ 264 01 01 01 01 01 00 00 01
+ 265 01 01 01 01 01 00 00 01
+ 266 01 01 01 01 01 00 00 01
+ 267 01 01 01 01 01 00 00 01
+ 268 01 01 01 01 01 00 00 01
+ 269 01 01 01 01 01 00 00 01
+ 270 01 01 01 01 01 00 00 01
+ 271 01 01 01 01 01 00 00 01
+ 272 01 01 01 01 01 00 00 01
+ 273 01 01 01 01 01 00 00 01
+ 274 01 01 01 01 01 00 00 01
+ 275 01 01 01 01 01 00 00 01
+ 276 01 01 01 01 01 00 00 01
+ 277 01 01 01 01 01 00 00 01
+ 278 01 01 01 01 01 00 00 01
+ 279 01 01 01 01 01 00 00 01
+ 280 01 01 01 01 01 00 00 01
+ 281 01 01 01 01 01 00 00 01
+ 282 01 01 01 01 01 00 00 01
+ 283 01 01 01 01 01 00 00 01
+ 284 01 01 01 01 01 00 00 01
+ 285 01 01 01 01 01 00 00 01
+ 286 01 01 01 01 01 00 00 01
+ 287 01 01 01 01 01 00 00 01
+ 288 01 01 01 01 01 00 00 01
+ 289 01 01 01 01 01 00 00 01
+ 290 01 01 01 01 01 00 00 01
+ 291 01 01 01 01 01 00 00 01
+ 292 01 01 01 01 01 00 00 01
+ 293 01 01 01 01 01 00 00 01
+ 294 01 01 01 01 01 00 00 01
+ 295 01 01 01 01 01 00 00 01
+ 296 01 01 01 01 01 00 00 01
+ 297 01 01 01 01 01 00 00 01
+ 298 01 01 01 01 01 00 00 01
+ 299 01 01 01 01 01 00 00 01
+ 300 01 01 01 01 01 00 00 01
+ 301 01 01 01 01 01 00 00 01
+ 302 01 01 01 01 01 00 00 01
+ 303 01 01 01 01 01 00 00 01
+ 304 01 01 01 01 01 00 00 01
+ 305 01 01 01 01 01 00 00 01
+ 306 01 01 01 01 01 00 00 01
+ 307 01 01 01 01 01 00 00 01
+ 308 01 01 01 01 01 00 00 01
+ 309 01 01 01 01 01 00 00 01
+ 310 01 01 01 01 01 00 00 01
+ 311 01 01 01 01 01 00 00 01
+ 312 01 01 01 01 01 00 00 01
+ 313 01 01 01 01 01 00 00 01
+ 314 01 01 01 01 01 00 00 01
+ 315 01 01 01 01 01 00 00 01
+ 316 01 01 01 01 01 00 00 01
+ 317 01 01 01 01 01 00 00 01
+ 318 01 01 01 01 01 00 00 01
+ 319 01 01 01 01 01 00 00 01
+ 320 01 01 01 01 01 00 00 01
+ 321 01 01 01 01 01 00 00 01
+ 322 01 01 01 01 01 00 00 01
+ 323 01 01 01 01 01 00 00 01
+ 324 01 01 01 01 01 00 00 01
+ 325 01 01 01 01 01 00 00 01
+ 326 01 01 01 01 01 00 00 01
+ 327 01 01 01 01 01 00 00 01
+ 328 01 01 01 01 01 00 00 01
+ 329 01 01 01 01 01 00 00 01
+ 330 01 01 01 01 01 00 00 01
+ 331 01 01 01 01 01 00 00 01
+ 332 01 01 01 01 01 00 00 01
+ 333 01 01 01 01 01 00 00 01
+ 334 01 01 01 01 01 00 00 01
+ 335 01 01 01 01 01 00 00 01
+ 336 01 01 01 01 01 00 00 01
+ 337 01 01 01 01 01 00 00 01
+ 338 01 01 01 01 01 00 00 01
+ 339 01 01 01 01 01 00 00 01
+ 340 01 01 01 01 01 00 00 01
+ 341 01 01 01 01 01 00 00 01
+ 342 01 01 01 01 01 00 00 01
+ 343 01 01 01 01 01 00 00 01
+ 344 01 01 01 01 01 00 00 01
+ 345 01 01 01 01 01 00 00 01
+ 346 01 01 01 01 01 00 00 01
+ 347 01 01 01 01 01 00 00 01
+ 348 01 01 01 01 01 00 00 01
+ 349 01 01 01 01 01 00 00 01
+ 350 01 01 01 01 01 00 00 01
+ 351 01 01 01 01 01 00 00 01
+ 352 01 01 01 01 01 00 00 01
+ 353 01 01 01 01 01 00 00 01
+ 354 01 01 01 01 01 00 00 01
+ 355 01 01 01 01 01 00 00 01
+ 356 01 01 01 01 01 00 00 01
+ 357 01 01 01 01 01 00 00 01
+ 358 01 01 01 01 01 00 00 01
+ 359 01 01 01 01 01 00 00 01
+ 360 01 01 01 01 01 00 00 01
+ 361 01 01 01 01 01 00 00 01
+ 362 01 01 01 01 01 00 00 01
+ 363 01 01 01 01 01 00 00 01
+ 364 01 01 01 01 01 00 00 01
+ 365 01 01 01 01 01 00 00 01
+ 366 01 01 01 01 01 00 00 01
+ 367 01 01 01 01 01 00 00 01
+ 368 01 01 01 01 01 00 00 01
+ 369 01 01 01 01 01 00 00 01
+ 370 01 01 01 01 01 00 00 01
+ 371 01 01 01 01 01 00 00 01
+ 372 01 01 01 01 01 00 00 01
+ 373 01 01 01 01 01 00 00 01
+ 374 01 01 01 01 01 00 00 01
+ 375 01 01 01 01 01 00 00 01
+ 376 01 01 01 01 01 00 00 01
+ 377 01 01 01 01 01 00 00 01
+ 378 01 01 01 01 01 00 00 01
+ 379 01 01 01 01 01 00 00 01
+ 380 01 01 01 01 01 00 00 01
+ 381 01 01 01 01 01 00 00 01
+ 382 01 01 01 01 01 00 00 01
+ 383 01 01 01 01 01 00 00 01
+ 384 01 01 01 01 01 00 00 01
+ 385 01 01 01 01 01 00 00 01
+ 386 01 01 01 01 01 00 00 01
+ 387 01 01 01 01 01 00 00 01
+ 388 01 01 01 01 01 00 00 01
+ 389 01 01 01 01 01 00 00 01
+ 390 01 01 01 01 01 00 00 01
+ 391 01 01 01 01 01 00 00 01
+ 392 01 01 01 01 01 00 00 01
+ 393 01 01 01 01 01 00 00 01
+ 394 01 01 01 01 01 00 00 01
+ 395 01 01 01 01 01 00 00 01
+ 396 01 01 01 01 01 00 00 01
+ 397 01 01 01 01 01 00 00 01
+ 398 01 01 01 01 01 00 00 01
+ 399 01 01 01 01 01 00 00 01
+ 400 01 01 01 01 01 00 00 01
+ 401 01 01 01 01 01 00 00 01
+ 402 01 01 01 01 01 00 00 01
+ 403 01 01 01 01 01 00 00 01
+ 404 01 01 01 01 01 00 00 01
+ 405 01 01 01 01 01 00 00 01
+ 406 01 01 01 01 01 00 00 01
+ 407 01 01 01 01 01 00 00 01
+ 408 01 01 01 01 01 00 00 01
+ 409 01 01 01 01 01 00 00 01
+ 410 01 01 01 01 01 00 00 01
+ 411 01 01 01 01 01 00 00 01
+ 412 01 01 01 01 01 00 00 01
+ 413 01 01 01 01 01 00 00 01
+ 414 01 01 01 01 01 00 00 01
+ 415 01 01 01 01 01 00 00 01
+ 416 01 01 01 01 01 00 00 01
+ 417 01 01 01 01 01 00 00 01
+ 418 01 01 01 01 01 00 00 01
+ 419 01 01 01 01 01 00 00 01
+ 420 01 01 01 01 01 00 00 01
+ 421 01 01 01 01 01 00 00 01
+ 422 01 01 01 01 01 00 00 01
+ 423 01 01 01 01 01 00 00 01
+ 424 01 01 01 01 01 00 00 01
+ 425 01 01 01 01 01 00 00 01
+ 426 01 01 01 01 01 00 00 01
+ 427 01 01 01 01 01 00 00 01
+ 428 01 01 01 01 01 00 00 01
+ 429 01 01 01 01 01 00 00 01
+ 430 01 01 01 01 01 00 00 01
+ 431 01 01 01 01 01 00 00 01
+ 432 01 01 01 01 01 00 00 01
+ 433 01 01 01 01 01 00 00 01
+ 434 01 01 01 01 01 00 00 01
+ 435 01 01 01 01 01 00 00 01
+ 436 01 01 01 01 01 00 00 01
+ 437 01 01 01 01 01 00 00 01
+ 438 01 01 01 01 01 00 00 01
+ 439 01 01 01 01 01 00 00 01
+ 440 01 01 01 01 01 00 00 01
+ 441 01 01 01 01 01 00 00 01
+ 442 01 01 01 01 01 00 00 01
+ 443 01 01 01 01 01 00 00 01
+ 444 01 01 01 01 01 00 00 01
+ 445 01 01 01 01 01 00 00 01
+ 446 01 01 01 01 01 00 00 01
+ 447 01 01 01 01 01 00 00 01
+ 448 01 01 01 01 01 00 00 01
+ 449 01 01 01 01 01 00 00 01
+ 450 01 01 01 01 01 00 00 01
+ 451 01 01 01 01 01 00 00 01
+ 452 01 01 01 01 01 00 00 01
+ 453 01 01 01 01 01 00 00 01
+ 454 01 01 01 01 01 00 00 01
+ 455 01 01 01 01 01 00 00 01
+ 456 01 01 01 01 01 00 00 01
+ 457 01 01 01 01 01 00 00 01
+ 458 01 01 01 01 01 00 00 01
+ 459 01 01 01 01 01 00 00 01
+ 460 01 01 01 01 01 00 00 01
+ 461 01 01 01 01 01 00 00 01
+ 462 01 01 01 01 01 00 00 01
+ 463 01 01 01 01 01 00 00 01
+ 464 01 01 01 01 01 00 00 01
+ 465 01 01 01 01 01 00 00 01
+ 466 01 01 01 01 01 00 00 01
+ 467 01 01 01 01 01 00 00 01
+ 468 01 01 01 01 01 00 00 01
+ 469 01 01 01 01 01 00 00 01
+ 470 01 01 01 01 01 00 00 01
+ 471 01 01 01 01 01 00 00 01
+ 472 01 01 01 01 01 00 00 01
+ 473 01 01 01 01 01 00 00 01
+ 474 01 01 01 01 01 00 00 01
+ 475 01 01 01 01 01 00 00 01
+ 476 01 01 01 01 01 00 00 01
+ 477 01 01 01 01 01 00 00 01
+ 478 01 01 01 01 01 00 00 01
+ 479 01 01 01 01 01 00 00 01
+ 480 01 01 01 01 01 00 00 01
+ 481 01 01 01 01 01 00 00 01
+ 482 01 01 01 01 01 00 00 01
+ 483 01 01 01 01 01 00 00 01
+ 484 01 01 01 01 01 00 00 01
+ 485 01 01 01 01 01 00 00 01
+ 486 01 01 01 01 01 00 00 01
+ 487 01 01 01 01 01 00 00 01
+ 488 01 01 01 01 01 00 00 01
+ 489 01 01 01 01 01 00 00 01
+ 490 01 01 01 01 01 00 00 01
+ ID  tempFactor                  xyz_coordinates
+  1           0    5.83295  16.849802  14.925034
+  2           0    6.90794  24.193716  24.505055
+  3           0   6.818941  16.968801  12.938029
+  4           0   4.436962  16.069811  13.638031
+  5           0   4.071965  16.339808  16.192036
+  6           0  -2.644977  12.434854  24.512055
+  7           0  -2.210981  14.625828  25.930058
+  8           0  -0.085999  15.855814  25.096056
+  9           0   7.301937  25.930695  25.824058
+ 10           0   7.068939  25.776697  23.194052
+ 11           0   6.414945  23.358725   22.43305
+ 12           0   7.084939  15.140822  15.652035
+ 13           0   7.394936  17.753791  15.926036
+ 14           0   5.298954  19.086776  15.080034
+ 15           0   8.025931  17.409795  12.587028
+ 16           0   8.615926  17.706792   13.26903
+ 17           0   8.463927  17.455795  11.266025
+ 18           0   9.332919  17.781791  11.065025
+ 19           0   7.638934    17.0298  10.254023
+ 20           0   7.930931    17.0478   9.350021
+ 21           0   6.341945  16.562805  10.587024
+ 22           0   5.999948  16.540806  11.933027
+ 23           0   5.367954  16.121811   9.622022
+ 24           0   5.594952   16.13081    8.69902
+ 25           0   4.135964  15.694816   9.993022
+ 26           0    3.51097  15.430819   9.327021
+ 27           0   3.762967  15.636816  11.369026
+ 28           0   4.700959  16.056811  12.330028
+ 29           0   2.518978  15.195821  11.859027
+ 30           0   1.845984  14.904825  11.255025
+ 31           0    2.27598  15.187822   13.21903
+ 32           0   1.450987  14.862825   13.55803
+ 33           0   3.259972  15.660816  14.085032
+ 34           0   3.106973  15.807814  15.542035
+ 35           0    2.31698  15.518818  15.984036
+ 36           0   3.962966  16.650804   17.57604
+ 37           0   5.153955  16.876802  18.262041
+ 38           0   5.982948  16.745803   17.81704
+ 39           0   5.146956  17.292797  19.587044
+ 40           0   3.927966  17.484795  20.267046
+ 41           0   2.711977  17.185798  19.565044
+ 42           0   2.749976  16.794803  18.235041
+ 43           0   1.938983  16.622805   17.77204
+ 44           0   6.495944  17.554794  20.245046
+ 45           0   7.179938    16.9958  19.820045
+ 46           0   6.442944  17.336796  21.199048
+ 47           0   6.733942  18.498783  20.138045
+ 48           0   1.349988  17.335796  20.205045
+ 49           0   0.653994  17.194798  19.529044
+ 50           0   1.262989  18.236786  20.581046
+ 51           0   1.249989  16.672804  20.919047
+ 52           0  -2.859975  11.359866  23.764053
+ 53           0  -2.204981   11.10387  23.125052
+ 54           0  -4.012965  10.597875  23.887054
+ 55           0  -4.145964   9.840884  23.329052
+ 56           0  -4.980957  10.950871  24.835056
+ 57           0   -5.76595  10.425877  24.938056
+ 58           0  -4.777959  12.079858  25.628058
+ 59           0  -3.586969   12.78885  25.433057
+ 60           0   -5.72795  12.587852   26.59706
+ 61           0  -6.531944  12.104858   26.74906
+ 62           0  -5.508952  13.713839  27.283061
+ 63           0  -6.165947  14.017835  27.898063
+ 64           0  -4.302963   14.47483  27.113061
+ 65           0  -3.350971  13.973836  26.194059
+ 66           0  -4.006965  15.677816  27.752062
+ 67           0   -4.61596  16.041811  28.383064
+ 68           0  -2.832976  16.340808  27.469062
+ 69           0  -2.626977  17.161798  27.900063
+ 70           0  -1.948983  15.785814   26.53906
+ 71           0  -0.731994  16.437807  26.022058
+ 72           0  -0.437996  17.270797  26.372059
+ 73           0   0.970992  16.508806  24.417055
+ 74           0   0.946992   17.87079  24.149054
+ 75           0   0.244998  18.407784  24.496055
+ 76           0   1.951983  18.456783  23.371053
+ 77           0   2.969974  17.650793  22.799051
+ 78           0   3.009974  16.269809  23.135052
+ 79           0   2.021983  15.721815  23.932054
+ 80           0   2.056982  14.798826  24.154054
+ 81           0   1.852984  19.952766  23.128052
+ 82           0    1.15599  20.331761  23.703053
+ 83           0   1.627986  20.117764   22.18905
+ 84           0   2.712977  20.375761  23.336052
+ 85           0   4.115964  15.364819  22.654051
+ 86           0   4.092965  14.524829  23.159052
+ 87           0   4.979957  15.804814  22.790051
+ 88           0   3.991965  15.175822  21.700049
+ 89           0   7.391936  26.000694  27.135061
+ 90           0   7.278937  25.206704  27.644062
+ 91           0   7.648934   27.21668  27.818063
+ 92           0   7.731933   27.22768  28.764065
+ 93           0   7.779933  28.386666  27.090061
+ 94           0   7.950931  29.208657  27.534062
+ 95           0   7.657934  28.352667  25.700058
+ 96           0   7.438936  27.092682  25.111056
+ 97           0   7.714933  29.518653  24.839056
+ 98           0   7.885932  30.370643  25.223057
+ 99           0   7.531935  29.424654  23.509053
+100           0   7.547935  30.214645  22.982052
+101           0   7.310937  28.154669  22.868051
+102           0   7.286937  27.004683  23.695053
+103           0   7.083939  27.965671  21.504048
+104           0   7.088939  28.712663  20.917047
+105           0   6.853941  26.707686  21.001047
+106           0   6.700942  26.574688  20.073045
+107           0   6.850941  25.619699  21.896049
+108           0   6.517944  24.249715  21.506048
+109           0   6.380945  24.021718  20.594046
+110           0   5.892949  22.074741   22.13605
+111           0   5.121956  21.826743  21.014047
+112           0   5.005957  22.510735  20.365046
+113           0   4.511961  20.588758  20.821047
+114           0    4.66296   19.57677  21.800049
+115           0   5.492953  19.818767  22.920052
+116           0   6.100947  21.064752  23.064052
+117           0   6.665942  21.224751  23.810054
+118           0   3.658968   20.43376  19.576044
+119           0   3.573969   21.30175  19.129043
+120           0   2.769976  20.107764  19.828045
+121           0   4.081965  19.792767  18.968043
+122           0    5.75995  18.766779  23.971054
+123           0   6.082947  17.948789  23.540053
+124           0   4.930957  18.574782  24.458055
+125           0   6.437944  19.095776  24.597055
+126           0    6.91194  13.833837  15.550035
+127           0   6.126947  13.501841  15.130034
+128           0   7.870932  12.913848  16.053036
+129           0   7.716933  11.980859  15.966036
+130           0   9.005922  13.353843  16.656037
+131           0   9.652917   12.73585  16.975038
+132           0    9.20492  14.738827  16.800038
+133           0   8.219929  15.581817  16.278037
+134           0  10.350911   15.33982  17.458039
+135           0  11.030905  14.768826   17.79604
+136           0  10.491909  16.655804   17.60904
+137           0  11.252903    17.0048  18.057041
+138           0   9.493918  17.544794  17.093038
+139           0   8.376928    16.9958  16.418037
+140           0   9.533918  18.947777  17.221039
+141           0  10.264911  19.365772   17.66104
+142           0   8.521926  19.701768  16.712038
+143           0   8.547926  20.648757  16.783038
+144           0   7.442936  19.071776  16.083036
+145           0   6.239946  19.780768  15.597035
+146           0   6.167947  20.725756  15.667035
+147           0   4.055965  19.729768  14.797033
+148           0   3.589969  20.761756  15.613035
+149           0   4.126964  21.072752  16.332037
+150           0    2.34498  21.338749  15.381035
+151           0   1.515987  20.849755  14.343032
+152           0   2.022983  19.834767   13.49803
+153           0   3.284972  19.287773  13.725031
+154           0   3.619969  18.610781   13.14803
+155           0   1.942983  22.454736  16.331037
+156           0   2.654977  22.595734  16.990038
+157           0    1.11499  22.208739  16.793038
+158           0   1.800984  23.280726  15.823036
+159           0   1.247989  19.331773  12.301028
+160           0   1.842984  18.811779  11.721026
+161           0   0.887992  20.093764  11.801027
+162           0   0.509996  18.762779  12.605028
+163           0   3.883966  18.218786  21.662049
+164           0          0   21.28475  14.264032
+165           0   1.778985  30.492642  15.652035
+166           0  -0.638994  29.455654  15.926036
+167           0  -0.745994  26.973683  15.080034
+168           0   2.996974  30.996636  15.550035
+169           0   3.676968  30.483642  15.130034
+170           0   3.313971  32.287621  16.053036
+171           0   4.198964  32.620617  15.966036
+172           0    2.36598  33.049612  16.656037
+173           0   2.576978  33.919601  16.975038
+174           0   1.066991  32.529618  16.800038
+175           0   0.828993  31.254633  16.278037
+176           0     -0.027   33.22161  17.458039
+177           0   0.127999  34.096599   17.79604
+178           0  -1.236989  32.685616   17.60904
+179           0  -1.919983   33.17061  18.057041
+180           0  -1.506987  31.376631  17.093038
+181           0  -0.472996  30.684639  16.418037
+182           0  -2.742976  30.710639  17.221039
+183           0   -3.47097  31.134634   17.66104
+184           0  -2.889975  29.456654  16.712038
+185           0  -3.722968  29.005659  16.783038
+186           0  -1.803984  28.837661  16.083036
+187           0  -1.816984  27.440678  15.597035
+188           0  -2.598978  26.906684  15.667035
+189           0  -0.680994  25.575699  14.797033
+190           0  -1.341988   24.65571  15.613035
+191           0  -1.879984  24.965707  16.332037
+192           0  -1.218989  23.289726  15.381035
+193           0  -0.380997  22.815732  14.343032
+194           0   0.244998  23.762721   13.49803
+195           0   0.087999  25.129705  13.725031
+196           0   0.505996  25.756697   13.14803
+197           0  -1.984983  22.383737  16.331037
+198           0  -2.461979  22.929731  16.990038
+199           0  -1.356988  21.788744  16.793038
+200           0  -2.628977  21.846743  15.823036
+201           0   1.067991  23.342726  12.301028
+202           0   1.219989  24.117717  11.721026
+203           0   0.587995  22.649734  11.801027
+204           0   1.929983   22.98773  12.605028
+205           0  -8.863923  18.221786  15.652035
+206           0  -6.755942  16.646804  15.926036
+207           0  -4.553961  17.794791  15.080034
+208           0  -9.908914  19.024776  15.550035
+209           0  -9.803915  19.870766  15.130034
+210           0 -11.184903  18.653781  16.053036
+211           0 -11.915897  19.253774  15.966036
+212           0 -11.371902  17.451795  16.656037
+213           0 -12.229894  17.199798  16.975038
+214           0 -10.271911  16.586805  16.800038
+215           0  -9.048922    17.0188  16.278037
+216           0 -10.323911   15.29382  17.458039
+217           0 -11.158904  14.989824   17.79604
+218           0   -9.25492  14.513829   17.60904
+219           0  -9.333919  13.679839  18.057041
+220           0  -7.985931  14.933824  17.093038
+221           0  -7.902932   16.17581  16.418037
+222           0  -6.790941  14.196833  17.221039
+223           0  -6.794941  13.354843   17.66104
+224           0  -5.631951  14.696827  16.712038
+225           0  -4.824958  14.200833  16.783038
+226           0  -5.638951  15.945813  16.083036
+227           0  -4.422962  16.633805  15.597035
+228           0  -3.568969  16.223809  15.667035
+229           0  -3.374971  18.549782  14.797033
+230           0  -2.247981  18.437783  15.613035
+231           0  -2.247981  17.816791  16.332037
+232           0   -1.12599  19.227774  15.381035
+233           0   -1.13499  20.189763  14.343032
+234           0   -2.26798  20.258762   13.49803
+235           0  -3.372971  19.438772  13.725031
+236           0  -4.125964  19.486771   13.14803
+237           0      0.041  19.016777  16.331037
+238           0  -0.192998  18.330785  16.990038
+239           0   0.241998  19.857767  16.793038
+240           0   0.827993   18.72778  15.823036
+241           0   -2.31598  21.181751  12.301028
+242           0  -3.062974  20.925754  11.721026
+243           0  -1.475987  21.111752  11.801027
+244           0  -2.439979   22.10474  12.605028
+245           0   0.924992  28.553664  14.925034
+246           0  -5.972948  25.812697  24.505055
+247           0   0.328997  29.348655  12.938029
+248           0    2.29798  27.735674  13.638031
+249           0   2.246981  27.283679  16.192036
+250           0   8.986922  23.419725  24.512055
+251           0   6.872941  22.699733  25.930058
+252           0   4.744959  23.924719  25.096056
+253           0  -7.673934  25.286703  25.824058
+254           0  -7.423936  25.160704  23.194052
+255           0  -5.002957  25.803697   22.43305
+256           0  -0.656994  30.173645  12.587028
+257           0   -1.20899  30.535641   13.26903
+258           0  -0.915992  30.529641  11.266025
+259           0  -1.632986  31.119634  11.065025
+260           0  -0.133999  30.028647  10.254023
+261           0  -0.295997  30.272644   9.350021
+262           0   0.918992  29.138658  10.587024
+263           0    1.10899  28.852661  11.933027
+264           0   1.787985  28.515665   9.622022
+265           0   1.666986  28.707663    8.69902
+266           0   2.772976  27.661675   9.993022
+267           0   3.313971   27.25268   9.327021
+268           0   3.010974  27.367678  11.369026
+269           0   2.176981  27.970671  12.330028
+270           0   4.013965  26.510688  11.859027
+271           0    4.60296  26.073694  11.255025
+272           0   4.142964  26.305691   13.21903
+273           0   4.835958  25.752697   13.55803
+274           0   3.240972  26.919684  14.085032
+275           0   3.189972  26.713686  15.542035
+276           0   3.835967  26.175692  15.984036
+277           0   2.031982  27.034682   17.57604
+278           0   1.240989  27.952671  18.262041
+279           0   0.939992  28.735662   17.81704
+280           0   0.883992  27.738674  19.587044
+281           0   1.326989  26.586688  20.267046
+282           0   2.193981  25.682698  19.565044
+283           0   2.513978  25.911695  18.235041
+284           0   3.067973  25.294703   17.77204
+285           0     -0.017  28.776662  20.245046
+286           0   0.124999  29.648652  19.820045
+287           0   0.197998  28.838661  21.199048
+288           0  -0.953992  28.509665  20.138045
+289           0   2.744976  24.428713  20.205045
+290           0   3.214972  23.896719  19.529044
+291           0   2.008983  23.902719  20.581046
+292           0   3.369971   24.67371  20.919047
+293           0  10.025913  23.770721  23.764053
+294           0   9.918914  24.466712  23.125052
+295           0  11.261903  23.152728  23.887054
+296           0  11.983896  23.416725  23.329052
+297           0  11.440901   22.13874  24.835056
+298           0  12.286894  21.720745  24.938056
+299           0   10.36091  21.749744  25.628058
+300           0   9.150921  22.426736  25.433057
+301           0   10.39691  20.673757   26.59706
+302           0  11.216903  20.218762   26.74906
+303           0    9.31092  20.299761  27.283061
+304           0   9.376919   19.57877  27.898063
+305           0    8.04893  20.964754  27.113061
+306           0   8.006931  22.039741  26.194059
+307           0   6.859941  20.618758  27.752062
+308           0   6.848941  19.908766  28.383064
+309           0   5.698951   21.30475  27.469062
+310           0   4.883958  21.071752  27.900063
+311           0    5.73695  22.347737   26.53906
+312           0   4.563961  23.074729  26.022058
+313           0   3.694968  22.912731  26.372059
+314           0   3.650968  24.514712  24.417055
+315           0   2.482979   23.81272  24.149054
+316           0    2.36898   22.93573  24.496055
+317           0   1.473987  24.389713  23.371053
+318           0   1.661986  25.673698  22.799051
+319           0   2.838975   26.39969  23.135052
+320           0   3.806967  25.817697  23.932054
+321           0    4.58896  26.309691  24.154054
+322           0   0.226998  23.555723  23.128052
+323           0   0.247998  22.762732  23.703053
+324           0   0.196998  23.278726   22.18905
+325           0  -0.568995  24.089717  23.336052
+326           0   3.069973  27.809673  22.654051
+327           0   3.807967  28.210668  23.159052
+328           0   2.255981  28.338667  22.790051
+329           0   3.294972  27.796673  21.700049
+330           0  -7.779933  25.328702  27.135061
+331           0  -7.034939  25.628699  27.644062
+332           0  -8.960923  24.943707  27.818063
+333           0  -9.011922  25.009706  28.764065
+334           0 -10.039913  24.471712  27.090061
+335           0 -10.837906  24.208715  27.534062
+336           0  -9.949914  24.383713  25.700058
+337           0  -8.748924  24.823708  25.111056
+338           0 -10.987905   23.84972  24.839056
+339           0 -11.810898  23.571723  25.223057
+340           0 -10.814907  23.737721  23.509053
+341           0 -11.506901  23.357725  22.982052
+342           0  -9.604917  24.181716  22.868051
+343           0  -8.596926  24.735709  23.695053
+344           0  -9.327919  24.079717  21.504048
+345           0  -9.976914  23.709721  20.917047
+346           0   -8.12293  24.509712  21.001047
+347           0  -7.930931  24.443713  20.073045
+348           0  -7.178938  25.050706  21.896049
+349           0   -5.82595  25.447701  21.506048
+350           0  -5.560952  25.442701  20.594046
+351           0  -3.630969  25.993695   22.13605
+352           0  -3.028974  25.449701  21.014047
+353           0  -3.563969  25.007706  20.365046
+354           0  -1.652986    25.5417  20.821047
+355           0  -0.851993  26.177692  21.800049
+356           0  -1.475987  26.775685  22.920052
+357           0  -2.858975  26.678686  23.064052
+358           0  -3.280972  27.087682  23.810054
+359           0  -1.092991  24.879708  19.576044
+360           0  -1.801984  24.371714  19.129043
+361           0  -0.365997  24.272715  19.828045
+362           0  -0.748994    25.5667  18.968043
+363           0  -0.698994  27.531676  23.971054
+364           0  -0.151999  28.221668  23.540053
+365           0  -0.117999  26.910684  24.458055
+366           0  -1.322989  27.954671  24.597055
+367           0   0.713994  26.182692  21.662049
+368           0  -6.756942  18.451783  14.925034
+369           0  -0.934992  13.848837  24.505055
+370           0  -7.146938  17.537794  12.938029
+371           0  -6.734942  20.049764  13.638031
+372           0  -6.318945  20.231762  16.192036
+373           0  -6.341945  28.000671  24.512055
+374           0   -4.66096  26.529688  25.930058
+375           0   -4.65896  24.074717  25.096056
+376           0   0.371997  12.638851  25.824058
+377           0   0.354997  12.917848  23.194052
+378           0  -1.411988  14.692827   22.43305
+379           0  -7.368936  16.272809  12.587028
+380           0  -7.406936  15.612817   13.26903
+381           0  -7.547935  15.869813  11.266025
+382           0  -7.699933  14.953824  11.065025
+383           0  -7.504935  16.796803  10.254023
+384           0  -7.634934  16.534806   9.350021
+385           0  -7.260937  18.153787  10.587024
+386           0  -7.107939  18.461783  11.933027
+387           0  -7.154938  19.218774   9.622022
+388           0  -7.260937  19.017776    8.69902
+389           0   -6.90894  20.498759   9.993022
+390           0  -6.824941  21.170751   9.327021
+391           0  -6.772941  20.850755  11.369026
+392           0  -6.878941  19.827767  12.330028
+393           0  -6.532944   22.14874  11.859027
+394           0  -6.448944  22.876731  11.255025
+395           0  -6.418945  22.362737   13.21903
+396           0  -6.286946  23.239727   13.55803
+397           0  -6.499944   21.27375  14.085032
+398           0  -6.296946  21.332749  15.542035
+399           0  -6.152947   22.16174  15.984036
+400           0  -5.994948  20.170763   17.57604
+401           0  -6.393945  19.025776  18.262041
+402           0   -6.92294  18.373784   17.81704
+403           0  -6.030948  18.824779  19.587044
+404           0  -5.254955  19.783767  20.267046
+405           0  -4.905958  20.985753  19.565044
+406           0  -5.263955  21.148751  18.235041
+407           0  -5.006957  21.936742   17.77204
+408           0  -6.478944  17.524794  20.245046
+409           0  -7.304937  17.211798  19.820045
+410           0  -6.640943  17.679792  21.199048
+411           0   -5.77995  16.846802  20.138045
+412           0  -4.094965   22.09074  20.205045
+413           0  -3.868967  22.763732  19.529044
+414           0  -3.270972  21.715745  20.581046
+415           0   -4.61996  22.508735  20.919047
+416           0  -7.165938  28.724662  23.764053
+417           0  -7.714933  28.284668  23.125052
+418           0  -7.248937  30.103646  23.887054
+419           0  -7.838932   30.59764  23.329052
+420           0  -6.459944  30.765638  24.835056
+421           0  -6.520944  31.708627  24.938056
+422           0  -5.582952  30.025647  25.628058
+423           0  -5.563952  28.639663  25.433057
+424           0   -4.66896   30.59464   26.59706
+425           0   -4.68496  31.531629   26.74906
+426           0  -3.801967  29.841649  27.283061
+427           0  -3.209972  30.258644  27.898063
+428           0  -3.746968  28.416666  27.113061
+429           0   -4.65696  27.842673  26.194059
+430           0  -2.852975  27.558676  27.752062
+431           0  -2.232981  27.904672  28.383064
+432           0  -2.865975  26.210692  27.469062
+433           0   -2.25698  25.621699  27.900063
+434           0  -3.788967  25.722698   26.53906
+435           0  -3.831967  24.342714  26.022058
+436           0  -3.256972  23.671722  26.372059
+437           0   -4.62296  22.831732  24.417055
+438           0   -3.42997  22.171739  24.149054
+439           0  -2.613977  22.511735  24.496055
+440           0   -3.42597  21.008753  23.371053
+441           0   -4.63196  20.530759  22.799051
+442           0  -5.848949  21.186751  23.135052
+443           0   -5.82895  22.315738  23.932054
+444           0  -6.645943  22.746733  24.154054
+445           0  -2.079982  20.345761  23.128052
+446           0  -1.402988  20.760756  23.703053
+447           0  -1.824984   20.45976   22.18905
+448           0  -2.143981  19.390772  23.336052
+449           0  -7.184938  20.681757  22.654051
+450           0  -7.900932  21.120752  23.159052
+451           0  -7.235937  19.711768  22.790051
+452           0  -7.286937  20.883755  21.700049
+453           0   0.387997  12.525853  27.135061
+454           0  -0.243998  13.020847  27.644062
+455           0   1.311989  11.694863  27.818063
+456           0   1.280989  11.617863  28.764065
+457           0    2.26098  10.996871  27.090061
+458           0   2.886975  10.437877  27.534062
+459           0    2.29198  11.118869  25.700058
+460           0   1.309989   11.93986  25.111056
+461           0   3.272972  10.486877  24.839056
+462           0   3.924966   9.912883  25.223057
+463           0   3.282972  10.692874  23.509053
+464           0   3.958966  10.282879  22.982052
+465           0    2.29398  11.518865  22.868051
+466           0   1.309989  12.114858  23.695053
+467           0   2.242981  11.809861  21.504048
+468           0   2.887975  11.431866  20.917047
+469           0   1.268989  12.638851  21.001047
+470           0   1.229989  12.836849  20.073045
+471           0   0.328997  13.184845  21.896049
+472           0  -0.691994  14.157834  21.506048
+473           0  -0.819993  14.390831  20.594046
+474           0   -2.26298  15.786814   22.13605
+475           0  -2.091982  16.578805  21.014047
+476           0  -1.441988  16.337808  20.365046
+477           0  -2.859975  17.725792  20.821047
+478           0  -3.810967  18.100787  21.800049
+479           0  -4.016965  17.260797  22.920052
+480           0  -3.240972  16.111811  23.064052
+481           0  -3.384971  15.542817  23.810054
+482           0  -2.566978  18.541782  19.576044
+483           0  -1.772985  18.181786  19.129043
+484           0  -2.403979  19.474771  19.828045
+485           0  -3.332971  18.495783  18.968043
+486           0  -5.059956  17.555794  23.971054
+487           0  -5.930949  17.685792  23.540053
+488           0  -4.812958  18.369784  24.458055
+489           0  -5.114956  16.804803  24.597055
+490           0   -4.59796  19.454771  21.662049
+property_flags:
+ 1 00 01
+ 2 00 01
+ 3 00 01
+ 4 00 01
+ 5 00 01
+ 6 00 01
+ 7 00 01
+ 8 00 01
+ 9 00 01
+ 10 00 01
+ 11 00 01
+ 12 00 01
+ 13 00 01
+ 14 00 01
+ 15 00 01
+ 16 00 01
+ 17 00 01
+ 18 00 01
+ 19 00 01
+ 20 00 01
+ 21 00 01
+ 22 00 01
+ 23 00 01
+ 24 00 01
+ 25 00 01
+ 26 00 01
+ 27 00 01
+ 28 00 01
+ 29 00 01
+ 30 00 01
+ 31 00 01
+ 32 00 01
+ 33 00 01
+ 34 00 01
+ 35 00 01
+ 36 00 01
+ 37 00 01
+ 38 00 01
+ 39 00 01
+ 40 00 01
+ 41 00 01
+ 42 00 01
+ 43 00 01
+ 44 00 01
+ 45 00 01
+ 46 00 01
+ 47 00 01
+ 48 00 01
+ 49 00 01
+ 50 00 01
+ 51 00 01
+ 52 00 01
+ 53 00 01
+ 54 00 01
+ 55 00 01
+ 56 00 01
+ 57 00 01
+ 58 00 01
+ 59 00 01
+ 60 00 01
+ 61 00 01
+ 62 00 01
+ 63 00 01
+ 64 00 01
+ 65 00 01
+ 66 00 01
+ 67 00 01
+ 68 00 01
+ 69 00 01
+ 70 00 01
+ 71 00 01
+ 72 00 01
+ 73 00 01
+ 74 00 01
+ 75 00 01
+ 76 00 01
+ 77 00 01
+ 78 00 01
+ 79 00 01
+ 80 00 01
+ 81 00 01
+ 82 00 01
+ 83 00 01
+ 84 00 01
+ 85 00 01
+ 86 00 01
+ 87 00 01
+ 88 00 01
+ 89 00 01
+ 90 00 01
+ 91 00 01
+ 92 00 01
+ 93 00 01
+ 94 00 01
+ 95 00 01
+ 96 00 01
+ 97 00 01
+ 98 00 01
+ 99 00 01
+ 100 00 01
+ 101 00 01
+ 102 00 01
+ 103 00 01
+ 104 00 01
+ 105 00 01
+ 106 00 01
+ 107 00 01
+ 108 00 01
+ 109 00 01
+ 110 00 01
+ 111 00 01
+ 112 00 01
+ 113 00 01
+ 114 00 01
+ 115 00 01
+ 116 00 01
+ 117 00 01
+ 118 00 01
+ 119 00 01
+ 120 00 01
+ 121 00 01
+ 122 00 01
+ 123 00 01
+ 124 00 01
+ 125 00 01
+ 126 00 01
+ 127 00 01
+ 128 00 01
+ 129 00 01
+ 130 00 01
+ 131 00 01
+ 132 00 01
+ 133 00 01
+ 134 00 01
+ 135 00 01
+ 136 00 01
+ 137 00 01
+ 138 00 01
+ 139 00 01
+ 140 00 01
+ 141 00 01
+ 142 00 01
+ 143 00 01
+ 144 00 01
+ 145 00 01
+ 146 00 01
+ 147 00 01
+ 148 00 01
+ 149 00 01
+ 150 00 01
+ 151 00 01
+ 152 00 01
+ 153 00 01
+ 154 00 01
+ 155 00 01
+ 156 00 01
+ 157 00 01
+ 158 00 01
+ 159 00 01
+ 160 00 01
+ 161 00 01
+ 162 00 01
+ 163 00 01
+ 164 00 01
+ 165 00 01
+ 166 00 01
+ 167 00 01
+ 168 00 01
+ 169 00 01
+ 170 00 01
+ 171 00 01
+ 172 00 01
+ 173 00 01
+ 174 00 01
+ 175 00 01
+ 176 00 01
+ 177 00 01
+ 178 00 01
+ 179 00 01
+ 180 00 01
+ 181 00 01
+ 182 00 01
+ 183 00 01
+ 184 00 01
+ 185 00 01
+ 186 00 01
+ 187 00 01
+ 188 00 01
+ 189 00 01
+ 190 00 01
+ 191 00 01
+ 192 00 01
+ 193 00 01
+ 194 00 01
+ 195 00 01
+ 196 00 01
+ 197 00 01
+ 198 00 01
+ 199 00 01
+ 200 00 01
+ 201 00 01
+ 202 00 01
+ 203 00 01
+ 204 00 01
+ 205 00 01
+ 206 00 01
+ 207 00 01
+ 208 00 01
+ 209 00 01
+ 210 00 01
+ 211 00 01
+ 212 00 01
+ 213 00 01
+ 214 00 01
+ 215 00 01
+ 216 00 01
+ 217 00 01
+ 218 00 01
+ 219 00 01
+ 220 00 01
+ 221 00 01
+ 222 00 01
+ 223 00 01
+ 224 00 01
+ 225 00 01
+ 226 00 01
+ 227 00 01
+ 228 00 01
+ 229 00 01
+ 230 00 01
+ 231 00 01
+ 232 00 01
+ 233 00 01
+ 234 00 01
+ 235 00 01
+ 236 00 01
+ 237 00 01
+ 238 00 01
+ 239 00 01
+ 240 00 01
+ 241 00 01
+ 242 00 01
+ 243 00 01
+ 244 00 01
+ 245 00 01
+ 246 00 01
+ 247 00 01
+ 248 00 01
+ 249 00 01
+ 250 00 01
+ 251 00 01
+ 252 00 01
+ 253 00 01
+ 254 00 01
+ 255 00 01
+ 256 00 01
+ 257 00 01
+ 258 00 01
+ 259 00 01
+ 260 00 01
+ 261 00 01
+ 262 00 01
+ 263 00 01
+ 264 00 01
+ 265 00 01
+ 266 00 01
+ 267 00 01
+ 268 00 01
+ 269 00 01
+ 270 00 01
+ 271 00 01
+ 272 00 01
+ 273 00 01
+ 274 00 01
+ 275 00 01
+ 276 00 01
+ 277 00 01
+ 278 00 01
+ 279 00 01
+ 280 00 01
+ 281 00 01
+ 282 00 01
+ 283 00 01
+ 284 00 01
+ 285 00 01
+ 286 00 01
+ 287 00 01
+ 288 00 01
+ 289 00 01
+ 290 00 01
+ 291 00 01
+ 292 00 01
+ 293 00 01
+ 294 00 01
+ 295 00 01
+ 296 00 01
+ 297 00 01
+ 298 00 01
+ 299 00 01
+ 300 00 01
+ 301 00 01
+ 302 00 01
+ 303 00 01
+ 304 00 01
+ 305 00 01
+ 306 00 01
+ 307 00 01
+ 308 00 01
+ 309 00 01
+ 310 00 01
+ 311 00 01
+ 312 00 01
+ 313 00 01
+ 314 00 01
+ 315 00 01
+ 316 00 01
+ 317 00 01
+ 318 00 01
+ 319 00 01
+ 320 00 01
+ 321 00 01
+ 322 00 01
+ 323 00 01
+ 324 00 01
+ 325 00 01
+ 326 00 01
+ 327 00 01
+ 328 00 01
+ 329 00 01
+ 330 00 01
+ 331 00 01
+ 332 00 01
+ 333 00 01
+ 334 00 01
+ 335 00 01
+ 336 00 01
+ 337 00 01
+ 338 00 01
+ 339 00 01
+ 340 00 01
+ 341 00 01
+ 342 00 01
+ 343 00 01
+ 344 00 01
+ 345 00 01
+ 346 00 01
+ 347 00 01
+ 348 00 01
+ 349 00 01
+ 350 00 01
+ 351 00 01
+ 352 00 01
+ 353 00 01
+ 354 00 01
+ 355 00 01
+ 356 00 01
+ 357 00 01
+ 358 00 01
+ 359 00 01
+ 360 00 01
+ 361 00 01
+ 362 00 01
+ 363 00 01
+ 364 00 01
+ 365 00 01
+ 366 00 01
+ 367 00 01
+ 368 00 01
+ 369 00 01
+ 370 00 01
+ 371 00 01
+ 372 00 01
+ 373 00 01
+ 374 00 01
+ 375 00 01
+ 376 00 01
+ 377 00 01
+ 378 00 01
+ 379 00 01
+ 380 00 01
+ 381 00 01
+ 382 00 01
+ 383 00 01
+ 384 00 01
+ 385 00 01
+ 386 00 01
+ 387 00 01
+ 388 00 01
+ 389 00 01
+ 390 00 01
+ 391 00 01
+ 392 00 01
+ 393 00 01
+ 394 00 01
+ 395 00 01
+ 396 00 01
+ 397 00 01
+ 398 00 01
+ 399 00 01
+ 400 00 01
+ 401 00 01
+ 402 00 01
+ 403 00 01
+ 404 00 01
+ 405 00 01
+ 406 00 01
+ 407 00 01
+ 408 00 01
+ 409 00 01
+ 410 00 01
+ 411 00 01
+ 412 00 01
+ 413 00 01
+ 414 00 01
+ 415 00 01
+ 416 00 01
+ 417 00 01
+ 418 00 01
+ 419 00 01
+ 420 00 01
+ 421 00 01
+ 422 00 01
+ 423 00 01
+ 424 00 01
+ 425 00 01
+ 426 00 01
+ 427 00 01
+ 428 00 01
+ 429 00 01
+ 430 00 01
+ 431 00 01
+ 432 00 01
+ 433 00 01
+ 434 00 01
+ 435 00 01
+ 436 00 01
+ 437 00 01
+ 438 00 01
+ 439 00 01
+ 440 00 01
+ 441 00 01
+ 442 00 01
+ 443 00 01
+ 444 00 01
+ 445 00 01
+ 446 00 01
+ 447 00 01
+ 448 00 01
+ 449 00 01
+ 450 00 01
+ 451 00 01
+ 452 00 01
+ 453 00 01
+ 454 00 01
+ 455 00 01
+ 456 00 01
+ 457 00 01
+ 458 00 01
+ 459 00 01
+ 460 00 01
+ 461 00 01
+ 462 00 01
+ 463 00 01
+ 464 00 01
+ 465 00 01
+ 466 00 01
+ 467 00 01
+ 468 00 01
+ 469 00 01
+ 470 00 01
+ 471 00 01
+ 472 00 01
+ 473 00 01
+ 474 00 01
+ 475 00 01
+ 476 00 01
+ 477 00 01
+ 478 00 01
+ 479 00 01
+ 480 00 01
+ 481 00 01
+ 482 00 01
+ 483 00 01
+ 484 00 01
+ 485 00 01
+ 486 00 01
+ 487 00 01
+ 488 00 01
+ 489 00 01
+ 490 00 01
+object_class bond
+property aromatic SCIGRESS1 noUnit 0 1 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property rflag SCIGRESS1 noUnit 0 1 HEX
+property ring SCIGRESS1 noUnit 0 1 INTEGER
+property type SCIGRESS1 noUnit 0 1 NAME
+ ID  aromatic dflag rflag ring type
+  1         0   0x1    0x0    0    single
+  2         0   0x1    0x0    1    single
+  3         0   0x1    0x0    1    single
+  4         0   0x1    0x0    1    single
+  5         0   0x1    0x0    1    single
+  6         0   0x1    0x0    0    double
+  7         0   0x1    0x0    0    single
+  8         0   0x1    0x0    1    single
+  9         0   0x1    0x0    1    single
+ 10         0   0x1    0x0    1    single
+ 11         0   0x1    0x0    1    single
+ 12         0   0x1    0x0    0    single
+ 13         0   0x1    0x0    0    double
+ 14         0   0x1    0x0    1    single
+ 15         0   0x1    0x0    1    single
+ 16         0   0x1    0x0    1    single
+ 17         0   0x1    0x0    1    single
+ 18         0   0x1    0x0    0    double
+ 19         0   0x1    0x0    0    single
+ 20         0   0x1    0x0    1    single
+ 21         0   0x1    0x0    1    single
+ 22         0   0x1    0x0    1    single
+ 23         0   0x1    0x0    1    single
+ 24         0   0x1    0x0    0    single
+ 25         0   0x1    0x0    0    double
+ 26         0   0x1    0x0    1    single
+ 27         0   0x1    0x0    0    single
+ 28         0   0x1    0x0    1    single
+ 29         0   0x1    0x0    0    single
+ 30         0   0x1    0x0    1    single
+ 31         0   0x1    0x0    0    single
+ 32         1   0x1    0x0    1    single
+ 33         1   0x1    0x0    1    single
+ 34         1   0x1    0x0    1    single
+ 35         1   0x1    0x0    1    double
+ 36         0   0x1    0x0    0    single
+ 37         1   0x1    0x0    1    single
+ 38         0   0x1    0x0    0    single
+ 39         0   0x1    0x0    1    single
+ 40         1   0x1    0x0    1    single
+ 41         0   0x1    0x0    1    single
+ 42         0   0x1    0x0    0    single
+ 43         0   0x1    0x0    1    single
+ 44         0   0x1    0x0    0    single
+ 45         0   0x1    0x0    0    single
+ 46         0   0x1    0x0    0    single
+ 47         1   0x1    0x0    1    single
+ 48         1   0x1    0x0    1    single
+ 49         1   0x1    0x0    1    single
+ 50         0   0x1    0x0    0    single
+ 51         1   0x1    0x0    1    single
+ 52         0   0x1    0x0    0    single
+ 53         1   0x1    0x0    1    single
+ 54         0   0x1    0x0    0    single
+ 55         1   0x1    0x0    1    single
+ 56         0   0x1    0x0    0    single
+ 57         0   0x1    0x0    0    single
+ 58         0   0x1    0x0    0    single
+ 59         0   0x1    0x0    0    single
+ 60         0   0x1    0x0    0    single
+ 61         0   0x1    0x0    0    single
+ 62         0   0x1    0x0    0    single
+ 63         0   0x1    0x0    0    single
+ 64         0   0x1    0x0    1    single
+ 65         0   0x1    0x0    0    single
+ 66         0   0x1    0x0    1    single
+ 67         0   0x1    0x0    0    single
+ 68         0   0x1    0x0    1    single
+ 69         0   0x1    0x0    0    single
+ 70         1   0x1    0x0    1    single
+ 71         1   0x1    0x0    1    single
+ 72         1   0x1    0x0    1    single
+ 73         1   0x1    0x0    1    double
+ 74         0   0x1    0x0    0    single
+ 75         1   0x1    0x0    1    single
+ 76         0   0x1    0x0    0    single
+ 77         1   0x1    0x0    1    single
+ 78         0   0x1    0x0    1    single
+ 79         0   0x1    0x0    1    single
+ 80         0   0x1    0x0    0    single
+ 81         0   0x1    0x0    1    single
+ 82         0   0x1    0x0    0    single
+ 83         0   0x1    0x0    0    single
+ 84         0   0x1    0x0    0    single
+ 85         1   0x1    0x0    1    single
+ 86         1   0x1    0x0    1    single
+ 87         1   0x1    0x0    1    single
+ 88         0   0x1    0x0    0    single
+ 89         1   0x1    0x0    1    single
+ 90         0   0x1    0x0    0    single
+ 91         0   0x1    0x0    0    single
+ 92         1   0x1    0x0    1    single
+ 93         0   0x1    0x0    0    single
+ 94         1   0x1    0x0    1    single
+ 95         0   0x1    0x0    0    single
+ 96         0   0x1    0x0    0    single
+ 97         0   0x1    0x0    0    single
+ 98         0   0x1    0x0    0    single
+ 99         0   0x1    0x0    0    single
+100         0   0x1    0x0    0    single
+101         0   0x1    0x0    0    single
+102         0   0x1    0x0    1    single
+103         0   0x1    0x0    0    single
+104         0   0x1    0x0    1    single
+105         0   0x1    0x0    0    single
+106         0   0x1    0x0    1    single
+107         0   0x1    0x0    0    single
+108         1   0x1    0x0    1    single
+109         1   0x1    0x0    1    single
+110         1   0x1    0x0    1    single
+111         1   0x1    0x0    1    double
+112         0   0x1    0x0    0    single
+113         1   0x1    0x0    1    single
+114         0   0x1    0x0    0    single
+115         0   0x1    0x0    1    single
+116         1   0x1    0x0    1    single
+117         0   0x1    0x0    1    single
+118         0   0x1    0x0    0    single
+119         0   0x1    0x0    1    single
+120         0   0x1    0x0    0    single
+121         0   0x1    0x0    0    single
+122         0   0x1    0x0    0    single
+123         1   0x1    0x0    1    single
+124         1   0x1    0x0    1    single
+125         1   0x1    0x0    1    single
+126         0   0x1    0x0    0    single
+127         0   0x1    0x0    0    single
+128         1   0x1    0x0    1    single
+129         0   0x1    0x0    0    single
+130         1   0x1    0x0    1    single
+131         1   0x1    0x0    1    single
+132         0   0x1    0x0    0    single
+133         0   0x1    0x0    0    single
+134         0   0x1    0x0    0    single
+135         0   0x1    0x0    0    single
+136         0   0x1    0x0    0    single
+137         0   0x1    0x0    0    single
+138         0   0x1    0x0    0    single
+139         0   0x1    0x0    0    single
+140         0   0x1    0x0    1    single
+141         0   0x1    0x0    0    single
+142         0   0x1    0x0    1    double
+143         0   0x1    0x0    0    single
+144         0   0x1    0x0    1    single
+145         0   0x1    0x0    0    single
+146         1   0x1    0x0    1    single
+147         1   0x1    0x0    1    single
+148         1   0x1    0x0    1    single
+149         1   0x1    0x0    1    double
+150         0   0x1    0x0    0    single
+151         1   0x1    0x0    1    single
+152         0   0x1    0x0    0    single
+153         1   0x1    0x0    1    single
+154         0   0x1    0x0    1    single
+155         0   0x1    0x0    1    double
+156         0   0x1    0x0    0    single
+157         0   0x1    0x0    1    single
+158         0   0x1    0x0    0    single
+159         0   0x1    0x0    0    single
+160         0   0x1    0x0    0    single
+161         1   0x1    0x0    1    single
+162         1   0x1    0x0    1    single
+163         1   0x1    0x0    1    single
+164         0   0x1    0x0    0    single
+165         1   0x1    0x0    1    single
+166         0   0x1    0x0    0    single
+167         1   0x1    0x0    1    single
+168         0   0x1    0x0    0    single
+169         0   0x1    0x0    0    single
+170         1   0x1    0x0    1    single
+171         0   0x1    0x0    0    single
+172         0   0x1    0x0    0    single
+173         0   0x1    0x0    0    single
+174         0   0x1    0x0    0    single
+175         0   0x1    0x0    0    single
+176         0   0x1    0x0    0    single
+177         0   0x1    0x0    0    single
+178         0   0x1    0x0    0    single
+179         0   0x1    0x0    0    single
+180         0   0x1    0x0    1    single
+181         0   0x1    0x0    1    single
+182         0   0x1    0x0    1    single
+183         0   0x1    0x0    1    single
+184         0   0x1    0x0    0    single
+185         0   0x1    0x0    0    double
+186         0   0x1    0x0    1    single
+187         0   0x1    0x0    0    single
+188         0   0x1    0x0    1    double
+189         0   0x1    0x0    0    single
+190         0   0x1    0x0    1    single
+191         0   0x1    0x0    0    single
+192         1   0x1    0x0    1    single
+193         1   0x1    0x0    1    single
+194         1   0x1    0x0    1    single
+195         1   0x1    0x0    1    double
+196         0   0x1    0x0    0    single
+197         1   0x1    0x0    1    single
+198         0   0x1    0x0    0    single
+199         1   0x1    0x0    1    single
+200         0   0x1    0x0    1    single
+201         0   0x1    0x0    1    double
+202         0   0x1    0x0    0    single
+203         0   0x1    0x0    1    single
+204         0   0x1    0x0    0    single
+205         0   0x1    0x0    0    single
+206         0   0x1    0x0    0    single
+207         1   0x1    0x0    1    single
+208         1   0x1    0x0    1    single
+209         1   0x1    0x0    1    single
+210         0   0x1    0x0    0    single
+211         1   0x1    0x0    1    single
+212         0   0x1    0x0    0    single
+213         1   0x1    0x0    1    single
+214         0   0x1    0x0    0    single
+215         1   0x1    0x0    1    single
+216         0   0x1    0x0    0    single
+217         0   0x1    0x0    0    single
+218         0   0x1    0x0    0    single
+219         0   0x1    0x0    0    single
+220         0   0x1    0x0    0    single
+221         0   0x1    0x0    0    single
+222         0   0x1    0x0    0    single
+223         0   0x1    0x0    1    single
+224         0   0x1    0x0    1    single
+225         0   0x1    0x0    1    single
+226         0   0x1    0x0    1    single
+227         0   0x1    0x0    0    single
+228         0   0x1    0x0    0    double
+229         0   0x1    0x0    1    single
+230         0   0x1    0x0    0    single
+231         0   0x1    0x0    1    double
+232         0   0x1    0x0    0    single
+233         0   0x1    0x0    1    single
+234         0   0x1    0x0    0    single
+235         1   0x1    0x0    1    single
+236         1   0x1    0x0    1    single
+237         1   0x1    0x0    1    single
+238         1   0x1    0x0    1    double
+239         0   0x1    0x0    0    single
+240         1   0x1    0x0    1    single
+241         0   0x1    0x0    0    single
+242         1   0x1    0x0    1    single
+243         0   0x1    0x0    1    single
+244         0   0x1    0x0    1    double
+245         0   0x1    0x0    0    single
+246         0   0x1    0x0    1    single
+247         0   0x1    0x0    0    single
+248         0   0x1    0x0    0    single
+249         0   0x1    0x0    0    single
+250         1   0x1    0x0    1    single
+251         1   0x1    0x0    1    single
+252         1   0x1    0x0    1    single
+253         0   0x1    0x0    0    single
+254         1   0x1    0x0    1    single
+255         0   0x1    0x0    0    single
+256         1   0x1    0x0    1    single
+257         0   0x1    0x0    0    single
+258         1   0x1    0x0    1    single
+259         0   0x1    0x0    0    single
+260         0   0x1    0x0    0    single
+261         0   0x1    0x0    0    single
+262         0   0x1    0x0    0    single
+263         0   0x1    0x0    0    single
+264         0   0x1    0x0    0    single
+265         0   0x1    0x0    0    single
+266         0   0x1    0x0    0    single
+267         0   0x1    0x0    0    single
+268         0   0x1    0x0    1    single
+269         0   0x1    0x0    1    single
+270         0   0x1    0x0    1    single
+271         0   0x1    0x0    1    single
+272         0   0x1    0x0    0    double
+273         0   0x1    0x0    0    single
+274         0   0x1    0x0    1    single
+275         0   0x1    0x0    1    single
+276         0   0x1    0x0    1    single
+277         0   0x1    0x0    1    single
+278         0   0x1    0x0    0    single
+279         0   0x1    0x0    0    double
+280         0   0x1    0x0    1    single
+281         0   0x1    0x0    1    single
+282         0   0x1    0x0    1    single
+283         0   0x1    0x0    1    single
+284         0   0x1    0x0    0    double
+285         0   0x1    0x0    0    single
+286         0   0x1    0x0    1    single
+287         0   0x1    0x0    0    single
+288         0   0x1    0x0    1    single
+289         0   0x1    0x0    0    single
+290         0   0x1    0x0    1    single
+291         0   0x1    0x0    0    single
+292         1   0x1    0x0    1    single
+293         1   0x1    0x0    1    single
+294         1   0x1    0x0    1    single
+295         1   0x1    0x0    1    double
+296         0   0x1    0x0    0    single
+297         1   0x1    0x0    1    single
+298         0   0x1    0x0    0    single
+299         0   0x1    0x0    1    single
+300         1   0x1    0x0    1    single
+301         0   0x1    0x0    1    single
+302         0   0x1    0x0    0    single
+303         0   0x1    0x0    1    single
+304         0   0x1    0x0    0    single
+305         0   0x1    0x0    0    single
+306         0   0x1    0x0    0    single
+307         1   0x1    0x0    1    single
+308         1   0x1    0x0    1    single
+309         1   0x1    0x0    1    single
+310         0   0x1    0x0    0    single
+311         1   0x1    0x0    1    single
+312         0   0x1    0x0    0    single
+313         1   0x1    0x0    1    single
+314         0   0x1    0x0    0    single
+315         1   0x1    0x0    1    single
+316         0   0x1    0x0    0    single
+317         0   0x1    0x0    0    single
+318         0   0x1    0x0    0    single
+319         0   0x1    0x0    0    single
+320         0   0x1    0x0    0    single
+321         0   0x1    0x0    0    single
+322         0   0x1    0x0    0    single
+323         0   0x1    0x0    0    single
+324         0   0x1    0x0    1    single
+325         0   0x1    0x0    0    single
+326         0   0x1    0x0    1    single
+327         0   0x1    0x0    0    single
+328         0   0x1    0x0    1    single
+329         0   0x1    0x0    0    single
+330         1   0x1    0x0    1    single
+331         1   0x1    0x0    1    single
+332         1   0x1    0x0    1    single
+333         1   0x1    0x0    1    double
+334         0   0x1    0x0    0    single
+335         1   0x1    0x0    1    single
+336         0   0x1    0x0    0    single
+337         1   0x1    0x0    1    single
+338         0   0x1    0x0    1    single
+339         0   0x1    0x0    1    single
+340         0   0x1    0x0    0    single
+341         0   0x1    0x0    1    single
+342         0   0x1    0x0    0    single
+343         0   0x1    0x0    0    single
+344         0   0x1    0x0    0    single
+345         1   0x1    0x0    1    single
+346         1   0x1    0x0    1    single
+347         1   0x1    0x0    1    single
+348         0   0x1    0x0    0    single
+349         0   0x1    0x0    0    single
+350         1   0x1    0x0    1    single
+351         0   0x1    0x0    0    single
+352         1   0x1    0x0    1    single
+353         0   0x1    0x0    0    single
+354         1   0x1    0x0    1    single
+355         0   0x1    0x0    0    single
+356         0   0x1    0x0    0    single
+357         0   0x1    0x0    0    single
+358         0   0x1    0x0    0    single
+359         0   0x1    0x0    0    single
+360         0   0x1    0x0    0    single
+361         0   0x1    0x0    0    single
+362         0   0x1    0x0    1    single
+363         0   0x1    0x0    0    single
+364         0   0x1    0x0    1    single
+365         0   0x1    0x0    0    single
+366         0   0x1    0x0    1    single
+367         0   0x1    0x0    0    single
+368         1   0x1    0x0    1    single
+369         1   0x1    0x0    1    single
+370         1   0x1    0x0    1    single
+371         1   0x1    0x0    1    double
+372         0   0x1    0x0    0    single
+373         1   0x1    0x0    1    single
+374         0   0x1    0x0    0    single
+375         0   0x1    0x0    1    single
+376         1   0x1    0x0    1    single
+377         0   0x1    0x0    1    single
+378         0   0x1    0x0    0    single
+379         0   0x1    0x0    1    single
+380         0   0x1    0x0    0    single
+381         0   0x1    0x0    0    single
+382         0   0x1    0x0    0    single
+383         1   0x1    0x0    1    single
+384         1   0x1    0x0    1    single
+385         1   0x1    0x0    1    single
+386         0   0x1    0x0    0    single
+387         0   0x1    0x0    0    single
+388         1   0x1    0x0    1    single
+389         0   0x1    0x0    0    single
+390         1   0x1    0x0    1    single
+391         1   0x1    0x0    1    single
+392         0   0x1    0x0    0    single
+393         0   0x1    0x0    0    single
+394         0   0x1    0x0    0    single
+395         0   0x1    0x0    0    single
+396         0   0x1    0x0    0    single
+397         0   0x1    0x0    0    single
+398         0   0x1    0x0    0    single
+399         0   0x1    0x0    0    single
+400         0   0x1    0x0    0    single
+401         0   0x1    0x0    1    single
+402         0   0x1    0x0    1    single
+403         0   0x1    0x0    1    single
+404         0   0x1    0x0    1    single
+405         0   0x1    0x0    0    double
+406         0   0x1    0x0    0    single
+407         0   0x1    0x0    1    single
+408         0   0x1    0x0    1    single
+409         0   0x1    0x0    1    single
+410         0   0x1    0x0    1    single
+411         0   0x1    0x0    0    single
+412         0   0x1    0x0    0    double
+413         0   0x1    0x0    1    single
+414         0   0x1    0x0    1    single
+415         0   0x1    0x0    1    single
+416         0   0x1    0x0    1    single
+417         0   0x1    0x0    0    double
+418         0   0x1    0x0    0    single
+419         0   0x1    0x0    1    single
+420         0   0x1    0x0    0    single
+421         0   0x1    0x0    1    single
+422         0   0x1    0x0    0    single
+423         0   0x1    0x0    1    single
+424         0   0x1    0x0    0    single
+425         1   0x1    0x0    1    single
+426         1   0x1    0x0    1    single
+427         1   0x1    0x0    1    single
+428         1   0x1    0x0    1    double
+429         0   0x1    0x0    0    single
+430         1   0x1    0x0    1    single
+431         0   0x1    0x0    0    single
+432         0   0x1    0x0    1    single
+433         1   0x1    0x0    1    single
+434         0   0x1    0x0    1    single
+435         0   0x1    0x0    0    single
+436         0   0x1    0x0    1    single
+437         0   0x1    0x0    0    single
+438         0   0x1    0x0    0    single
+439         0   0x1    0x0    0    single
+440         1   0x1    0x0    1    single
+441         1   0x1    0x0    1    single
+442         1   0x1    0x0    1    single
+443         0   0x1    0x0    0    single
+444         0   0x1    0x0    0    single
+445         1   0x1    0x0    1    single
+446         1   0x1    0x0    1    single
+447         0   0x1    0x0    0    single
+448         1   0x1    0x0    1    single
+449         0   0x1    0x0    0    single
+450         0   0x1    0x0    0    single
+451         0   0x1    0x0    0    single
+452         0   0x1    0x0    0    single
+453         0   0x1    0x0    0    single
+454         0   0x1    0x0    0    single
+455         0   0x1    0x0    0    single
+456         0   0x1    0x0    0    single
+457         0   0x1    0x0    1    single
+458         0   0x1    0x0    0    single
+459         0   0x1    0x0    1    single
+460         0   0x1    0x0    0    single
+461         0   0x1    0x0    1    single
+462         0   0x1    0x0    0    single
+463         1   0x1    0x0    1    single
+464         1   0x1    0x0    1    single
+465         1   0x1    0x0    1    single
+466         1   0x1    0x0    1    double
+467         0   0x1    0x0    0    single
+468         1   0x1    0x0    1    single
+469         0   0x1    0x0    0    single
+470         1   0x1    0x0    1    single
+471         0   0x1    0x0    1    single
+472         0   0x1    0x0    1    single
+473         0   0x1    0x0    0    single
+474         0   0x1    0x0    1    single
+475         0   0x1    0x0    0    single
+476         0   0x1    0x0    0    single
+477         0   0x1    0x0    0    single
+478         1   0x1    0x0    1    single
+479         1   0x1    0x0    1    single
+480         1   0x1    0x0    1    single
+481         0   0x1    0x0    0    single
+482         1   0x1    0x0    1    single
+483         0   0x1    0x0    0    single
+484         0   0x1    0x0    0    single
+485         1   0x1    0x0    1    single
+486         0   0x1    0x0    0    single
+487         1   0x1    0x0    1    single
+488         0   0x1    0x0    0    single
+489         0   0x1    0x0    0    single
+490         0   0x1    0x0    0    single
+491         0   0x1    0x0    0    single
+492         0   0x1    0x0    0    single
+493         0   0x1    0x0    0    single
+494         0   0x1    0x0    0    single
+495         0   0x1    0x0    1    single
+496         0   0x1    0x0    0    single
+497         0   0x1    0x0    1    single
+498         0   0x1    0x0    0    single
+499         0   0x1    0x0    1    single
+500         0   0x1    0x0    0    single
+501         1   0x1    0x0    1    single
+502         1   0x1    0x0    1    single
+503         1   0x1    0x0    1    single
+504         1   0x1    0x0    1    double
+505         0   0x1    0x0    0    single
+506         1   0x1    0x0    1    single
+507         0   0x1    0x0    0    single
+508         0   0x1    0x0    1    single
+509         1   0x1    0x0    1    single
+510         0   0x1    0x0    1    single
+511         0   0x1    0x0    0    single
+512         0   0x1    0x0    1    single
+513         0   0x1    0x0    0    single
+514         0   0x1    0x0    0    single
+515         0   0x1    0x0    0    single
+516         1   0x1    0x0    1    single
+517         1   0x1    0x0    1    single
+518         1   0x1    0x0    1    single
+519         0   0x1    0x0    0    single
+520         0   0x1    0x0    0    single
+521         1   0x1    0x0    1    single
+522         0   0x1    0x0    0    single
+523         1   0x1    0x0    1    single
+524         1   0x1    0x0    1    single
+525         0   0x1    0x0    0    single
+526         0   0x1    0x0    0    single
+527         0   0x1    0x0    0    single
+528         0   0x1    0x0    0    single
+529         0   0x1    0x0    0    single
+530         0   0x1    0x0    0    single
+531         0   0x1    0x0    0    single
+532         0   0x1    0x0    0    single
+533         0   0x1    0x0    0    coord
+534         0   0x1    0x0    0    coord
+535         0   0x1    0x0    0    coord
+536         0   0x1    0x0    0    coord
+537         0   0x1    0x0    0    coord
+538         0   0x1    0x0    0    coord
+539         0   0x1    0x0    0    coord
+540         0   0x1    0x0    0    coord
+541         0   0x1    0x0    0    coord
+542         0   0x1    0x0    0    coord
+543         0   0x1    0x0    0    coord
+544         0   0x1    0x0    0    coord
+545         0   0x1    0x0    0    coord
+546         0   0x1    0x0    0    coord
+547         0   0x1    0x0    0    coord
+548         0   0x1    0x0    0    coord
+549         0   0x1    0x0    0    coord
+550         0   0x1    0x0    0    coord
+551         0   0x1    0x0    0    coord
+552         0   0x1    0x0    0    coord
+553         0   0x1    0x0    0    coord
+554         0   0x1    0x0    0    coord
+555         0   0x1    0x0    0    coord
+556         0   0x1    0x0    0    coord
+557         0   0x1    0x0    0    coord
+558         0   0x1    0x0    0    coord
+559         0   0x1    0x0    0    coord
+560         0   0x1    0x0    0    coord
+561         0   0x1    0x0    0    coord
+562         0   0x1    0x0    0    coord
+563         0   0x1    0x0    0    coord
+564         0   0x1    0x0    0    coord
+property_flags:
+ 1 01 01 00 01 01
+ 2 01 01 00 01 01
+ 3 01 01 00 01 01
+ 4 01 01 00 01 01
+ 5 01 01 00 01 01
+ 6 01 01 00 01 01
+ 7 01 01 00 01 01
+ 8 01 01 00 01 01
+ 9 01 01 00 01 01
+ 10 01 01 00 01 01
+ 11 01 01 00 01 01
+ 12 01 01 00 01 01
+ 13 01 01 00 01 01
+ 14 01 01 00 01 01
+ 15 01 01 00 01 01
+ 16 01 01 00 01 01
+ 17 01 01 00 01 01
+ 18 01 01 00 01 01
+ 19 01 01 00 01 01
+ 20 01 01 00 01 01
+ 21 01 01 00 01 01
+ 22 01 01 00 01 01
+ 23 01 01 00 01 01
+ 24 01 01 00 01 01
+ 25 01 01 00 01 01
+ 26 01 01 00 01 01
+ 27 01 01 00 01 01
+ 28 01 01 00 01 01
+ 29 01 01 00 01 01
+ 30 01 01 00 01 01
+ 31 01 01 00 01 01
+ 32 01 01 00 01 01
+ 33 01 01 00 01 01
+ 34 01 01 00 01 01
+ 35 01 01 00 01 01
+ 36 01 01 00 01 01
+ 37 01 01 00 01 01
+ 38 01 01 00 01 01
+ 39 01 01 00 01 01
+ 40 01 01 00 01 01
+ 41 01 01 00 01 01
+ 42 01 01 00 01 01
+ 43 01 01 00 01 01
+ 44 01 01 00 01 01
+ 45 01 01 00 01 01
+ 46 01 01 00 01 01
+ 47 01 01 00 01 01
+ 48 01 01 00 01 01
+ 49 01 01 00 01 01
+ 50 01 01 00 01 01
+ 51 01 01 00 01 01
+ 52 01 01 00 01 01
+ 53 01 01 00 01 01
+ 54 01 01 00 01 01
+ 55 01 01 00 01 01
+ 56 01 01 00 01 01
+ 57 01 01 00 01 01
+ 58 01 01 00 01 01
+ 59 01 01 00 01 01
+ 60 01 01 00 01 01
+ 61 01 01 00 01 01
+ 62 01 01 00 01 01
+ 63 01 01 00 01 01
+ 64 01 01 00 01 01
+ 65 01 01 00 01 01
+ 66 01 01 00 01 01
+ 67 01 01 00 01 01
+ 68 01 01 00 01 01
+ 69 01 01 00 01 01
+ 70 01 01 00 01 01
+ 71 01 01 00 01 01
+ 72 01 01 00 01 01
+ 73 01 01 00 01 01
+ 74 01 01 00 01 01
+ 75 01 01 00 01 01
+ 76 01 01 00 01 01
+ 77 01 01 00 01 01
+ 78 01 01 00 01 01
+ 79 01 01 00 01 01
+ 80 01 01 00 01 01
+ 81 01 01 00 01 01
+ 82 01 01 00 01 01
+ 83 01 01 00 01 01
+ 84 01 01 00 01 01
+ 85 01 01 00 01 01
+ 86 01 01 00 01 01
+ 87 01 01 00 01 01
+ 88 01 01 00 01 01
+ 89 01 01 00 01 01
+ 90 01 01 00 01 01
+ 91 01 01 00 01 01
+ 92 01 01 00 01 01
+ 93 01 01 00 01 01
+ 94 01 01 00 01 01
+ 95 01 01 00 01 01
+ 96 01 01 00 01 01
+ 97 01 01 00 01 01
+ 98 01 01 00 01 01
+ 99 01 01 00 01 01
+ 100 01 01 00 01 01
+ 101 01 01 00 01 01
+ 102 01 01 00 01 01
+ 103 01 01 00 01 01
+ 104 01 01 00 01 01
+ 105 01 01 00 01 01
+ 106 01 01 00 01 01
+ 107 01 01 00 01 01
+ 108 01 01 00 01 01
+ 109 01 01 00 01 01
+ 110 01 01 00 01 01
+ 111 01 01 00 01 01
+ 112 01 01 00 01 01
+ 113 01 01 00 01 01
+ 114 01 01 00 01 01
+ 115 01 01 00 01 01
+ 116 01 01 00 01 01
+ 117 01 01 00 01 01
+ 118 01 01 00 01 01
+ 119 01 01 00 01 01
+ 120 01 01 00 01 01
+ 121 01 01 00 01 01
+ 122 01 01 00 01 01
+ 123 01 01 00 01 01
+ 124 01 01 00 01 01
+ 125 01 01 00 01 01
+ 126 01 01 00 01 01
+ 127 01 01 00 01 01
+ 128 01 01 00 01 01
+ 129 01 01 00 01 01
+ 130 01 01 00 01 01
+ 131 01 01 00 01 01
+ 132 01 01 00 01 01
+ 133 01 01 00 01 01
+ 134 01 01 00 01 01
+ 135 01 01 00 01 01
+ 136 01 01 00 01 01
+ 137 01 01 00 01 01
+ 138 01 01 00 01 01
+ 139 01 01 00 01 01
+ 140 01 01 00 01 01
+ 141 01 01 00 01 01
+ 142 01 01 00 01 01
+ 143 01 01 00 01 01
+ 144 01 01 00 01 01
+ 145 01 01 00 01 01
+ 146 01 01 00 01 01
+ 147 01 01 00 01 01
+ 148 01 01 00 01 01
+ 149 01 01 00 01 01
+ 150 01 01 00 01 01
+ 151 01 01 00 01 01
+ 152 01 01 00 01 01
+ 153 01 01 00 01 01
+ 154 01 01 00 01 01
+ 155 01 01 00 01 01
+ 156 01 01 00 01 01
+ 157 01 01 00 01 01
+ 158 01 01 00 01 01
+ 159 01 01 00 01 01
+ 160 01 01 00 01 01
+ 161 01 01 00 01 01
+ 162 01 01 00 01 01
+ 163 01 01 00 01 01
+ 164 01 01 00 01 01
+ 165 01 01 00 01 01
+ 166 01 01 00 01 01
+ 167 01 01 00 01 01
+ 168 01 01 00 01 01
+ 169 01 01 00 01 01
+ 170 01 01 00 01 01
+ 171 01 01 00 01 01
+ 172 01 01 00 01 01
+ 173 01 01 00 01 01
+ 174 01 01 00 01 01
+ 175 01 01 00 01 01
+ 176 01 01 00 01 01
+ 177 01 01 00 01 01
+ 178 01 01 00 01 01
+ 179 01 01 00 01 01
+ 180 01 01 00 01 01
+ 181 01 01 00 01 01
+ 182 01 01 00 01 01
+ 183 01 01 00 01 01
+ 184 01 01 00 01 01
+ 185 01 01 00 01 01
+ 186 01 01 00 01 01
+ 187 01 01 00 01 01
+ 188 01 01 00 01 01
+ 189 01 01 00 01 01
+ 190 01 01 00 01 01
+ 191 01 01 00 01 01
+ 192 01 01 00 01 01
+ 193 01 01 00 01 01
+ 194 01 01 00 01 01
+ 195 01 01 00 01 01
+ 196 01 01 00 01 01
+ 197 01 01 00 01 01
+ 198 01 01 00 01 01
+ 199 01 01 00 01 01
+ 200 01 01 00 01 01
+ 201 01 01 00 01 01
+ 202 01 01 00 01 01
+ 203 01 01 00 01 01
+ 204 01 01 00 01 01
+ 205 01 01 00 01 01
+ 206 01 01 00 01 01
+ 207 01 01 00 01 01
+ 208 01 01 00 01 01
+ 209 01 01 00 01 01
+ 210 01 01 00 01 01
+ 211 01 01 00 01 01
+ 212 01 01 00 01 01
+ 213 01 01 00 01 01
+ 214 01 01 00 01 01
+ 215 01 01 00 01 01
+ 216 01 01 00 01 01
+ 217 01 01 00 01 01
+ 218 01 01 00 01 01
+ 219 01 01 00 01 01
+ 220 01 01 00 01 01
+ 221 01 01 00 01 01
+ 222 01 01 00 01 01
+ 223 01 01 00 01 01
+ 224 01 01 00 01 01
+ 225 01 01 00 01 01
+ 226 01 01 00 01 01
+ 227 01 01 00 01 01
+ 228 01 01 00 01 01
+ 229 01 01 00 01 01
+ 230 01 01 00 01 01
+ 231 01 01 00 01 01
+ 232 01 01 00 01 01
+ 233 01 01 00 01 01
+ 234 01 01 00 01 01
+ 235 01 01 00 01 01
+ 236 01 01 00 01 01
+ 237 01 01 00 01 01
+ 238 01 01 00 01 01
+ 239 01 01 00 01 01
+ 240 01 01 00 01 01
+ 241 01 01 00 01 01
+ 242 01 01 00 01 01
+ 243 01 01 00 01 01
+ 244 01 01 00 01 01
+ 245 01 01 00 01 01
+ 246 01 01 00 01 01
+ 247 01 01 00 01 01
+ 248 01 01 00 01 01
+ 249 01 01 00 01 01
+ 250 01 01 00 01 01
+ 251 01 01 00 01 01
+ 252 01 01 00 01 01
+ 253 01 01 00 01 01
+ 254 01 01 00 01 01
+ 255 01 01 00 01 01
+ 256 01 01 00 01 01
+ 257 01 01 00 01 01
+ 258 01 01 00 01 01
+ 259 01 01 00 01 01
+ 260 01 01 00 01 01
+ 261 01 01 00 01 01
+ 262 01 01 00 01 01
+ 263 01 01 00 01 01
+ 264 01 01 00 01 01
+ 265 01 01 00 01 01
+ 266 01 01 00 01 01
+ 267 01 01 00 01 01
+ 268 01 01 00 01 01
+ 269 01 01 00 01 01
+ 270 01 01 00 01 01
+ 271 01 01 00 01 01
+ 272 01 01 00 01 01
+ 273 01 01 00 01 01
+ 274 01 01 00 01 01
+ 275 01 01 00 01 01
+ 276 01 01 00 01 01
+ 277 01 01 00 01 01
+ 278 01 01 00 01 01
+ 279 01 01 00 01 01
+ 280 01 01 00 01 01
+ 281 01 01 00 01 01
+ 282 01 01 00 01 01
+ 283 01 01 00 01 01
+ 284 01 01 00 01 01
+ 285 01 01 00 01 01
+ 286 01 01 00 01 01
+ 287 01 01 00 01 01
+ 288 01 01 00 01 01
+ 289 01 01 00 01 01
+ 290 01 01 00 01 01
+ 291 01 01 00 01 01
+ 292 01 01 00 01 01
+ 293 01 01 00 01 01
+ 294 01 01 00 01 01
+ 295 01 01 00 01 01
+ 296 01 01 00 01 01
+ 297 01 01 00 01 01
+ 298 01 01 00 01 01
+ 299 01 01 00 01 01
+ 300 01 01 00 01 01
+ 301 01 01 00 01 01
+ 302 01 01 00 01 01
+ 303 01 01 00 01 01
+ 304 01 01 00 01 01
+ 305 01 01 00 01 01
+ 306 01 01 00 01 01
+ 307 01 01 00 01 01
+ 308 01 01 00 01 01
+ 309 01 01 00 01 01
+ 310 01 01 00 01 01
+ 311 01 01 00 01 01
+ 312 01 01 00 01 01
+ 313 01 01 00 01 01
+ 314 01 01 00 01 01
+ 315 01 01 00 01 01
+ 316 01 01 00 01 01
+ 317 01 01 00 01 01
+ 318 01 01 00 01 01
+ 319 01 01 00 01 01
+ 320 01 01 00 01 01
+ 321 01 01 00 01 01
+ 322 01 01 00 01 01
+ 323 01 01 00 01 01
+ 324 01 01 00 01 01
+ 325 01 01 00 01 01
+ 326 01 01 00 01 01
+ 327 01 01 00 01 01
+ 328 01 01 00 01 01
+ 329 01 01 00 01 01
+ 330 01 01 00 01 01
+ 331 01 01 00 01 01
+ 332 01 01 00 01 01
+ 333 01 01 00 01 01
+ 334 01 01 00 01 01
+ 335 01 01 00 01 01
+ 336 01 01 00 01 01
+ 337 01 01 00 01 01
+ 338 01 01 00 01 01
+ 339 01 01 00 01 01
+ 340 01 01 00 01 01
+ 341 01 01 00 01 01
+ 342 01 01 00 01 01
+ 343 01 01 00 01 01
+ 344 01 01 00 01 01
+ 345 01 01 00 01 01
+ 346 01 01 00 01 01
+ 347 01 01 00 01 01
+ 348 01 01 00 01 01
+ 349 01 01 00 01 01
+ 350 01 01 00 01 01
+ 351 01 01 00 01 01
+ 352 01 01 00 01 01
+ 353 01 01 00 01 01
+ 354 01 01 00 01 01
+ 355 01 01 00 01 01
+ 356 01 01 00 01 01
+ 357 01 01 00 01 01
+ 358 01 01 00 01 01
+ 359 01 01 00 01 01
+ 360 01 01 00 01 01
+ 361 01 01 00 01 01
+ 362 01 01 00 01 01
+ 363 01 01 00 01 01
+ 364 01 01 00 01 01
+ 365 01 01 00 01 01
+ 366 01 01 00 01 01
+ 367 01 01 00 01 01
+ 368 01 01 00 01 01
+ 369 01 01 00 01 01
+ 370 01 01 00 01 01
+ 371 01 01 00 01 01
+ 372 01 01 00 01 01
+ 373 01 01 00 01 01
+ 374 01 01 00 01 01
+ 375 01 01 00 01 01
+ 376 01 01 00 01 01
+ 377 01 01 00 01 01
+ 378 01 01 00 01 01
+ 379 01 01 00 01 01
+ 380 01 01 00 01 01
+ 381 01 01 00 01 01
+ 382 01 01 00 01 01
+ 383 01 01 00 01 01
+ 384 01 01 00 01 01
+ 385 01 01 00 01 01
+ 386 01 01 00 01 01
+ 387 01 01 00 01 01
+ 388 01 01 00 01 01
+ 389 01 01 00 01 01
+ 390 01 01 00 01 01
+ 391 01 01 00 01 01
+ 392 01 01 00 01 01
+ 393 01 01 00 01 01
+ 394 01 01 00 01 01
+ 395 01 01 00 01 01
+ 396 01 01 00 01 01
+ 397 01 01 00 01 01
+ 398 01 01 00 01 01
+ 399 01 01 00 01 01
+ 400 01 01 00 01 01
+ 401 01 01 00 01 01
+ 402 01 01 00 01 01
+ 403 01 01 00 01 01
+ 404 01 01 00 01 01
+ 405 01 01 00 01 01
+ 406 01 01 00 01 01
+ 407 01 01 00 01 01
+ 408 01 01 00 01 01
+ 409 01 01 00 01 01
+ 410 01 01 00 01 01
+ 411 01 01 00 01 01
+ 412 01 01 00 01 01
+ 413 01 01 00 01 01
+ 414 01 01 00 01 01
+ 415 01 01 00 01 01
+ 416 01 01 00 01 01
+ 417 01 01 00 01 01
+ 418 01 01 00 01 01
+ 419 01 01 00 01 01
+ 420 01 01 00 01 01
+ 421 01 01 00 01 01
+ 422 01 01 00 01 01
+ 423 01 01 00 01 01
+ 424 01 01 00 01 01
+ 425 01 01 00 01 01
+ 426 01 01 00 01 01
+ 427 01 01 00 01 01
+ 428 01 01 00 01 01
+ 429 01 01 00 01 01
+ 430 01 01 00 01 01
+ 431 01 01 00 01 01
+ 432 01 01 00 01 01
+ 433 01 01 00 01 01
+ 434 01 01 00 01 01
+ 435 01 01 00 01 01
+ 436 01 01 00 01 01
+ 437 01 01 00 01 01
+ 438 01 01 00 01 01
+ 439 01 01 00 01 01
+ 440 01 01 00 01 01
+ 441 01 01 00 01 01
+ 442 01 01 00 01 01
+ 443 01 01 00 01 01
+ 444 01 01 00 01 01
+ 445 01 01 00 01 01
+ 446 01 01 00 01 01
+ 447 01 01 00 01 01
+ 448 01 01 00 01 01
+ 449 01 01 00 01 01
+ 450 01 01 00 01 01
+ 451 01 01 00 01 01
+ 452 01 01 00 01 01
+ 453 01 01 00 01 01
+ 454 01 01 00 01 01
+ 455 01 01 00 01 01
+ 456 01 01 00 01 01
+ 457 01 01 00 01 01
+ 458 01 01 00 01 01
+ 459 01 01 00 01 01
+ 460 01 01 00 01 01
+ 461 01 01 00 01 01
+ 462 01 01 00 01 01
+ 463 01 01 00 01 01
+ 464 01 01 00 01 01
+ 465 01 01 00 01 01
+ 466 01 01 00 01 01
+ 467 01 01 00 01 01
+ 468 01 01 00 01 01
+ 469 01 01 00 01 01
+ 470 01 01 00 01 01
+ 471 01 01 00 01 01
+ 472 01 01 00 01 01
+ 473 01 01 00 01 01
+ 474 01 01 00 01 01
+ 475 01 01 00 01 01
+ 476 01 01 00 01 01
+ 477 01 01 00 01 01
+ 478 01 01 00 01 01
+ 479 01 01 00 01 01
+ 480 01 01 00 01 01
+ 481 01 01 00 01 01
+ 482 01 01 00 01 01
+ 483 01 01 00 01 01
+ 484 01 01 00 01 01
+ 485 01 01 00 01 01
+ 486 01 01 00 01 01
+ 487 01 01 00 01 01
+ 488 01 01 00 01 01
+ 489 01 01 00 01 01
+ 490 01 01 00 01 01
+ 491 01 01 00 01 01
+ 492 01 01 00 01 01
+ 493 01 01 00 01 01
+ 494 01 01 00 01 01
+ 495 01 01 00 01 01
+ 496 01 01 00 01 01
+ 497 01 01 00 01 01
+ 498 01 01 00 01 01
+ 499 01 01 00 01 01
+ 500 01 01 00 01 01
+ 501 01 01 00 01 01
+ 502 01 01 00 01 01
+ 503 01 01 00 01 01
+ 504 01 01 00 01 01
+ 505 01 01 00 01 01
+ 506 01 01 00 01 01
+ 507 01 01 00 01 01
+ 508 01 01 00 01 01
+ 509 01 01 00 01 01
+ 510 01 01 00 01 01
+ 511 01 01 00 01 01
+ 512 01 01 00 01 01
+ 513 01 01 00 01 01
+ 514 01 01 00 01 01
+ 515 01 01 00 01 01
+ 516 01 01 00 01 01
+ 517 01 01 00 01 01
+ 518 01 01 00 01 01
+ 519 01 01 00 01 01
+ 520 01 01 00 01 01
+ 521 01 01 00 01 01
+ 522 01 01 00 01 01
+ 523 01 01 00 01 01
+ 524 01 01 00 01 01
+ 525 01 01 00 01 01
+ 526 01 01 00 01 01
+ 527 01 01 00 01 01
+ 528 01 01 00 01 01
+ 529 01 01 00 01 01
+ 530 01 01 00 01 01
+ 531 01 01 00 01 01
+ 532 01 01 00 01 01
+ 533 00 01 00 00 01
+ 534 00 01 00 00 01
+ 535 00 01 00 00 01
+ 536 00 01 00 00 01
+ 537 00 01 00 00 01
+ 538 00 01 00 00 01
+ 539 00 01 00 00 01
+ 540 00 01 00 00 01
+ 541 00 01 00 00 01
+ 542 00 01 00 00 01
+ 543 00 01 00 00 01
+ 544 00 01 00 00 01
+ 545 00 01 00 00 01
+ 546 00 01 00 00 01
+ 547 00 01 00 00 01
+ 548 00 01 00 00 01
+ 549 00 01 00 00 01
+ 550 00 01 00 00 01
+ 551 00 01 00 00 01
+ 552 00 01 00 00 01
+ 553 00 01 00 00 01
+ 554 00 01 00 00 01
+ 555 00 01 00 00 01
+ 556 00 01 00 00 01
+ 557 00 01 00 00 01
+ 558 00 01 00 00 01
+ 559 00 01 00 00 01
+ 560 00 01 00 00 01
+ 561 00 01 00 00 01
+ 562 00 01 00 00 01
+ 563 00 01 00 00 01
+ 564 00 01 00 00 01
+object_class connector
+property dflag jCAChe noUnit 0 1 HEX
+property objCls1 jCAChe noUnit 0 1 NAME
+property objCls2 jCAChe noUnit 0 1 NAME
+property objID1 jCAChe noUnit 0 1 INTEGER
+property objID2 jCAChe noUnit 0 1 INTEGER
+ID       dflag objCls1      objCls2      objID1 objID2
+    1  0xa0         atom         bond     1     1
+    2  0xa0         atom         bond     4     1
+    3  0xa0         atom         bond     3     2
+    4  0xa0         atom         bond    22     2
+    5  0xa0         atom         bond     3     3
+    6  0xa0         atom         bond    15     3
+    7  0xa0         atom         bond     4     4
+    8  0xa0         atom         bond    28     4
+    9  0xa0         atom         bond     4     5
+   10  0xa0         atom         bond    33     5
+   11  0xa0         atom         bond     5     6
+   12  0xa0         atom         bond    34     6
+   13  0xa0         atom         bond     5     7
+   14  0xa0         atom         bond    36     7
+   15  0xa0         atom         bond     6     8
+   16  0xa0         atom         bond    52     8
+   17  0xa0         atom         bond     6     9
+   18  0xa0         atom         bond    59     9
+   19  0xa0         atom         bond     7    10
+   20  0xa0         atom         bond    65    10
+   21  0xa0         atom         bond     7    11
+   22  0xa0         atom         bond    70    11
+   23  0xa0         atom         bond     8    12
+   24  0xa0         atom         bond    73    12
+   25  0xa0         atom         bond     8    13
+   26  0xa0         atom         bond    71    13
+   27  0xa0         atom         bond     9    14
+   28  0xa0         atom         bond    96    14
+   29  0xa0         atom         bond     9    15
+   30  0xa0         atom         bond    89    15
+   31  0xa0         atom         bond    10    16
+   32  0xa0         atom         bond   107    16
+   33  0xa0         atom         bond    10    17
+   34  0xa0         atom         bond   102    17
+   35  0xa0         atom         bond    11    18
+   36  0xa0         atom         bond   108    18
+   37  0xa0         atom         bond    11    19
+   38  0xa0         atom         bond   110    19
+   39  0xa0         atom         bond    12    20
+   40  0xa0         atom         bond   126    20
+   41  0xa0         atom         bond    12    21
+   42  0xa0         atom         bond   133    21
+   43  0xa0         atom         bond    13    22
+   44  0xa0         atom         bond   144    22
+   45  0xa0         atom         bond    13    23
+   46  0xa0         atom         bond   139    23
+   47  0xa0         atom         bond    14    24
+   48  0xa0         atom         bond   147    24
+   49  0xa0         atom         bond    14    25
+   50  0xa0         atom         bond   145    25
+   51  0xa0         atom         bond    15    26
+   52  0xa0         atom         bond    17    26
+   53  0xa0         atom         bond    16    27
+   54  0xa0         atom         bond    15    27
+   55  0xa0         atom         bond    17    28
+   56  0xa0         atom         bond    19    28
+   57  0xa0         atom         bond    18    29
+   58  0xa0         atom         bond    17    29
+   59  0xa0         atom         bond    19    30
+   60  0xa0         atom         bond    21    30
+   61  0xa0         atom         bond    20    31
+   62  0xa0         atom         bond    19    31
+   63  0xa0         atom         bond    21    32
+   64  0xa0         atom         bond    23    32
+   65  0xa0         atom         bond    21    33
+   66  0xa0         atom         bond    22    33
+   67  0xa0         atom         bond    22    34
+   68  0xa0         atom         bond    28    34
+   69  0xa0         atom         bond    23    35
+   70  0xa0         atom         bond    25    35
+   71  0xa0         atom         bond    24    36
+   72  0xa0         atom         bond    23    36
+   73  0xa0         atom         bond    25    37
+   74  0xa0         atom         bond    27    37
+   75  0xa0         atom         bond    26    38
+   76  0xa0         atom         bond    25    38
+   77  0xa0         atom         bond    27    39
+   78  0xa0         atom         bond    29    39
+   79  0xa0         atom         bond    27    40
+   80  0xa0         atom         bond    28    40
+   81  0xa0         atom         bond    29    41
+   82  0xa0         atom         bond    31    41
+   83  0xa0         atom         bond    30    42
+   84  0xa0         atom         bond    29    42
+   85  0xa0         atom         bond    31    43
+   86  0xa0         atom         bond    33    43
+   87  0xa0         atom         bond    32    44
+   88  0xa0         atom         bond    31    44
+   89  0xa0         atom         bond    33    45
+   90  0xa0         atom         bond    34    45
+   91  0xa0         atom         bond    35    46
+   92  0xa0         atom         bond    34    46
+   93  0xa0         atom         bond    36    47
+   94  0xa0         atom         bond    42    47
+   95  0xa0         atom         bond    36    48
+   96  0xa0         atom         bond    37    48
+   97  0xa0         atom         bond    37    49
+   98  0xa0         atom         bond    39    49
+   99  0xa0         atom         bond    38    50
+  100  0xa0         atom         bond    37    50
+  101  0xa0         atom         bond    39    51
+  102  0xa0         atom         bond    40    51
+  103  0xa0         atom         bond    39    52
+  104  0xa0         atom         bond    44    52
+  105  0xa0         atom         bond    40    53
+  106  0xa0         atom         bond    41    53
+  107  0xa0         atom         bond    40    54
+  108  0xa0         atom         bond   163    54
+  109  0xa0         atom         bond    41    55
+  110  0xa0         atom         bond    42    55
+  111  0xa0         atom         bond    41    56
+  112  0xa0         atom         bond    48    56
+  113  0xa0         atom         bond    43    57
+  114  0xa0         atom         bond    42    57
+  115  0xa0         atom         bond    45    58
+  116  0xa0         atom         bond    44    58
+  117  0xa0         atom         bond    46    59
+  118  0xa0         atom         bond    44    59
+  119  0xa0         atom         bond    47    60
+  120  0xa0         atom         bond    44    60
+  121  0xa0         atom         bond    49    61
+  122  0xa0         atom         bond    48    61
+  123  0xa0         atom         bond    50    62
+  124  0xa0         atom         bond    48    62
+  125  0xa0         atom         bond    51    63
+  126  0xa0         atom         bond    48    63
+  127  0xa0         atom         bond    52    64
+  128  0xa0         atom         bond    54    64
+  129  0xa0         atom         bond    53    65
+  130  0xa0         atom         bond    52    65
+  131  0xa0         atom         bond    54    66
+  132  0xa0         atom         bond    56    66
+  133  0xa0         atom         bond    55    67
+  134  0xa0         atom         bond    54    67
+  135  0xa0         atom         bond    56    68
+  136  0xa0         atom         bond    58    68
+  137  0xa0         atom         bond    57    69
+  138  0xa0         atom         bond    56    69
+  139  0xa0         atom         bond    58    70
+  140  0xa0         atom         bond    59    70
+  141  0xa0         atom         bond    58    71
+  142  0xa0         atom         bond    60    71
+  143  0xa0         atom         bond    59    72
+  144  0xa0         atom         bond    65    72
+  145  0xa0         atom         bond    60    73
+  146  0xa0         atom         bond    62    73
+  147  0xa0         atom         bond    61    74
+  148  0xa0         atom         bond    60    74
+  149  0xa0         atom         bond    62    75
+  150  0xa0         atom         bond    64    75
+  151  0xa0         atom         bond    63    76
+  152  0xa0         atom         bond    62    76
+  153  0xa0         atom         bond    64    77
+  154  0xa0         atom         bond    65    77
+  155  0xa0         atom         bond    64    78
+  156  0xa0         atom         bond    66    78
+  157  0xa0         atom         bond    66    79
+  158  0xa0         atom         bond    68    79
+  159  0xa0         atom         bond    67    80
+  160  0xa0         atom         bond    66    80
+  161  0xa0         atom         bond    68    81
+  162  0xa0         atom         bond    70    81
+  163  0xa0         atom         bond    69    82
+  164  0xa0         atom         bond    68    82
+  165  0xa0         atom         bond    70    83
+  166  0xa0         atom         bond    71    83
+  167  0xa0         atom         bond    72    84
+  168  0xa0         atom         bond    71    84
+  169  0xa0         atom         bond    73    85
+  170  0xa0         atom         bond    79    85
+  171  0xa0         atom         bond    73    86
+  172  0xa0         atom         bond    74    86
+  173  0xa0         atom         bond    74    87
+  174  0xa0         atom         bond    76    87
+  175  0xa0         atom         bond    75    88
+  176  0xa0         atom         bond    74    88
+  177  0xa0         atom         bond    76    89
+  178  0xa0         atom         bond    77    89
+  179  0xa0         atom         bond    76    90
+  180  0xa0         atom         bond    81    90
+  181  0xa0         atom         bond    77    91
+  182  0xa0         atom         bond   163    91
+  183  0xa0         atom         bond    77    92
+  184  0xa0         atom         bond    78    92
+  185  0xa0         atom         bond    78    93
+  186  0xa0         atom         bond    85    93
+  187  0xa0         atom         bond    78    94
+  188  0xa0         atom         bond    79    94
+  189  0xa0         atom         bond    80    95
+  190  0xa0         atom         bond    79    95
+  191  0xa0         atom         bond    82    96
+  192  0xa0         atom         bond    81    96
+  193  0xa0         atom         bond    83    97
+  194  0xa0         atom         bond    81    97
+  195  0xa0         atom         bond    84    98
+  196  0xa0         atom         bond    81    98
+  197  0xa0         atom         bond    86    99
+  198  0xa0         atom         bond    85    99
+  199  0xa0         atom         bond    87   100
+  200  0xa0         atom         bond    85   100
+  201  0xa0         atom         bond    88   101
+  202  0xa0         atom         bond    85   101
+  203  0xa0         atom         bond    89   102
+  204  0xa0         atom         bond    91   102
+  205  0xa0         atom         bond    90   103
+  206  0xa0         atom         bond    89   103
+  207  0xa0         atom         bond    91   104
+  208  0xa0         atom         bond    93   104
+  209  0xa0         atom         bond    92   105
+  210  0xa0         atom         bond    91   105
+  211  0xa0         atom         bond    93   106
+  212  0xa0         atom         bond    95   106
+  213  0xa0         atom         bond    94   107
+  214  0xa0         atom         bond    93   107
+  215  0xa0         atom         bond    95   108
+  216  0xa0         atom         bond    96   108
+  217  0xa0         atom         bond    95   109
+  218  0xa0         atom         bond    97   109
+  219  0xa0         atom         bond    96   110
+  220  0xa0         atom         bond   102   110
+  221  0xa0         atom         bond    97   111
+  222  0xa0         atom         bond    99   111
+  223  0xa0         atom         bond    98   112
+  224  0xa0         atom         bond    97   112
+  225  0xa0         atom         bond    99   113
+  226  0xa0         atom         bond   101   113
+  227  0xa0         atom         bond   100   114
+  228  0xa0         atom         bond    99   114
+  229  0xa0         atom         bond   101   115
+  230  0xa0         atom         bond   103   115
+  231  0xa0         atom         bond   101   116
+  232  0xa0         atom         bond   102   116
+  233  0xa0         atom         bond   103   117
+  234  0xa0         atom         bond   105   117
+  235  0xa0         atom         bond   104   118
+  236  0xa0         atom         bond   103   118
+  237  0xa0         atom         bond   105   119
+  238  0xa0         atom         bond   107   119
+  239  0xa0         atom         bond   106   120
+  240  0xa0         atom         bond   105   120
+  241  0xa0         atom         bond   107   121
+  242  0xa0         atom         bond   108   121
+  243  0xa0         atom         bond   109   122
+  244  0xa0         atom         bond   108   122
+  245  0xa0         atom         bond   110   123
+  246  0xa0         atom         bond   111   123
+  247  0xa0         atom         bond   110   124
+  248  0xa0         atom         bond   116   124
+  249  0xa0         atom         bond   111   125
+  250  0xa0         atom         bond   113   125
+  251  0xa0         atom         bond   112   126
+  252  0xa0         atom         bond   111   126
+  253  0xa0         atom         bond   113   127
+  254  0xa0         atom         bond   118   127
+  255  0xa0         atom         bond   113   128
+  256  0xa0         atom         bond   114   128
+  257  0xa0         atom         bond   114   129
+  258  0xa0         atom         bond   163   129
+  259  0xa0         atom         bond   114   130
+  260  0xa0         atom         bond   115   130
+  261  0xa0         atom         bond   115   131
+  262  0xa0         atom         bond   116   131
+  263  0xa0         atom         bond   115   132
+  264  0xa0         atom         bond   122   132
+  265  0xa0         atom         bond   117   133
+  266  0xa0         atom         bond   116   133
+  267  0xa0         atom         bond   119   134
+  268  0xa0         atom         bond   118   134
+  269  0xa0         atom         bond   120   135
+  270  0xa0         atom         bond   118   135
+  271  0xa0         atom         bond   121   136
+  272  0xa0         atom         bond   118   136
+  273  0xa0         atom         bond   123   137
+  274  0xa0         atom         bond   122   137
+  275  0xa0         atom         bond   124   138
+  276  0xa0         atom         bond   122   138
+  277  0xa0         atom         bond   125   139
+  278  0xa0         atom         bond   122   139
+  279  0xa0         atom         bond   126   140
+  280  0xa0         atom         bond   128   140
+  281  0xa0         atom         bond   127   141
+  282  0xa0         atom         bond   126   141
+  283  0xa0         atom         bond   128   142
+  284  0xa0         atom         bond   130   142
+  285  0xa0         atom         bond   129   143
+  286  0xa0         atom         bond   128   143
+  287  0xa0         atom         bond   130   144
+  288  0xa0         atom         bond   132   144
+  289  0xa0         atom         bond   131   145
+  290  0xa0         atom         bond   130   145
+  291  0xa0         atom         bond   132   146
+  292  0xa0         atom         bond   133   146
+  293  0xa0         atom         bond   132   147
+  294  0xa0         atom         bond   134   147
+  295  0xa0         atom         bond   133   148
+  296  0xa0         atom         bond   139   148
+  297  0xa0         atom         bond   134   149
+  298  0xa0         atom         bond   136   149
+  299  0xa0         atom         bond   135   150
+  300  0xa0         atom         bond   134   150
+  301  0xa0         atom         bond   136   151
+  302  0xa0         atom         bond   138   151
+  303  0xa0         atom         bond   137   152
+  304  0xa0         atom         bond   136   152
+  305  0xa0         atom         bond   138   153
+  306  0xa0         atom         bond   139   153
+  307  0xa0         atom         bond   138   154
+  308  0xa0         atom         bond   140   154
+  309  0xa0         atom         bond   140   155
+  310  0xa0         atom         bond   142   155
+  311  0xa0         atom         bond   141   156
+  312  0xa0         atom         bond   140   156
+  313  0xa0         atom         bond   142   157
+  314  0xa0         atom         bond   144   157
+  315  0xa0         atom         bond   143   158
+  316  0xa0         atom         bond   142   158
+  317  0xa0         atom         bond   144   159
+  318  0xa0         atom         bond   145   159
+  319  0xa0         atom         bond   146   160
+  320  0xa0         atom         bond   145   160
+  321  0xa0         atom         bond   147   161
+  322  0xa0         atom         bond   153   161
+  323  0xa0         atom         bond   147   162
+  324  0xa0         atom         bond   148   162
+  325  0xa0         atom         bond   148   163
+  326  0xa0         atom         bond   150   163
+  327  0xa0         atom         bond   149   164
+  328  0xa0         atom         bond   148   164
+  329  0xa0         atom         bond   150   165
+  330  0xa0         atom         bond   151   165
+  331  0xa0         atom         bond   150   166
+  332  0xa0         atom         bond   155   166
+  333  0xa0         atom         bond   151   167
+  334  0xa0         atom         bond   152   167
+  335  0xa0         atom         bond   151   168
+  336  0xa0         atom         bond   164   168
+  337  0xa0         atom         bond   152   169
+  338  0xa0         atom         bond   159   169
+  339  0xa0         atom         bond   152   170
+  340  0xa0         atom         bond   153   170
+  341  0xa0         atom         bond   154   171
+  342  0xa0         atom         bond   153   171
+  343  0xa0         atom         bond   156   172
+  344  0xa0         atom         bond   155   172
+  345  0xa0         atom         bond   157   173
+  346  0xa0         atom         bond   155   173
+  347  0xa0         atom         bond   158   174
+  348  0xa0         atom         bond   155   174
+  349  0xa0         atom         bond   160   175
+  350  0xa0         atom         bond   159   175
+  351  0xa0         atom         bond   161   176
+  352  0xa0         atom         bond   159   176
+  353  0xa0         atom         bond   162   177
+  354  0xa0         atom         bond   159   177
+  355  0xa0         atom         bond   164   178
+  356  0xa0         atom         bond   233   178
+  357  0xa0         atom         bond   164   179
+  358  0xa0         atom         bond   193   179
+  359  0xa0         atom         bond   165   180
+  360  0xa0         atom         bond   168   180
+  361  0xa0         atom         bond   165   181
+  362  0xa0         atom         bond   175   181
+  363  0xa0         atom         bond   166   182
+  364  0xa0         atom         bond   186   182
+  365  0xa0         atom         bond   166   183
+  366  0xa0         atom         bond   181   183
+  367  0xa0         atom         bond   167   184
+  368  0xa0         atom         bond   189   184
+  369  0xa0         atom         bond   167   185
+  370  0xa0         atom         bond   187   185
+  371  0xa0         atom         bond   168   186
+  372  0xa0         atom         bond   170   186
+  373  0xa0         atom         bond   169   187
+  374  0xa0         atom         bond   168   187
+  375  0xa0         atom         bond   170   188
+  376  0xa0         atom         bond   172   188
+  377  0xa0         atom         bond   171   189
+  378  0xa0         atom         bond   170   189
+  379  0xa0         atom         bond   172   190
+  380  0xa0         atom         bond   174   190
+  381  0xa0         atom         bond   173   191
+  382  0xa0         atom         bond   172   191
+  383  0xa0         atom         bond   174   192
+  384  0xa0         atom         bond   175   192
+  385  0xa0         atom         bond   174   193
+  386  0xa0         atom         bond   176   193
+  387  0xa0         atom         bond   175   194
+  388  0xa0         atom         bond   181   194
+  389  0xa0         atom         bond   176   195
+  390  0xa0         atom         bond   178   195
+  391  0xa0         atom         bond   177   196
+  392  0xa0         atom         bond   176   196
+  393  0xa0         atom         bond   178   197
+  394  0xa0         atom         bond   180   197
+  395  0xa0         atom         bond   179   198
+  396  0xa0         atom         bond   178   198
+  397  0xa0         atom         bond   180   199
+  398  0xa0         atom         bond   181   199
+  399  0xa0         atom         bond   180   200
+  400  0xa0         atom         bond   182   200
+  401  0xa0         atom         bond   182   201
+  402  0xa0         atom         bond   184   201
+  403  0xa0         atom         bond   183   202
+  404  0xa0         atom         bond   182   202
+  405  0xa0         atom         bond   184   203
+  406  0xa0         atom         bond   186   203
+  407  0xa0         atom         bond   185   204
+  408  0xa0         atom         bond   184   204
+  409  0xa0         atom         bond   186   205
+  410  0xa0         atom         bond   187   205
+  411  0xa0         atom         bond   188   206
+  412  0xa0         atom         bond   187   206
+  413  0xa0         atom         bond   189   207
+  414  0xa0         atom         bond   195   207
+  415  0xa0         atom         bond   189   208
+  416  0xa0         atom         bond   190   208
+  417  0xa0         atom         bond   190   209
+  418  0xa0         atom         bond   192   209
+  419  0xa0         atom         bond   191   210
+  420  0xa0         atom         bond   190   210
+  421  0xa0         atom         bond   192   211
+  422  0xa0         atom         bond   193   211
+  423  0xa0         atom         bond   192   212
+  424  0xa0         atom         bond   197   212
+  425  0xa0         atom         bond   193   213
+  426  0xa0         atom         bond   194   213
+  427  0xa0         atom         bond   194   214
+  428  0xa0         atom         bond   201   214
+  429  0xa0         atom         bond   194   215
+  430  0xa0         atom         bond   195   215
+  431  0xa0         atom         bond   196   216
+  432  0xa0         atom         bond   195   216
+  433  0xa0         atom         bond   198   217
+  434  0xa0         atom         bond   197   217
+  435  0xa0         atom         bond   199   218
+  436  0xa0         atom         bond   197   218
+  437  0xa0         atom         bond   200   219
+  438  0xa0         atom         bond   197   219
+  439  0xa0         atom         bond   202   220
+  440  0xa0         atom         bond   201   220
+  441  0xa0         atom         bond   203   221
+  442  0xa0         atom         bond   201   221
+  443  0xa0         atom         bond   204   222
+  444  0xa0         atom         bond   201   222
+  445  0xa0         atom         bond   205   223
+  446  0xa0         atom         bond   208   223
+  447  0xa0         atom         bond   205   224
+  448  0xa0         atom         bond   215   224
+  449  0xa0         atom         bond   206   225
+  450  0xa0         atom         bond   226   225
+  451  0xa0         atom         bond   206   226
+  452  0xa0         atom         bond   221   226
+  453  0xa0         atom         bond   207   227
+  454  0xa0         atom         bond   229   227
+  455  0xa0         atom         bond   207   228
+  456  0xa0         atom         bond   227   228
+  457  0xa0         atom         bond   208   229
+  458  0xa0         atom         bond   210   229
+  459  0xa0         atom         bond   209   230
+  460  0xa0         atom         bond   208   230
+  461  0xa0         atom         bond   210   231
+  462  0xa0         atom         bond   212   231
+  463  0xa0         atom         bond   211   232
+  464  0xa0         atom         bond   210   232
+  465  0xa0         atom         bond   212   233
+  466  0xa0         atom         bond   214   233
+  467  0xa0         atom         bond   213   234
+  468  0xa0         atom         bond   212   234
+  469  0xa0         atom         bond   214   235
+  470  0xa0         atom         bond   215   235
+  471  0xa0         atom         bond   214   236
+  472  0xa0         atom         bond   216   236
+  473  0xa0         atom         bond   215   237
+  474  0xa0         atom         bond   221   237
+  475  0xa0         atom         bond   216   238
+  476  0xa0         atom         bond   218   238
+  477  0xa0         atom         bond   217   239
+  478  0xa0         atom         bond   216   239
+  479  0xa0         atom         bond   218   240
+  480  0xa0         atom         bond   220   240
+  481  0xa0         atom         bond   219   241
+  482  0xa0         atom         bond   218   241
+  483  0xa0         atom         bond   220   242
+  484  0xa0         atom         bond   221   242
+  485  0xa0         atom         bond   220   243
+  486  0xa0         atom         bond   222   243
+  487  0xa0         atom         bond   222   244
+  488  0xa0         atom         bond   224   244
+  489  0xa0         atom         bond   223   245
+  490  0xa0         atom         bond   222   245
+  491  0xa0         atom         bond   224   246
+  492  0xa0         atom         bond   226   246
+  493  0xa0         atom         bond   225   247
+  494  0xa0         atom         bond   224   247
+  495  0xa0         atom         bond   226   248
+  496  0xa0         atom         bond   227   248
+  497  0xa0         atom         bond   228   249
+  498  0xa0         atom         bond   227   249
+  499  0xa0         atom         bond   229   250
+  500  0xa0         atom         bond   235   250
+  501  0xa0         atom         bond   229   251
+  502  0xa0         atom         bond   230   251
+  503  0xa0         atom         bond   230   252
+  504  0xa0         atom         bond   232   252
+  505  0xa0         atom         bond   231   253
+  506  0xa0         atom         bond   230   253
+  507  0xa0         atom         bond   232   254
+  508  0xa0         atom         bond   233   254
+  509  0xa0         atom         bond   232   255
+  510  0xa0         atom         bond   237   255
+  511  0xa0         atom         bond   233   256
+  512  0xa0         atom         bond   234   256
+  513  0xa0         atom         bond   234   257
+  514  0xa0         atom         bond   241   257
+  515  0xa0         atom         bond   234   258
+  516  0xa0         atom         bond   235   258
+  517  0xa0         atom         bond   236   259
+  518  0xa0         atom         bond   235   259
+  519  0xa0         atom         bond   238   260
+  520  0xa0         atom         bond   237   260
+  521  0xa0         atom         bond   239   261
+  522  0xa0         atom         bond   237   261
+  523  0xa0         atom         bond   240   262
+  524  0xa0         atom         bond   237   262
+  525  0xa0         atom         bond   242   263
+  526  0xa0         atom         bond   241   263
+  527  0xa0         atom         bond   243   264
+  528  0xa0         atom         bond   241   264
+  529  0xa0         atom         bond   244   265
+  530  0xa0         atom         bond   241   265
+  531  0xa0         atom         bond   245   266
+  532  0xa0         atom         bond   248   266
+  533  0xa0         atom         bond   246   267
+  534  0xa0         atom         bond   254   267
+  535  0xa0         atom         bond   247   268
+  536  0xa0         atom         bond   263   268
+  537  0xa0         atom         bond   247   269
+  538  0xa0         atom         bond   256   269
+  539  0xa0         atom         bond   248   270
+  540  0xa0         atom         bond   269   270
+  541  0xa0         atom         bond   248   271
+  542  0xa0         atom         bond   274   271
+  543  0xa0         atom         bond   249   272
+  544  0xa0         atom         bond   275   272
+  545  0xa0         atom         bond   249   273
+  546  0xa0         atom         bond   277   273
+  547  0xa0         atom         bond   250   274
+  548  0xa0         atom         bond   293   274
+  549  0xa0         atom         bond   250   275
+  550  0xa0         atom         bond   300   275
+  551  0xa0         atom         bond   251   276
+  552  0xa0         atom         bond   306   276
+  553  0xa0         atom         bond   251   277
+  554  0xa0         atom         bond   311   277
+  555  0xa0         atom         bond   252   278
+  556  0xa0         atom         bond   314   278
+  557  0xa0         atom         bond   252   279
+  558  0xa0         atom         bond   312   279
+  559  0xa0         atom         bond   253   280
+  560  0xa0         atom         bond   337   280
+  561  0xa0         atom         bond   253   281
+  562  0xa0         atom         bond   330   281
+  563  0xa0         atom         bond   254   282
+  564  0xa0         atom         bond   348   282
+  565  0xa0         atom         bond   254   283
+  566  0xa0         atom         bond   343   283
+  567  0xa0         atom         bond   255   284
+  568  0xa0         atom         bond   349   284
+  569  0xa0         atom         bond   255   285
+  570  0xa0         atom         bond   351   285
+  571  0xa0         atom         bond   256   286
+  572  0xa0         atom         bond   258   286
+  573  0xa0         atom         bond   257   287
+  574  0xa0         atom         bond   256   287
+  575  0xa0         atom         bond   258   288
+  576  0xa0         atom         bond   260   288
+  577  0xa0         atom         bond   259   289
+  578  0xa0         atom         bond   258   289
+  579  0xa0         atom         bond   260   290
+  580  0xa0         atom         bond   262   290
+  581  0xa0         atom         bond   261   291
+  582  0xa0         atom         bond   260   291
+  583  0xa0         atom         bond   262   292
+  584  0xa0         atom         bond   264   292
+  585  0xa0         atom         bond   262   293
+  586  0xa0         atom         bond   263   293
+  587  0xa0         atom         bond   263   294
+  588  0xa0         atom         bond   269   294
+  589  0xa0         atom         bond   264   295
+  590  0xa0         atom         bond   266   295
+  591  0xa0         atom         bond   265   296
+  592  0xa0         atom         bond   264   296
+  593  0xa0         atom         bond   266   297
+  594  0xa0         atom         bond   268   297
+  595  0xa0         atom         bond   267   298
+  596  0xa0         atom         bond   266   298
+  597  0xa0         atom         bond   268   299
+  598  0xa0         atom         bond   270   299
+  599  0xa0         atom         bond   268   300
+  600  0xa0         atom         bond   269   300
+  601  0xa0         atom         bond   270   301
+  602  0xa0         atom         bond   272   301
+  603  0xa0         atom         bond   271   302
+  604  0xa0         atom         bond   270   302
+  605  0xa0         atom         bond   272   303
+  606  0xa0         atom         bond   274   303
+  607  0xa0         atom         bond   273   304
+  608  0xa0         atom         bond   272   304
+  609  0xa0         atom         bond   274   305
+  610  0xa0         atom         bond   275   305
+  611  0xa0         atom         bond   276   306
+  612  0xa0         atom         bond   275   306
+  613  0xa0         atom         bond   277   307
+  614  0xa0         atom         bond   283   307
+  615  0xa0         atom         bond   277   308
+  616  0xa0         atom         bond   278   308
+  617  0xa0         atom         bond   278   309
+  618  0xa0         atom         bond   280   309
+  619  0xa0         atom         bond   279   310
+  620  0xa0         atom         bond   278   310
+  621  0xa0         atom         bond   280   311
+  622  0xa0         atom         bond   281   311
+  623  0xa0         atom         bond   280   312
+  624  0xa0         atom         bond   285   312
+  625  0xa0         atom         bond   281   313
+  626  0xa0         atom         bond   282   313
+  627  0xa0         atom         bond   281   314
+  628  0xa0         atom         bond   367   314
+  629  0xa0         atom         bond   282   315
+  630  0xa0         atom         bond   283   315
+  631  0xa0         atom         bond   282   316
+  632  0xa0         atom         bond   289   316
+  633  0xa0         atom         bond   284   317
+  634  0xa0         atom         bond   283   317
+  635  0xa0         atom         bond   286   318
+  636  0xa0         atom         bond   285   318
+  637  0xa0         atom         bond   287   319
+  638  0xa0         atom         bond   285   319
+  639  0xa0         atom         bond   288   320
+  640  0xa0         atom         bond   285   320
+  641  0xa0         atom         bond   290   321
+  642  0xa0         atom         bond   289   321
+  643  0xa0         atom         bond   291   322
+  644  0xa0         atom         bond   289   322
+  645  0xa0         atom         bond   292   323
+  646  0xa0         atom         bond   289   323
+  647  0xa0         atom         bond   293   324
+  648  0xa0         atom         bond   295   324
+  649  0xa0         atom         bond   294   325
+  650  0xa0         atom         bond   293   325
+  651  0xa0         atom         bond   295   326
+  652  0xa0         atom         bond   297   326
+  653  0xa0         atom         bond   296   327
+  654  0xa0         atom         bond   295   327
+  655  0xa0         atom         bond   297   328
+  656  0xa0         atom         bond   299   328
+  657  0xa0         atom         bond   298   329
+  658  0xa0         atom         bond   297   329
+  659  0xa0         atom         bond   299   330
+  660  0xa0         atom         bond   300   330
+  661  0xa0         atom         bond   299   331
+  662  0xa0         atom         bond   301   331
+  663  0xa0         atom         bond   300   332
+  664  0xa0         atom         bond   306   332
+  665  0xa0         atom         bond   301   333
+  666  0xa0         atom         bond   303   333
+  667  0xa0         atom         bond   302   334
+  668  0xa0         atom         bond   301   334
+  669  0xa0         atom         bond   303   335
+  670  0xa0         atom         bond   305   335
+  671  0xa0         atom         bond   304   336
+  672  0xa0         atom         bond   303   336
+  673  0xa0         atom         bond   305   337
+  674  0xa0         atom         bond   306   337
+  675  0xa0         atom         bond   305   338
+  676  0xa0         atom         bond   307   338
+  677  0xa0         atom         bond   307   339
+  678  0xa0         atom         bond   309   339
+  679  0xa0         atom         bond   308   340
+  680  0xa0         atom         bond   307   340
+  681  0xa0         atom         bond   309   341
+  682  0xa0         atom         bond   311   341
+  683  0xa0         atom         bond   310   342
+  684  0xa0         atom         bond   309   342
+  685  0xa0         atom         bond   311   343
+  686  0xa0         atom         bond   312   343
+  687  0xa0         atom         bond   313   344
+  688  0xa0         atom         bond   312   344
+  689  0xa0         atom         bond   314   345
+  690  0xa0         atom         bond   315   345
+  691  0xa0         atom         bond   314   346
+  692  0xa0         atom         bond   320   346
+  693  0xa0         atom         bond   315   347
+  694  0xa0         atom         bond   317   347
+  695  0xa0         atom         bond   316   348
+  696  0xa0         atom         bond   315   348
+  697  0xa0         atom         bond   317   349
+  698  0xa0         atom         bond   322   349
+  699  0xa0         atom         bond   317   350
+  700  0xa0         atom         bond   318   350
+  701  0xa0         atom         bond   318   351
+  702  0xa0         atom         bond   367   351
+  703  0xa0         atom         bond   318   352
+  704  0xa0         atom         bond   319   352
+  705  0xa0         atom         bond   319   353
+  706  0xa0         atom         bond   326   353
+  707  0xa0         atom         bond   319   354
+  708  0xa0         atom         bond   320   354
+  709  0xa0         atom         bond   321   355
+  710  0xa0         atom         bond   320   355
+  711  0xa0         atom         bond   323   356
+  712  0xa0         atom         bond   322   356
+  713  0xa0         atom         bond   324   357
+  714  0xa0         atom         bond   322   357
+  715  0xa0         atom         bond   325   358
+  716  0xa0         atom         bond   322   358
+  717  0xa0         atom         bond   327   359
+  718  0xa0         atom         bond   326   359
+  719  0xa0         atom         bond   328   360
+  720  0xa0         atom         bond   326   360
+  721  0xa0         atom         bond   329   361
+  722  0xa0         atom         bond   326   361
+  723  0xa0         atom         bond   330   362
+  724  0xa0         atom         bond   332   362
+  725  0xa0         atom         bond   331   363
+  726  0xa0         atom         bond   330   363
+  727  0xa0         atom         bond   332   364
+  728  0xa0         atom         bond   334   364
+  729  0xa0         atom         bond   333   365
+  730  0xa0         atom         bond   332   365
+  731  0xa0         atom         bond   334   366
+  732  0xa0         atom         bond   336   366
+  733  0xa0         atom         bond   335   367
+  734  0xa0         atom         bond   334   367
+  735  0xa0         atom         bond   336   368
+  736  0xa0         atom         bond   338   368
+  737  0xa0         atom         bond   336   369
+  738  0xa0         atom         bond   337   369
+  739  0xa0         atom         bond   337   370
+  740  0xa0         atom         bond   343   370
+  741  0xa0         atom         bond   338   371
+  742  0xa0         atom         bond   340   371
+  743  0xa0         atom         bond   339   372
+  744  0xa0         atom         bond   338   372
+  745  0xa0         atom         bond   340   373
+  746  0xa0         atom         bond   342   373
+  747  0xa0         atom         bond   341   374
+  748  0xa0         atom         bond   340   374
+  749  0xa0         atom         bond   342   375
+  750  0xa0         atom         bond   344   375
+  751  0xa0         atom         bond   342   376
+  752  0xa0         atom         bond   343   376
+  753  0xa0         atom         bond   344   377
+  754  0xa0         atom         bond   346   377
+  755  0xa0         atom         bond   345   378
+  756  0xa0         atom         bond   344   378
+  757  0xa0         atom         bond   346   379
+  758  0xa0         atom         bond   348   379
+  759  0xa0         atom         bond   347   380
+  760  0xa0         atom         bond   346   380
+  761  0xa0         atom         bond   348   381
+  762  0xa0         atom         bond   349   381
+  763  0xa0         atom         bond   350   382
+  764  0xa0         atom         bond   349   382
+  765  0xa0         atom         bond   351   383
+  766  0xa0         atom         bond   352   383
+  767  0xa0         atom         bond   351   384
+  768  0xa0         atom         bond   357   384
+  769  0xa0         atom         bond   352   385
+  770  0xa0         atom         bond   354   385
+  771  0xa0         atom         bond   353   386
+  772  0xa0         atom         bond   352   386
+  773  0xa0         atom         bond   354   387
+  774  0xa0         atom         bond   359   387
+  775  0xa0         atom         bond   354   388
+  776  0xa0         atom         bond   355   388
+  777  0xa0         atom         bond   355   389
+  778  0xa0         atom         bond   367   389
+  779  0xa0         atom         bond   355   390
+  780  0xa0         atom         bond   356   390
+  781  0xa0         atom         bond   356   391
+  782  0xa0         atom         bond   357   391
+  783  0xa0         atom         bond   356   392
+  784  0xa0         atom         bond   363   392
+  785  0xa0         atom         bond   358   393
+  786  0xa0         atom         bond   357   393
+  787  0xa0         atom         bond   360   394
+  788  0xa0         atom         bond   359   394
+  789  0xa0         atom         bond   361   395
+  790  0xa0         atom         bond   359   395
+  791  0xa0         atom         bond   362   396
+  792  0xa0         atom         bond   359   396
+  793  0xa0         atom         bond   364   397
+  794  0xa0         atom         bond   363   397
+  795  0xa0         atom         bond   365   398
+  796  0xa0         atom         bond   363   398
+  797  0xa0         atom         bond   366   399
+  798  0xa0         atom         bond   363   399
+  799  0xa0         atom         bond   368   400
+  800  0xa0         atom         bond   371   400
+  801  0xa0         atom         bond   370   401
+  802  0xa0         atom         bond   386   401
+  803  0xa0         atom         bond   370   402
+  804  0xa0         atom         bond   379   402
+  805  0xa0         atom         bond   371   403
+  806  0xa0         atom         bond   392   403
+  807  0xa0         atom         bond   371   404
+  808  0xa0         atom         bond   397   404
+  809  0xa0         atom         bond   372   405
+  810  0xa0         atom         bond   398   405
+  811  0xa0         atom         bond   372   406
+  812  0xa0         atom         bond   400   406
+  813  0xa0         atom         bond   373   407
+  814  0xa0         atom         bond   416   407
+  815  0xa0         atom         bond   373   408
+  816  0xa0         atom         bond   423   408
+  817  0xa0         atom         bond   374   409
+  818  0xa0         atom         bond   429   409
+  819  0xa0         atom         bond   374   410
+  820  0xa0         atom         bond   434   410
+  821  0xa0         atom         bond   375   411
+  822  0xa0         atom         bond   437   411
+  823  0xa0         atom         bond   375   412
+  824  0xa0         atom         bond   435   412
+  825  0xa0         atom         bond   376   413
+  826  0xa0         atom         bond   460   413
+  827  0xa0         atom         bond   376   414
+  828  0xa0         atom         bond   453   414
+  829  0xa0         atom         bond   377   415
+  830  0xa0         atom         bond   471   415
+  831  0xa0         atom         bond   377   416
+  832  0xa0         atom         bond   466   416
+  833  0xa0         atom         bond   378   417
+  834  0xa0         atom         bond   472   417
+  835  0xa0         atom         bond   378   418
+  836  0xa0         atom         bond   474   418
+  837  0xa0         atom         bond   379   419
+  838  0xa0         atom         bond   381   419
+  839  0xa0         atom         bond   380   420
+  840  0xa0         atom         bond   379   420
+  841  0xa0         atom         bond   381   421
+  842  0xa0         atom         bond   383   421
+  843  0xa0         atom         bond   382   422
+  844  0xa0         atom         bond   381   422
+  845  0xa0         atom         bond   383   423
+  846  0xa0         atom         bond   385   423
+  847  0xa0         atom         bond   384   424
+  848  0xa0         atom         bond   383   424
+  849  0xa0         atom         bond   385   425
+  850  0xa0         atom         bond   387   425
+  851  0xa0         atom         bond   385   426
+  852  0xa0         atom         bond   386   426
+  853  0xa0         atom         bond   386   427
+  854  0xa0         atom         bond   392   427
+  855  0xa0         atom         bond   387   428
+  856  0xa0         atom         bond   389   428
+  857  0xa0         atom         bond   388   429
+  858  0xa0         atom         bond   387   429
+  859  0xa0         atom         bond   389   430
+  860  0xa0         atom         bond   391   430
+  861  0xa0         atom         bond   390   431
+  862  0xa0         atom         bond   389   431
+  863  0xa0         atom         bond   391   432
+  864  0xa0         atom         bond   393   432
+  865  0xa0         atom         bond   391   433
+  866  0xa0         atom         bond   392   433
+  867  0xa0         atom         bond   393   434
+  868  0xa0         atom         bond   395   434
+  869  0xa0         atom         bond   394   435
+  870  0xa0         atom         bond   393   435
+  871  0xa0         atom         bond   395   436
+  872  0xa0         atom         bond   397   436
+  873  0xa0         atom         bond   396   437
+  874  0xa0         atom         bond   395   437
+  875  0xa0         atom         bond   397   438
+  876  0xa0         atom         bond   398   438
+  877  0xa0         atom         bond   399   439
+  878  0xa0         atom         bond   398   439
+  879  0xa0         atom         bond   400   440
+  880  0xa0         atom         bond   401   440
+  881  0xa0         atom         bond   400   441
+  882  0xa0         atom         bond   406   441
+  883  0xa0         atom         bond   401   442
+  884  0xa0         atom         bond   403   442
+  885  0xa0         atom         bond   402   443
+  886  0xa0         atom         bond   401   443
+  887  0xa0         atom         bond   403   444
+  888  0xa0         atom         bond   408   444
+  889  0xa0         atom         bond   403   445
+  890  0xa0         atom         bond   404   445
+  891  0xa0         atom         bond   404   446
+  892  0xa0         atom         bond   405   446
+  893  0xa0         atom         bond   404   447
+  894  0xa0         atom         bond   490   447
+  895  0xa0         atom         bond   405   448
+  896  0xa0         atom         bond   406   448
+  897  0xa0         atom         bond   405   449
+  898  0xa0         atom         bond   412   449
+  899  0xa0         atom         bond   407   450
+  900  0xa0         atom         bond   406   450
+  901  0xa0         atom         bond   409   451
+  902  0xa0         atom         bond   408   451
+  903  0xa0         atom         bond   410   452
+  904  0xa0         atom         bond   408   452
+  905  0xa0         atom         bond   411   453
+  906  0xa0         atom         bond   408   453
+  907  0xa0         atom         bond   413   454
+  908  0xa0         atom         bond   412   454
+  909  0xa0         atom         bond   414   455
+  910  0xa0         atom         bond   412   455
+  911  0xa0         atom         bond   415   456
+  912  0xa0         atom         bond   412   456
+  913  0xa0         atom         bond   416   457
+  914  0xa0         atom         bond   418   457
+  915  0xa0         atom         bond   417   458
+  916  0xa0         atom         bond   416   458
+  917  0xa0         atom         bond   418   459
+  918  0xa0         atom         bond   420   459
+  919  0xa0         atom         bond   419   460
+  920  0xa0         atom         bond   418   460
+  921  0xa0         atom         bond   420   461
+  922  0xa0         atom         bond   422   461
+  923  0xa0         atom         bond   421   462
+  924  0xa0         atom         bond   420   462
+  925  0xa0         atom         bond   422   463
+  926  0xa0         atom         bond   423   463
+  927  0xa0         atom         bond   422   464
+  928  0xa0         atom         bond   424   464
+  929  0xa0         atom         bond   423   465
+  930  0xa0         atom         bond   429   465
+  931  0xa0         atom         bond   424   466
+  932  0xa0         atom         bond   426   466
+  933  0xa0         atom         bond   425   467
+  934  0xa0         atom         bond   424   467
+  935  0xa0         atom         bond   426   468
+  936  0xa0         atom         bond   428   468
+  937  0xa0         atom         bond   427   469
+  938  0xa0         atom         bond   426   469
+  939  0xa0         atom         bond   428   470
+  940  0xa0         atom         bond   429   470
+  941  0xa0         atom         bond   428   471
+  942  0xa0         atom         bond   430   471
+  943  0xa0         atom         bond   430   472
+  944  0xa0         atom         bond   432   472
+  945  0xa0         atom         bond   431   473
+  946  0xa0         atom         bond   430   473
+  947  0xa0         atom         bond   432   474
+  948  0xa0         atom         bond   434   474
+  949  0xa0         atom         bond   433   475
+  950  0xa0         atom         bond   432   475
+  951  0xa0         atom         bond   434   476
+  952  0xa0         atom         bond   435   476
+  953  0xa0         atom         bond   436   477
+  954  0xa0         atom         bond   435   477
+  955  0xa0         atom         bond   437   478
+  956  0xa0         atom         bond   443   478
+  957  0xa0         atom         bond   437   479
+  958  0xa0         atom         bond   438   479
+  959  0xa0         atom         bond   438   480
+  960  0xa0         atom         bond   440   480
+  961  0xa0         atom         bond   439   481
+  962  0xa0         atom         bond   438   481
+  963  0xa0         atom         bond   440   482
+  964  0xa0         atom         bond   441   482
+  965  0xa0         atom         bond   440   483
+  966  0xa0         atom         bond   445   483
+  967  0xa0         atom         bond   441   484
+  968  0xa0         atom         bond   490   484
+  969  0xa0         atom         bond   441   485
+  970  0xa0         atom         bond   442   485
+  971  0xa0         atom         bond   442   486
+  972  0xa0         atom         bond   449   486
+  973  0xa0         atom         bond   442   487
+  974  0xa0         atom         bond   443   487
+  975  0xa0         atom         bond   444   488
+  976  0xa0         atom         bond   443   488
+  977  0xa0         atom         bond   446   489
+  978  0xa0         atom         bond   445   489
+  979  0xa0         atom         bond   447   490
+  980  0xa0         atom         bond   445   490
+  981  0xa0         atom         bond   448   491
+  982  0xa0         atom         bond   445   491
+  983  0xa0         atom         bond   450   492
+  984  0xa0         atom         bond   449   492
+  985  0xa0         atom         bond   451   493
+  986  0xa0         atom         bond   449   493
+  987  0xa0         atom         bond   452   494
+  988  0xa0         atom         bond   449   494
+  989  0xa0         atom         bond   453   495
+  990  0xa0         atom         bond   455   495
+  991  0xa0         atom         bond   454   496
+  992  0xa0         atom         bond   453   496
+  993  0xa0         atom         bond   455   497
+  994  0xa0         atom         bond   457   497
+  995  0xa0         atom         bond   456   498
+  996  0xa0         atom         bond   455   498
+  997  0xa0         atom         bond   457   499
+  998  0xa0         atom         bond   459   499
+  999  0xa0         atom         bond   458   500
+ 1000  0xa0         atom         bond   457   500
+ 1001  0xa0         atom         bond   459   501
+ 1002  0xa0         atom         bond   461   501
+ 1003  0xa0         atom         bond   459   502
+ 1004  0xa0         atom         bond   460   502
+ 1005  0xa0         atom         bond   460   503
+ 1006  0xa0         atom         bond   466   503
+ 1007  0xa0         atom         bond   461   504
+ 1008  0xa0         atom         bond   463   504
+ 1009  0xa0         atom         bond   462   505
+ 1010  0xa0         atom         bond   461   505
+ 1011  0xa0         atom         bond   463   506
+ 1012  0xa0         atom         bond   465   506
+ 1013  0xa0         atom         bond   464   507
+ 1014  0xa0         atom         bond   463   507
+ 1015  0xa0         atom         bond   465   508
+ 1016  0xa0         atom         bond   467   508
+ 1017  0xa0         atom         bond   465   509
+ 1018  0xa0         atom         bond   466   509
+ 1019  0xa0         atom         bond   467   510
+ 1020  0xa0         atom         bond   469   510
+ 1021  0xa0         atom         bond   468   511
+ 1022  0xa0         atom         bond   467   511
+ 1023  0xa0         atom         bond   469   512
+ 1024  0xa0         atom         bond   471   512
+ 1025  0xa0         atom         bond   470   513
+ 1026  0xa0         atom         bond   469   513
+ 1027  0xa0         atom         bond   471   514
+ 1028  0xa0         atom         bond   472   514
+ 1029  0xa0         atom         bond   473   515
+ 1030  0xa0         atom         bond   472   515
+ 1031  0xa0         atom         bond   474   516
+ 1032  0xa0         atom         bond   475   516
+ 1033  0xa0         atom         bond   474   517
+ 1034  0xa0         atom         bond   480   517
+ 1035  0xa0         atom         bond   475   518
+ 1036  0xa0         atom         bond   477   518
+ 1037  0xa0         atom         bond   476   519
+ 1038  0xa0         atom         bond   475   519
+ 1039  0xa0         atom         bond   477   520
+ 1040  0xa0         atom         bond   482   520
+ 1041  0xa0         atom         bond   477   521
+ 1042  0xa0         atom         bond   478   521
+ 1043  0xa0         atom         bond   478   522
+ 1044  0xa0         atom         bond   490   522
+ 1045  0xa0         atom         bond   478   523
+ 1046  0xa0         atom         bond   479   523
+ 1047  0xa0         atom         bond   479   524
+ 1048  0xa0         atom         bond   480   524
+ 1049  0xa0         atom         bond   479   525
+ 1050  0xa0         atom         bond   486   525
+ 1051  0xa0         atom         bond   481   526
+ 1052  0xa0         atom         bond   480   526
+ 1053  0xa0         atom         bond   483   527
+ 1054  0xa0         atom         bond   482   527
+ 1055  0xa0         atom         bond   484   528
+ 1056  0xa0         atom         bond   482   528
+ 1057  0xa0         atom         bond   485   529
+ 1058  0xa0         atom         bond   482   529
+ 1059  0xa0         atom         bond   487   530
+ 1060  0xa0         atom         bond   486   530
+ 1061  0xa0         atom         bond   488   531
+ 1062  0xa0         atom         bond   486   531
+ 1063  0xa0         atom         bond   489   532
+ 1064  0xa0         atom         bond   486   532
+ 1065  0xa0   WindowView MoleculeView     1     1
+ 1066  0xa0   WindowView    3DDLPView     1     1
+ 1067  0xa0   WindowView     BondView     1     1
+ 1068  0xa0   WindowView     AtomView     1     1
+ 1069  0xa0         atom         bond   368   533
+ 1070  0xa0         atom         bond   370   533
+ 1071  0xa0         atom      orbital   370     1
+ 1072  0xa0         atom         bond   368   534
+ 1073  0xa0         atom         bond   205   534
+ 1074  0xa0         atom      orbital   205     2
+ 1075  0xa0         atom         bond   368   535
+ 1076  0xa0         atom         bond   206   535
+ 1077  0xa0         atom      orbital   206     3
+ 1078  0xa0         atom         bond   368   536
+ 1079  0xa0         atom         bond   207   536
+ 1080  0xa0         atom         bond   368   537
+ 1081  0xa0         atom         bond   372   537
+ 1082  0xa0         atom         bond   245   538
+ 1083  0xa0         atom         bond   247   538
+ 1084  0xa0         atom      orbital   247     4
+ 1085  0xa0         atom         bond   245   539
+ 1086  0xa0         atom         bond   166   539
+ 1087  0xa0         atom      orbital   166     5
+ 1088  0xa0         atom         bond   245   540
+ 1089  0xa0         atom         bond   249   540
+ 1090  0xa0         atom         bond   245   541
+ 1091  0xa0         atom         bond   167   541
+ 1092  0xa0         atom         bond   245   542
+ 1093  0xa0         atom         bond   165   542
+ 1094  0xa0         atom      orbital   165     6
+ 1095  0xa0         atom         bond   246   543
+ 1096  0xa0         atom         bond   255   543
+ 1097  0xa0         atom         bond   246   544
+ 1098  0xa0         atom         bond   253   544
+ 1099  0xa0         atom      orbital   253     7
+ 1100  0xa0         atom         bond   246   545
+ 1101  0xa0         atom         bond   373   545
+ 1102  0xa0         atom      orbital   373     8
+ 1103  0xa0         atom         bond   246   546
+ 1104  0xa0         atom         bond   374   546
+ 1105  0xa0         atom      orbital   374     9
+ 1106  0xa0         atom         bond   246   547
+ 1107  0xa0         atom         bond   375   547
+ 1108  0xa0         atom         bond     2   548
+ 1109  0xa0         atom         bond   252   548
+ 1110  0xa0         atom         bond     2   549
+ 1111  0xa0         atom         bond   251   549
+ 1112  0xa0         atom      orbital   251    10
+ 1113  0xa0         atom         bond     2   550
+ 1114  0xa0         atom         bond     9   550
+ 1115  0xa0         atom      orbital     9    11
+ 1116  0xa0         atom         bond     2   551
+ 1117  0xa0         atom         bond   250   551
+ 1118  0xa0         atom      orbital   250    12
+ 1119  0xa0         atom         bond     2   552
+ 1120  0xa0         atom         bond    10   552
+ 1121  0xa0         atom      orbital    10    13
+ 1122  0xa0         atom         bond     2   553
+ 1123  0xa0         atom         bond    11   553
+ 1124  0xa0         atom         bond     1   554
+ 1125  0xa0         atom         bond     5   554
+ 1126  0xa0         atom         bond     1   555
+ 1127  0xa0         atom         bond    12   555
+ 1128  0xa0         atom      orbital    12    14
+ 1129  0xa0         atom         bond     1   556
+ 1130  0xa0         atom         bond    13   556
+ 1131  0xa0         atom      orbital    13    15
+ 1132  0xa0         atom         bond     1   557
+ 1133  0xa0         atom         bond    14   557
+ 1134  0xa0         atom         bond     1   558
+ 1135  0xa0         atom         bond     3   558
+ 1136  0xa0         atom      orbital     3    16
+ 1137  0xa0         atom         bond   369   559
+ 1138  0xa0         atom         bond     7   559
+ 1139  0xa0         atom      orbital     7    17
+ 1140  0xa0         atom         bond   369   560
+ 1141  0xa0         atom         bond     6   560
+ 1142  0xa0         atom      orbital     6    18
+ 1143  0xa0         atom         bond   369   561
+ 1144  0xa0         atom         bond   376   561
+ 1145  0xa0         atom      orbital   376    19
+ 1146  0xa0         atom         bond   369   562
+ 1147  0xa0         atom         bond   377   562
+ 1148  0xa0         atom      orbital   377    20
+ 1149  0xa0         atom         bond   369   563
+ 1150  0xa0         atom         bond   378   563
+ 1151  0xa0         atom         bond   369   564
+ 1152  0xa0         atom         bond     8   564
+property_flags:
+object_class orbital
+property chrg SCIGRESS1 charge_au 0 1 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property rflag SCIGRESS1 noUnit 0 1 HEX
+property xyz_coordinates SCIGRESS1 angstrom 6 3 FLOAT
+ID  chrg dflag rflag                  xyz_coordinates
+ 1    -1   0x0    0x0 -7.1650105 17.0292591 13.5225721
+ 2    -1   0x0    0x0 -8.7337273 18.8964238 15.2935133
+ 3    -1   0x0    0x0 -6.0903871 16.9217995 15.6396112
+ 4    -1   0x0    0x0 -0.1020951 29.6187939 13.5226738
+ 5    -1   0x0    0x0  -0.733523 28.7417852  15.639539
+ 6    -1   0x0    0x0  2.2982735 30.0425968 15.2936724
+ 7    -1   0x0    0x0 -7.0533337 25.5517291 26.2051635
+ 8    -1   0x0    0x0 -6.7713621 27.6115126 23.9974856
+ 9    -1   0x0    0x0 -4.6679699 25.7707809 25.7730999
+10    -1   0x0    0x0  6.2193337 23.0854568 25.7730878
+11    -1   0x0    0x0  7.2208497 25.2607561 26.2051507
+12    -1   0x0    0x0  8.8647274 23.9861523 23.9974158
+13    -1   0x0    0x0  6.9435476 25.0661732 22.9111069
+14    -1   0x0    0x0  6.4354761 14.9163435 15.2936605
+15    -1   0x0    0x0  6.8238189 18.1924802 15.6396761
+16    -1   0x0    0x0  7.2683055 17.2074152 13.5226313
+17    -1   0x0    0x0 -1.5499689 14.9988702 25.7734456
+18    -1   0x0    0x0 -2.0933015 12.2576995 23.9973751
+19    -1   0x0    0x0 -0.1678306 13.0437419 26.2052068
+20    -1   0x0    0x0 -0.1976551 13.3816145 22.9109951
+property_flags:
+ 1 01 01 00 01
+ 2 01 01 00 01
+ 3 01 01 00 01
+ 4 01 01 00 01
+ 5 01 01 00 01
+ 6 01 01 00 01
+ 7 01 01 00 01
+ 8 01 01 00 01
+ 9 01 01 00 01
+ 10 01 01 00 01
+ 11 01 01 00 01
+ 12 01 01 00 01
+ 13 01 01 00 01
+ 14 01 01 00 01
+ 15 01 01 00 01
+ 16 01 01 00 01
+ 17 01 01 00 01
+ 18 01 01 00 01
+ 19 01 01 00 01
+ 20 01 01 00 01

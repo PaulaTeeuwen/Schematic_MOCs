@@ -1,0 +1,346 @@
+molstructWIN_Tue_Jun_13_00:06:13_BST_2023  0x0000
+Written by SCIGRESS on Tue Jun 13 00:06:13 BST 2023
+Using Data Dictionary Tue Jun 13 00:06:13 BST 2023
+Version 11
+local_transform
+1.000000 0.000000 0.000000 0.000000
+0.000000 1.000000 0.000000 0.000000
+0.000000 0.000000 -1.000000 0.000000
+0.000000 0.000000 0.000000 1.000000
+object_class 3DDLPView
+property BackClip SCIGRESS1 noUnit 0 1 FLOAT
+property EyePosition SCIGRESS1 noUnit 0 1 FLOAT
+property EyeSeparation SCIGRESS1 noUnit 0 1 FLOAT
+property FasterMotion SCIGRESS1 noUnit 0 1 INTEGER
+property FrontClip SCIGRESS1 noUnit 0 1 FLOAT
+property HighQualitySpheres SCIGRESS1 noUnit 0 1 INTEGER
+property LineWidthIdx SCIGRESS1 noUnit 0 1 INTEGER
+property PrintOptions SCIGRESS1 noUnit 0 1 INTEGER
+property Projection SCIGRESS1 noUnit 0 1 INTEGER
+property Show3DCursor SCIGRESS1 noUnit 0 1 INTEGER
+property SpecialColors SCIGRESS1 noUnit 0 3 HEX
+property SpecularHighlight SCIGRESS1 noUnit 0 1 INTEGER
+property Stereo SCIGRESS1 noUnit 0 1 INTEGER
+property SwapLeftRightBuffers SCIGRESS1 noUnit 0 1 INTEGER
+property TBActive SCIGRESS1 noUnit 0 1 INTEGER
+property TBCenterRot SCIGRESS1 noUnit 0 1 INTEGER
+property TBManipCursor SCIGRESS1 noUnit 0 1 INTEGER
+property TextWidthIdx SCIGRESS1 noUnit 0 1 INTEGER
+property TextureMapping SCIGRESS1 noUnit 0 1 INTEGER
+property UserColors SCIGRESS1 noUnit 0 12 HEX
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property transform SCIGRESS1 noUnit 4 16 FLOAT
+ID    BackClip EyePosition EyeSeparation FasterMotion  FrontClip
+ 1          -4     2.1e+01             5            0          9
+property_flags:
+ID  HighQualitySpheres LineWidthIdx PrintOptions Projection Show3DCursor
+ 1                   0            1            0          1            0
+property_flags:
+ID       SpecialColors SpecularHighlight Stereo SwapLeftRightBuffers TBActive
+ 1  0xffffff 0x0 0x0                 0      0                    0        0
+property_flags:
+ID  TBCenterRot TBManipCursor TextWidthIdx TextureMapping
+ 1            0             0            1              0
+property_flags:
+ID  UserColors
+ 1  0xffffff 0xb2b2b2 0xff 0x19ffff 0x19ff00 0xff1919 0xff19ff
+ 1  0xffff19 0x604ccc 0xc59b2 0x4c99ff 0x8c1956
+property_flags:
+ID  dflag
+ 1    0x0
+property_flags:
+ID  transform
+ 1     -0.5968    -0.7508     0.2831          0    -0.7734     0.4441    -0.4524
+ 1           0      0.214    -0.4889    -0.8457          0    -0.2895     0.9944
+ 1     -17.187          1
+property_flags:
+object_class AtomView
+property ColorBy SCIGRESS1 noUnit 0 1 INTEGER
+property ColorIndex SCIGRESS1 noUnit 0 1 INTEGER
+property ColorLabelBy SCIGRESS1 noUnit 0 1 INTEGER
+property GroupColor SCIGRESS1 noUnit 0 1 INTEGER
+property PolyhedraScaleFactor SCIGRESS1 noUnit 3 1 FLOAT
+property RadiusType SCIGRESS1 noUnit 0 1 INTEGER
+property ScaleFactor SCIGRESS1 angstrom 3 1 FLOAT
+property ShapeType SCIGRESS1 noUnit 0 1 INTEGER
+property SphereType SCIGRESS1 noUnit 0 1 INTEGER
+property ThermalProbability SCIGRESS1 noUnit 0 1 FLOAT
+property ViewOptions SCIGRESS1 noUnit 0 1 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+ID  ColorBy ColorIndex ColorLabelBy GroupColor PolyhedraScaleFactor RadiusType
+ 1        0          1            1          5                    1          0
+ 2        0          1            1          5                    1          0
+ 3        0          1            1          5                    1          0
+property_flags:
+ID  ScaleFactor ShapeType SphereType ThermalProbability ViewOptions dflag
+ 1          0.2         0          0                  1         864   0x0
+ 2          0.2         0          0                  1         864   0x0
+ 3          0.2         0          0                  1         864   0x0
+property_flags:
+object_class BondView
+property ColorBy SCIGRESS1 noUnit 0 1 INTEGER
+property ColorIndex SCIGRESS1 noUnit 0 1 INTEGER
+property DrawType SCIGRESS1 noUnit 0 1 INTEGER
+property RadiusType SCIGRESS1 noUnit 0 1 INTEGER
+property ScaleFactor SCIGRESS1 angstrom 3 1 FLOAT
+property Visible SCIGRESS1 noUnit 0 1 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+ID  ColorBy ColorIndex DrawType RadiusType ScaleFactor Visible dflag
+ 1        0          4        3          0         0.1       1   0x0
+ 2        0          4        3          0         0.1       1   0x0
+ 3        0          4        3          0         0.1       1   0x0
+property_flags:
+object_class MoleculeView
+property AutobeautifyElectrons SCIGRESS1 noUnit 0 1 INTEGER
+property BackboneStyle SCIGRESS1 noUnit 0 1 NAME
+property ElemHistory SCIGRESS1 noUnit 0 7 INTEGER
+property ResBoxColor SCIGRESS1 noUnit 0 1 INTEGER
+property ResTypeMethod SCIGRESS1 noUnit 0 1 INTEGER
+property SelSimOpts SCIGRESS1 noUnit 0 7 INTEGER
+property SeqPropMax SCIGRESS1 noUnit 0 1 FLOAT
+property SeqPropMin SCIGRESS1 noUnit 0 1 FLOAT
+property SeqProtocol SCIGRESS1 noUnit 0 1 INTEGER
+property ShowAsymmetricCell SCIGRESS1 noUnit 0 1 INTEGER
+property ShowDipole SCIGRESS1 noUnit 0 1 INTEGER
+property ShowEExcep SCIGRESS1 noUnit 0 1 INTEGER
+property ShowElectrons SCIGRESS1 noUnit 0 1 INTEGER
+property ShowHExcep SCIGRESS1 noUnit 0 1 INTEGER
+property ShowHydrogens SCIGRESS1 noUnit 0 1 INTEGER
+property ShowLatticeBoundaries SCIGRESS1 noUnit 0 1 INTEGER
+property ShowNonCarbonHydrogen SCIGRESS1 noUnit 0 1 INTEGER
+property ShowRibbon SCIGRESS1 noUnit 0 1 INTEGER
+property ShowScrollbar SCIGRESS1 noUnit 0 1 INTEGER
+property ShowUnitCell SCIGRESS1 noUnit 0 1 INTEGER
+property chrg SCIGRESS1 charge_au 0 1 INTEGER
+property conf SCIGRESS1 noUnit 0 1 NAME
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property type SCIGRESS1 noUnit 0 1 NAME
+ID  AutobeautifyElectrons BackboneStyle    ElemHistory ResBoxColor ResTypeMethod
+ 1                       0             none 0 6 1 8 7 9 17           0            16
+property_flags:
+ 1 00 01 01 01 01
+ID     SelSimOpts SeqPropMax SeqPropMin SeqProtocol ShowAsymmetricCell
+ 1  1 1 0 0 0 1 0          0          0           0                  0
+property_flags:
+ID  ShowDipole ShowEExcep ShowElectrons ShowHExcep ShowHydrogens
+ 1            0          1              0          1             1
+property_flags:
+ 1 00 01 00 01 01
+ID  ShowLatticeBoundaries ShowNonCarbonHydrogen ShowRibbon ShowScrollbar
+ 1                      0                      0          1             1
+property_flags:
+ 1 01 00 01 01
+ID  ShowUnitCell chrg conf dflag type
+ 1             0    0    _   0x0    _
+property_flags:
+ 1 01 01 00 01 00
+object_class WindowView
+property ViewClass SCIGRESS1 noUnit 0 14 STRING
+property ViewerName SCIGRESS1 noUnit 0 32 STRING
+property WindowOrder SCIGRESS1 noUnit 0 1 INTEGER
+property WindowRect_TLBR SCIGRESS1 noUnit 0 4 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+ID       ViewClass                       ViewerName WindowOrder WindowRect_TLBR
+ 1      CViewModel                            CAChe           1    0 0 807 1051
+property_flags:
+ID  dflag
+ 1    0x0
+property_flags:
+object_class atom
+property anum SCIGRESS1 unit 0 1 INTEGER
+property chrg SCIGRESS1 charge_au 0 1 INTEGER
+property conf SCIGRESS1 noUnit 0 1 NAME
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property gchrg SCIGRESS1 charge_au 6 1 FLOAT
+property rflag SCIGRESS1 noUnit 0 1 HEX
+property sym SCIGRESS1 noUnit 0 2 STRING
+property xyz_coordinates SCIGRESS1 angstrom 6 3 FLOAT
+ID  anum chrg conf dflag      gchrg rflag sym                  xyz_coordinates
+ 1    30    0    sp3   0x1          0    0x0  Zn  -0.803348   2.825615   2.122908
+ 2    30    0    sp3   0x1          0    0x0  Zn   0.897512   2.104788     3.8073
+ 3    30    0    sp3   0x1          0    0x0  Zn  -1.473221   1.340418   4.018985
+ 4    30    0    sp3   0x1          0    0x0  Zn   0.739941  -1.928764   2.240109
+ 5    30    0    sp3   0x1          0    0x0  Zn  -0.701574  -1.036668   4.077409
+ 6    30    0    sp3   0x1          0    0x0  Zn   1.669136  -0.272332   3.865721
+ 7    30    0    sp3   0x1          0    0x0  Zn   2.338834   1.213094   1.969761
+ 8    30    0    sp3   0x1          0    0x0  Zn   0.638036   1.933694   0.285399
+ 9    30    0    sp3   0x1          0    0x0  Zn   1.409815  -0.443369    0.34422
+10    30    0    sp3   0x1          0    0x0  Zn    -2.4024  -0.315699   2.393185
+11    30    0    sp3   0x1          0    0x0  Zn  -0.960914  -1.207679   0.555876
+12    30    0    sp3   0x1          0    0x0  Zn  -1.732638   1.169442   0.497068
+property_flags:
+ 1 01 01 01 01 01 00 01 01
+ 2 01 01 01 01 01 00 01 01
+ 3 01 01 01 01 01 00 01 01
+ 4 01 01 01 01 01 00 01 01
+ 5 01 01 01 01 01 00 01 01
+ 6 01 01 01 01 01 00 01 01
+ 7 01 01 01 01 01 00 01 01
+ 8 01 01 01 01 01 00 01 01
+ 9 01 01 01 01 01 00 01 01
+ 10 01 01 01 01 01 00 01 01
+ 11 01 01 01 01 01 00 01 01
+ 12 01 01 01 01 01 00 01 01
+object_class bond
+property BondStrain Isaac kJ/mole 4 1 FLOAT
+property aromatic SCIGRESS1 noUnit 0 1 INTEGER
+property dflag SCIGRESS1 noUnit 0 1 HEX
+property rflag SCIGRESS1 noUnit 0 1 HEX
+property ring SCIGRESS1 noUnit 0 1 INTEGER
+property type SCIGRESS1 noUnit 0 1 NAME
+  ID  BondStrain aromatic dflag rflag ring type
+1032  5.5025e-05        0   0x1    0x0    0    single
+1033  1.07978e-05        0   0x1    0x0    0    single
+1034  1.24326e-06        0   0x1    0x0    0    single
+1035  4.99741e-06        0   0x1    0x0    0    single
+1036  1.61333e-05        0   0x1    0x0    0    single
+1037  6.51079e-06        0   0x1    0x0    0    single
+1038  2.43346e-05        0   0x1    0x0    0    single
+1039  3.23911e-05        0   0x1    0x0    0    single
+1040  1.96208e-05        0   0x1    0x0    0    single
+1041  1.42156e-05        0   0x1    0x0    0    single
+1042  4.11972e-06        0   0x1    0x0    0    single
+1043  3.28055e-05        0   0x1    0x0    0    single
+1044  1.48501e-05        0   0x1    0x0    0    single
+1045  2.47722e-06        0   0x1    0x0    0    single
+1046  2.68201e-05        0   0x1    0x0    0    single
+1047  2.42347e-05        0   0x1    0x0    0    single
+1048  1.20135e-05        0   0x1    0x0    0    single
+1049  1.28551e-05        0   0x1    0x0    0    single
+1050  1.1498e-05        0   0x1    0x0    0    single
+1051  4.77431e-05        0   0x1    0x0    0    single
+1052  2.39301e-05        0   0x1    0x0    0    single
+1053  4.50413e-05        0   0x1    0x0    0    single
+1054  1.22434e-05        0   0x1    0x0    0    single
+1055  6.48827e-06        0   0x1    0x0    0    single
+property_flags:
+ 1032 01 01 01 00 01 01
+ 1033 01 01 01 00 01 01
+ 1034 01 01 01 00 01 01
+ 1035 01 01 01 00 01 01
+ 1036 01 01 01 00 01 01
+ 1037 01 01 01 00 01 01
+ 1038 01 01 01 00 01 01
+ 1039 01 01 01 00 01 01
+ 1040 01 01 01 00 01 01
+ 1041 01 01 01 00 01 01
+ 1042 01 01 01 00 01 01
+ 1043 01 01 01 00 01 01
+ 1044 01 01 01 00 01 01
+ 1045 01 01 01 00 01 01
+ 1046 01 01 01 00 01 01
+ 1047 01 01 01 00 01 01
+ 1048 01 01 01 00 01 01
+ 1049 01 01 01 00 01 01
+ 1050 01 01 01 00 01 01
+ 1051 01 01 01 00 01 01
+ 1052 01 01 01 00 01 01
+ 1053 01 01 01 00 01 01
+ 1054 01 01 01 00 01 01
+ 1055 01 01 01 00 01 01
+object_class calculation_history
+property Model MM noUnit 0 32 STRING
+property calc_comment MM noUnit 0 161 STRING
+property calc_energy MM kcal/mole 6 1 FLOAT
+property calc_gradient MM Kcal/mol/angstrom 6 1 FLOAT
+property calc_server MM noUnit 0 31 STRING
+property calc_source MM noUnit 0 1 NAME
+property date_time MM noUnit 0 25 STRING
+property dflag MM noUnit 0 1 HEX
+property version MM noUnit 0 10 STRING
+ID                             Model
+ 1                               MM2
+ 2                               MM3
+ 3                               MM3
+ 4                               MM3
+property_flags:
+ID  calc_comment
+ 1 Conjugate_gradient__itermax:3000_dielectric:_1.50_vdWcutoff:9.0_vdWupdate:50_
+ 1 stretch:Y_angle:Y_dihedral:Y_improper_torsion:Y_vanderwaals:Y_electrostatics:
+ 1 Y_hb:Y 
+ 2 Conjugate_gradient__itermax:300_dielectric:_1.50_vdWcutoff:9.0_vdWupdate:50_s
+ 2 tretch:Y_angle:Y_dihedral:Y_improper_torsion:Y_vanderwaals:Y_electrostatics:Y
+ 2 _hb:Y  
+ 3 Conjugate_gradient__itermax:300_dielectric:_1.50_vdWcutoff:9.0_vdWupdate:50_s
+ 3 tretch:Y_angle:Y_dihedral:Y_improper_torsion:Y_vanderwaals:Y_electrostatics:Y
+ 3 _hb:Y  
+ 4 Conjugate_gradient__itermax:300_dielectric:_1.50_vdWcutoff:9.0_vdWupdate:50_s
+ 4 tretch:Y_angle:Y_dihedral:Y_improper_torsion:Y_vanderwaals:Y_electrostatics:Y
+ 4 _hb:Y  
+property_flags:
+ID  calc_energy calc_gradient                     calc_server calc_source
+ 1   1421.106904     0.0301243                       localhost           MM
+ 2   1626.606522     0.0357059                       localhost           MM
+ 3   1697.98303     0.0339883                       localhost           MM
+ 4   1957.702975     0.0335837                       localhost           MM
+property_flags:
+ID                  date_time dflag    version
+ 1   Mon_Jun_12_16:53:50_2023   0x0    1.1.1.0
+ 2   Mon_Jun_12_16:54:01_2023   0x0    1.1.1.0
+ 3   Tue_Jun_13_00:04:57_2023   0x0    1.1.1.0
+ 4   Tue_Jun_13_00:06:13_2023   0x0    1.1.1.0
+property_flags:
+object_class connector
+property dflag jCAChe noUnit 0 1 HEX
+property objCls1 jCAChe noUnit 0 1 NAME
+property objCls2 jCAChe noUnit 0 1 NAME
+property objID1 jCAChe noUnit 0 1 INTEGER
+property objID2 jCAChe noUnit 0 1 INTEGER
+ID       dflag objCls1      objCls2      objID1 objID2
+    1  0xa0   WindowView MoleculeView     1     1
+    2  0xa0   WindowView    3DDLPView     1     1
+    3  0xa0   WindowView     BondView     1     1
+    4  0xa0   WindowView     AtomView     1     1
+    5  0xa0   WindowView     AtomView     1     2
+    6  0xa0   WindowView     BondView     1     2
+    7  0xa0   WindowView     AtomView     1     3
+    8  0xa0   WindowView     BondView     1     3
+    9  0xa0         atom         bond    12  1032
+   10  0xa0         atom         bond     8  1032
+   11  0xa0         atom         bond     8  1033
+   12  0xa0         atom         bond     1  1033
+   13  0xa0         atom         bond     1  1034
+   14  0xa0         atom         bond    12  1034
+   15  0xa0         atom         bond     1  1035
+   16  0xa0         atom         bond     2  1035
+   17  0xa0         atom         bond     2  1036
+   18  0xa0         atom         bond     3  1036
+   19  0xa0         atom         bond     3  1037
+   20  0xa0         atom         bond     1  1037
+   21  0xa0         atom         bond     3  1038
+   22  0xa0         atom         bond    10  1038
+   23  0xa0         atom         bond    10  1039
+   24  0xa0         atom         bond     5  1039
+   25  0xa0         atom         bond     5  1040
+   26  0xa0         atom         bond     3  1040
+   27  0xa0         atom         bond    10  1041
+   28  0xa0         atom         bond    12  1041
+   29  0xa0         atom         bond    12  1042
+   30  0xa0         atom         bond    11  1042
+   31  0xa0         atom         bond    11  1043
+   32  0xa0         atom         bond    10  1043
+   33  0xa0         atom         bond     5  1044
+   34  0xa0         atom         bond     4  1044
+   35  0xa0         atom         bond     4  1045
+   36  0xa0         atom         bond     6  1045
+   37  0xa0         atom         bond     6  1046
+   38  0xa0         atom         bond     5  1046
+   39  0xa0         atom         bond    11  1047
+   40  0xa0         atom         bond     9  1047
+   41  0xa0         atom         bond     9  1048
+   42  0xa0         atom         bond     4  1048
+   43  0xa0         atom         bond     4  1049
+   44  0xa0         atom         bond    11  1049
+   45  0xa0         atom         bond     9  1050
+   46  0xa0         atom         bond     8  1050
+   47  0xa0         atom         bond     8  1051
+   48  0xa0         atom         bond     7  1051
+   49  0xa0         atom         bond     7  1052
+   50  0xa0         atom         bond     9  1052
+   51  0xa0         atom         bond     7  1053
+   52  0xa0         atom         bond     2  1053
+   53  0xa0         atom         bond     2  1054
+   54  0xa0         atom         bond     6  1054
+   55  0xa0         atom         bond     6  1055
+   56  0xa0         atom         bond     7  1055
+property_flags:
